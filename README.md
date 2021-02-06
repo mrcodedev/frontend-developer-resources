@@ -496,11 +496,115 @@ Repaso de JavaScript visto desde un alto nivel, así podrás tener una idea ráp
 
 ---
 
+#### 👉🎲 **Fundamentos de JavaScript**
+
+JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+---
+
 #### 👉🎲 **Primer contacto con JavaScript**
 
 Después de la teoría viene la práctica, vamos a empezar a escribir código.
 
 🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
+
+---
+
+#### 👉🎲 **¿Qué ha salido mal?**
+
+Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha sucedido? y ¿qué podemos hacer para que funcione?.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_went_wrong
+
+---
+
+#### 👉🎲 **Las variables en JS**
+
+Vamos a descubrir las variables en JavaScript y que tipos hay.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables
+
+---
+
+#### 👉🎲 **Operaciones y operadores en JS**
+
+Ahora es el momento de dar operaciones con números y operadores.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math
+
+---
+
+#### 👉🎲 **Cadenas en JS**
+
+Vamos a jugar con cadenas y ver como podemos concatenar todo tipo de variables.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Strings
+
+---
+
+#### 👉🎲 **Métodos para cadenas en JS**
+
+Ya sabemos concatenar cadenas, pues en el siguiente artículo, vamos a utilizar métodos para manipular cadenas.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Useful_string_methods
+
+---
+
+#### 👉🎲 **Arrays en JS**
+
+Proseguimos ahora con los arrays, qué es una cosa con la que vamos a tener que estar muy familarizados y saber usar bien sus métodos.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays
+
+---
+
+#### 👉🎲 **Generador de historias absurdas**
+
+Con todo lo aprendido anteriormente, vamos a relizar un generador de historias absurdas.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
+
+---
+
+#### 👉🎲 **Condicionales en JS**
+
+Vamos a ver ya estructuras de código más complejo, ahora le toca el turno a los condicionales.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals
+
+---
+
+#### 👉🎲 **Bucles en JS**
+
+Una vez visto los condicionales, ahora vamos a ver los bucles, ¡debemos de no caer en un bucle infinito!.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Bucle_codigo
+
+---
+
+#### 👉🎲 **Funciones y métodos en JS**
+
+Para que tú código pueda ser reusable se utilizan funciones o métodos, en este artículo veremos como se utilizan.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Functions
+
+---
+
+#### 👉🎲 **Creando nuestra propia función en JS**
+
+Hemos visto como se hacen funciones o métodos, ¿por qué no creamos ahora uno nosotres mismes?.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Construyendo_tu_propia_funcion
+
+---
+
+#### 👉🎲 **Función que devuelve valores en JS**
+
+Ya tenemos una función creada, pero ahora podemos llevarlo a un siguiente nivel, ¿qué te parece si nuestra función nos retorna algo?.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Return_values
 
 ---
 
