@@ -248,7 +248,7 @@ Curso donde con prácticas, podrás aprender HTML y HTML5.
 
 ---
 
-#### 👉🎲 **Tutorial de cómo construir una página web**
+#### 👉🎲 🎥 **Tutorial de cómo construir una página web**
 
 Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para principiantes.
 
@@ -320,6 +320,38 @@ Después de ver un poco por encima el lenguaje CSS, ponemos en práctica lo apre
 
 ---
 
+#### 👉🎲 **CSS Media queries**
+
+Actualmente tenemos muchos dispositivos y con diferentes tamaños, ¿has pensado alguna vez como adaptar el diseño de nuestra web en todos ellos?.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/CSS/Media_queries
+
+---
+
+#### 👉🎲 **Tipos de medios media queries**
+
+Tipos de medios para especificar las media queries
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/@media
+
+---
+
+#### 👉🎲 **Cómo usar media queries en nuestro código**
+
+En CSS sabemos como utilizar media queries, pero ¿y en nuestro código JS?.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Web/Guide/CSS/probando_media_queries
+
+---
+
+#### 👉🎲 **Estándar de dispositivos para media queries**
+
+Listado de los tamaños de dispositivos que podemos tener como referencia para realizar media queries.
+
+🔗 **URL**: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+---
+
 #### 👉🎲 **CSS básico práctico**
 
 Curso donde podremos aprender sobre CSS básico y de forma 100% práctica.
@@ -366,6 +398,54 @@ Apuntes de CSS realizados por Majo Ledesma, que son muy buenos y tienen un estil
 
 🔗 **URL**: https://losapuntesdemajo.now.sh/
 
+---
+
+#### 👉🎲 **Evita utilizar media queries**
+
+Artículo muy interesante donde se plantean utilizar lo mínimo las media queries
+
+🔗 **URL**: https://goiblas.com/evitar-utilizar-css-media-queries/
+
+---
+
+#### 👉🎲 🎥 **Taller CSS Grid Layout**
+
+Taller impartido por Diana Aceves, una referente en nuestro sector, que nos enseña como usar CSS Grid Layout
+
+🔗 **URL**: https://youtu.be/AxVXpS6PyRE
+
+---
+
+#### 👉🎲 🎥 **Rock N'Grid**
+
+Otro taller impartido por Diana Aceves, que recrea ilustraciones usando CSS Grid Layout
+
+🔗 **URL**: https://youtu.be/p7oXrr9yjXY
+
+---
+
+#### 👉🎲 🎥 **Taller Flexbox**
+
+Otro taller impartido por Diana Aceves, que nos introduce al uso de Flexbox.
+
+🔗 **URL**: https://youtu.be/job5SOuS7Ko
+
+---
+
+#### 👉🎲 🎥 **Guía de Flexbox**
+
+Guía de todas las propiedades que tiene flexbox, por si en algún momento no te acuerdas que hacía cada una, lo puedes visualizar en un momento
+
+🔗 **URL**: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+---
+
+#### 👉🎲 🎥 **Guía de CSS Grid**
+
+Guía de todas las propiedades que tiene CSS Grid, por si en algún momento no te acuerdas que hacía cada una, lo puedes visualizar en un momento
+
+🔗 **URL**: https://css-tricks.com/snippets/css/complete-guide-grid/
+
 <br>
 
 ---
@@ -400,7 +480,21 @@ Mucha gente puede confundir estos dos términos, pero son dos lenguajes totalmen
 
 ---
 
-https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
+#### 👉🎲 **Primeros pasos con JavaScript**
+
+Repaso de JavaScript visto desde un alto nivel, así podrás tener una idea rápida del lenguaje.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
+
+---
+
+#### 👉🎲 **Primer contacto con JavaScript**
+
+Después de la teoría viene la práctica, vamos a empezar a escribir código.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
+
+---
 
 #### 👉🎲 **Apuntes JavaScript básico**
 
@@ -670,8 +764,16 @@ Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y 
 
 <br>
 
+---
+
 ## 📚 MINIBOOTCAMPS
 
-### 🛹 **PRÁCTICAS**
+---
+
+<br>
+
+---
 
 ## 🤔 SITIOS DE INTERÉS
+
+---
