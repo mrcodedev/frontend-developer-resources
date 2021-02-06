@@ -144,6 +144,14 @@ Hay un consorcio que se preocupa que todo lo que hacemos tenga un estándard.
 
 🔗 **URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
 
+---
+
+#### 👉❓ **¿Qué es HTML5?**
+
+Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explican.
+
+🔗 **URL**: https://www.wikiwand.com/es/HTML5
+
 <br>
 
 ---
@@ -152,9 +160,17 @@ Hay un consorcio que se preocupa que todo lo que hacemos tenga un estándard.
 
 ---
 
+#### 👉🎲 **Empezando con la web**
+
+Nuestros primeros para prepararnos para como realizar páginas en HTML.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+---
+
 #### 👉🎲 **Empezando con las bases del HTML**
 
-Breve introducción al HTML
+Breve introducción al HTML.
 
 🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
@@ -200,11 +216,43 @@ Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiqu
 
 ---
 
-#### 👉🎲 **La estructura básica de un documento HTML**
+#### 👉🎲 **Debuggear un documento HTML**
 
 Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas podemos utilizar. Ahora es el momento de saber debuggear nuestro código HTML.
 
 🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
+
+---
+
+#### 👉🎲 **Estructurar una página de contenido HTML**
+
+En que estructuras podemos dividir una página.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+
+---
+
+#### 👉🎲 **Formulario en HTML5**
+
+Una de las tareas más rutinarias serán realizar formularios.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/HTML/HTML5/Forms_in_HTML5
+
+---
+
+#### 👉🎲 **Introducción a HTML básico y HTML5**
+
+Curso donde con prácticas, podrás aprender HTML y HTML5.
+
+🔗 **URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+
+---
+
+#### 👉🎲 **Tutorial de cómo construir una página web**
+
+Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para principiantes.
+
+🔗 **URL**: https://www.youtube.com/watch?v=pQN-pnXPaVg
 
 <br>
 
