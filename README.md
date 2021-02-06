@@ -272,17 +272,13 @@ Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
 🔗 **URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
 
----
+## <br>
 
-#### 👉❓ **¿Qué es CSS y CSS3?**
-
-Definición de que es CSS y ver que estamos actualmente en la versión 3.
-
-🔗 **URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
+### 🛹 **PRÁCTICAS**
 
 ---
 
-#### 👉❓ **Introducción a CSS**
+#### 👉🎲 **Introducción a CSS**
 
 Vamos a empezar a dar nuestros primeros pasos en CSS.
 
@@ -290,17 +286,7 @@ Vamos a empezar a dar nuestros primeros pasos en CSS.
 
 ---
 
-https://developer.mozilla.org/es/docs/Learn/CSS
-
-<br>
-
----
-
-### 🛹 **PRÁCTICAS**
-
----
-
-#### 🐸 **Flexfrog (Flexbox)**
+#### 👉🎲 🐸 **Flexfrog (Flexbox)**
 
 Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
 
