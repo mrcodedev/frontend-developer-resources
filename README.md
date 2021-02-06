@@ -352,6 +352,14 @@ Listado de los tamaños de dispositivos que podemos tener como referencia para r
 
 ---
 
+#### 👉🎲 **Unidades en CSS**
+
+Tenemos distintas unidades de medida en CSS, en este artículo te lo explica con ejemplos, con los cuales puedes prácticar tú también.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Valores_y_unidades_CSS
+
+---
+
 #### 👉🎲 **CSS básico práctico**
 
 Curso donde podremos aprender sobre CSS básico y de forma 100% práctica.
