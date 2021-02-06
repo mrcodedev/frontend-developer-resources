@@ -350,6 +350,22 @@ Con CSS Diner aprenderemos a utilizar los selectores de CSS a través de un mini
 
 🔗 **URL**: https://flukeout.github.io/
 
+---
+
+#### 👉🎲 **Creación de animaciones en CSS**
+
+En CSS podemos hacer muchas cosas, hasta podemos realizar animaciones, aquí tienes un recurso para poder realizar animaciones con textos, imágenes, etc.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Usando_animaciones_CSS
+
+---
+
+#### 👉🎲 **Apuntes CSS básico/intermedio**
+
+Apuntes de CSS realizados por Majo Ledesma, que son muy buenos y tienen un estilo único.
+
+🔗 **URL**: https://losapuntesdemajo.now.sh/
+
 <br>
 
 ---
