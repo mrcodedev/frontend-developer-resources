@@ -10,6 +10,11 @@ Está dividido en distintos apartados, y si encuentras cualquier recurso que ves
 
 ## CSS
 
+### Flexfrog
+
+Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
+https://flexboxfroggy.com/
+
 ## JAVASCRIPT
 
 ## CONTROL DE VERSIONES
@@ -33,3 +38,7 @@ Está dividido en distintos apartados, y si encuentras cualquier recurso que ves
 ## PROGESSIVE WEB APPS (PWA)
 
 ## CREACIÓN APLICACIONES DE ESCRITORIO
+
+## CREACIÓN APLICACIONES PARA MÓVILES
+
+## GENERADOR DE PÁGINAS ESTÁTICAS
