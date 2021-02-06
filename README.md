@@ -166,6 +166,46 @@ Es un elemento que no vemos en las páginas web pero es muy importante que las t
 
 🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
 
+---
+
+#### 👉🎲 **Texto en HTML**
+
+Fundamentos para introducir texto en HTML.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
+
+---
+
+#### 👉🎲 **Hipervínculos en HTML**
+
+Cómo introducir enlaces dentro de HTML y seguir los estándares.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+
+---
+
+#### 👉🎲 **Texto avanzado en HTML**
+
+En un capítulo anterior hemos visto como introducir texto, pero ahora de una manera más avanzada.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
+
+---
+
+#### 👉🎲 **La estructura básica de un documento HTML**
+
+Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiquetas para las estructuras de nuestro sitio web.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+
+---
+
+#### 👉🎲 **La estructura básica de un documento HTML**
+
+Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas podemos utilizar. Ahora es el momento de saber debuggear nuestro código HTML.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
+
 <br>
 
 ---
