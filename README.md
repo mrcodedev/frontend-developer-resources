@@ -10,9 +10,10 @@ Está dividido en distintos apartados, y si encuentras cualquier recurso que ves
 
 ## CSS
 
-### Flexfrog
+### Flexfrog (Flexbox)
 
 ![Flexflog Flexbox](screenshots/flexfrog.jpg)
+
 Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
 https://flexboxfroggy.com/
 
