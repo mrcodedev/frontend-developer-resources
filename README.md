@@ -26,6 +26,14 @@ Artículo interesante donde nos cuenta la verdadera historia que hay detrás del
 
 ---
 
+### 👉 ¿Qué es HTTP?
+
+Se dice mucho la palabra HTTP pero, ¿realmente qué quiere decir?.
+
+🔗 **URL**: https://www.wikiwand.com/es/Protocolo_de_transferencia_de_hipertexto
+
+---
+
 ### 👉 Códigos de estado HTTP
 
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
@@ -33,6 +41,54 @@ Los códigos de estado de respuesta HTTP indican si se ha completado satisfactor
 🔗 **URL**: https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP
 
 🔗 **URL**: https://developer.mozilla.org/es/docs/Web/HTTP/Status
+
+---
+
+### 👉 Cómo funcionan los navegadores
+
+Cómo funcionan los navegadores: lo que hay detrás de los navegadores web actuales
+
+🔗 **URL**: https://www.html5rocks.com/es/tutorials/internals/howbrowserswork/
+
+---
+
+### 👉 ¿Qué son las DNS?
+
+Tenemos normalizado los nombres de dominio, pero no realmente lo que es una DNS, aquí vemos una explicación.
+
+🔗 **URL**: http://wikiwand.com/es/Sistema_de_nombres_de_dominio
+
+---
+
+### 👉 ¿Qué es una dirección IP?
+
+Hablamos de IPs siempre, pero si queremos saber realmente como se conforman, tenemos este artículo de la Wikipedia donde se explica muy bien.
+
+🔗 **URL**: https://www.wikiwand.com/es/Direcci%C3%B3n_IP
+
+---
+
+### 👉 ¿Qué es un hosting?
+
+Realmente cuando tenemos una app o una web necesitamos alojarlo en un lugar, aquí interviene el hosting.
+
+🔗 **URL**: https://www.wikiwand.com/es/Alojamiento_web
+
+---
+
+### 👉 ¿Qué es Cloud?
+
+Qué es este paradigma que está de moda.
+
+🔗 **URL**: https://www.wikiwand.com/es/Computaci%C3%B3n_en_la_nube
+
+---
+
+### 👉 ¿Qué es una API?
+
+Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos que saber realmente lo que son.
+
+🔗 **URL**: https://www.wrike.com/es/blog/que-es-una-api-necesitas-saber/
 
 ## 📕 HTML
 
