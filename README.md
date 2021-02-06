@@ -376,85 +376,299 @@ Apuntes de CSS realizados por Majo Ledesma, que son muy buenos y tienen un estil
 
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+#### 👉❓ **Qué es JavaScript y un poco de historia**
+
+Empezamos a introducirnos con JavaScript sabiendo que es y como fueron sus inicios.
+
+🔗 **URL**: https://www.wikiwand.com/es/JavaScript
+
+---
+
+#### 👉❓ **¿Es lo mismo JAVA que JavaScript?**
+
+Mucha gente puede confundir estos dos términos, pero son dos lenguajes totalmente diferentes.
+
+🔗 **URL**: https://desarrolloweb.com/articulos/492.php
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
+
+#### 👉🎲 **Apuntes JavaScript básico**
+
+Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y tienen un estilo único.
+
+🔗 **URL**: https://losapuntesdemajo.now.sh/
+
+<br>
+
+---
 
 ## 🛂 CONTROL DE VERSIONES
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🔒 SEGURIDAD
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 📦 ADMINISTRADOR DE PAQUETES
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🏛 ARQUITECTURAS CSS
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🤖 PREPOCESADORES CSS
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🛠 BUILD TOOLS
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🧰 FRAMEWORKS JAVASCRIPT
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🖼 FRAMEWORKS CSS
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## ✅ TESTING
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 📱 PROGESSIVE WEB APPS (PWA)
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## 📲 CREACIÓN APLICACIONES PARA MÓVILES
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
+
+---
 
 ## ♺ GENERADOR DE PÁGINAS ESTÁTICAS
 
+---
+
 ### 🧠 **CONOCIMIENTO**
 
+---
+
+<br>
+
+---
+
 ### 🛹 **PRÁCTICAS**
+
+---
+
+<br>
 
 ## 📚 MINIBOOTCAMPS
 
