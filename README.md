@@ -12,7 +12,9 @@ Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a
 
 ## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
-### 👉 ¿Qué es Internet y cómo nació?
+### 🧠 **CONOCIMIENTO**
+
+#### 👉❓ ¿Qué es Internet y cómo nació?
 
 El origen de Internet, cómo nació y su funcionamiento.
 
@@ -20,7 +22,7 @@ El origen de Internet, cómo nació y su funcionamiento.
 
 ---
 
-### 👉 El verdadero origen de Internet
+#### 👉❓ El verdadero origen de Internet
 
 Artículo interesante donde nos cuenta la verdadera historia que hay detrás del nacimiento de Internet.
 
@@ -28,7 +30,7 @@ Artículo interesante donde nos cuenta la verdadera historia que hay detrás del
 
 ---
 
-### 👉 ¿Qué es HTTP?
+#### 👉❓ ¿Qué es HTTP?
 
 Se dice mucho la palabra HTTP pero, ¿realmente qué quiere decir?.
 
@@ -36,7 +38,7 @@ Se dice mucho la palabra HTTP pero, ¿realmente qué quiere decir?.
 
 ---
 
-### 👉 Códigos de estado HTTP
+#### 👉❓ Códigos de estado HTTP
 
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
 
@@ -46,7 +48,7 @@ Los códigos de estado de respuesta HTTP indican si se ha completado satisfactor
 
 ---
 
-### 👉 Cómo funcionan los navegadores
+#### 👉❓ Cómo funcionan los navegadores
 
 Cómo funcionan los navegadores: lo que hay detrás de los navegadores web actuales
 
@@ -54,7 +56,7 @@ Cómo funcionan los navegadores: lo que hay detrás de los navegadores web actua
 
 ---
 
-### 👉 ¿Qué son las DNS?
+#### 👉❓ ¿Qué son las DNS?
 
 Tenemos normalizado los nombres de dominio, pero no realmente lo que es una DNS, aquí vemos una explicación.
 
@@ -62,7 +64,7 @@ Tenemos normalizado los nombres de dominio, pero no realmente lo que es una DNS,
 
 ---
 
-### 👉 ¿Qué es una dirección IP?
+#### 👉❓ ¿Qué es una dirección IP?
 
 Hablamos de IPs siempre, pero si queremos saber realmente como se conforman, tenemos este artículo de la Wikipedia donde se explica muy bien.
 
@@ -70,7 +72,7 @@ Hablamos de IPs siempre, pero si queremos saber realmente como se conforman, ten
 
 ---
 
-### 👉 ¿Qué es un hosting?
+#### 👉❓ ¿Qué es un hosting?
 
 Realmente cuando tenemos una app o una web necesitamos alojarlo en un lugar, aquí interviene el hosting.
 
@@ -78,7 +80,7 @@ Realmente cuando tenemos una app o una web necesitamos alojarlo en un lugar, aqu
 
 ---
 
-### 👉 ¿Qué es Cloud?
+#### 👉❓ ¿Qué es Cloud?
 
 Qué es este paradigma que está de moda.
 
@@ -86,7 +88,7 @@ Qué es este paradigma que está de moda.
 
 ---
 
-### 👉 ¿Qué es una API?
+#### 👉❓ ¿Qué es una API?
 
 Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos que saber realmente lo que son.
 
@@ -94,7 +96,7 @@ Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos q
 
 ---
 
-### 👉 ¿Qué es un IDE?
+#### 👉❓ ¿Qué es un IDE?
 
 Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escuchas esta palabra y te suena a chino, aquí tienes una breve explicación de lo que realmente es un IDE.
 
@@ -102,9 +104,43 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 ## 📕 HTML
 
+### 🧠 **CONOCIMIENTO**
+
+#### 👉❓ ¿Qué es HTML?
+
+Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Web/HTML
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+---
+
+#### 👉❓ ¿Qué es el DOM?
+
+Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
+
+🔗 **URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
+
+---
+
+#### 👉❓ ¿Qué es la W3C y a qué se dedica?
+
+Hay un consorcio que estandariza todo .
+
+🔗 **URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
+
+---
+
+### 🛹 **PRÁCTICAS**
+
 ## 📘 CSS
 
-### 🐸 Flexfrog (Flexbox)
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
+#### 🐸 Flexfrog (Flexbox)
 
 Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
 
@@ -112,32 +148,96 @@ Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo có
 
 ## 📒 JAVASCRIPT
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## 🛂 CONTROL DE VERSIONES
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 🔒 SEGURIDAD
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## 📦 ADMINISTRADOR DE PAQUETES
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 🏛 ARQUITECTURAS CSS
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## 🤖 PREPOCESADORES CSS
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 🛠 BUILD TOOLS
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## 🧰 FRAMEWORKS JAVASCRIPT
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 🖼 FRAMEWORKS CSS
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## ✅ TESTING
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 📱 PROGESSIVE WEB APPS (PWA)
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 📲 CREACIÓN APLICACIONES PARA MÓVILES
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## ♺ GENERADOR DE PÁGINAS ESTÁTICAS
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
 
 ## 📚 MINIBOOTCAMPS
 
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
+
 ## 🤔 SITIOS DE INTERÉS
+
+### 🧠 **CONOCIMIENTO**
+
+### 🛹 **PRÁCTICAS**
