@@ -10,7 +10,7 @@ Los recursos que puedas encontrar aquí, estarán en inglés y en español.
 
 ## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
-### ¿Qué es Internet y cómo nació?
+### 👉 ¿Qué es Internet y cómo nació?
 
 El origen de Internet, cómo nació y su funcionamiento.
 
@@ -18,7 +18,7 @@ El origen de Internet, cómo nació y su funcionamiento.
 
 ---
 
-👉 El verdadero origen de Internet.
+### 👉 El verdadero origen de Internet
 
 🔗 **URL**: https://www.microsiervos.com/archivo/internet/el-verdadero-origen-de-internet.html
 
