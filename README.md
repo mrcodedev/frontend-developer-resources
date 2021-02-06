@@ -24,6 +24,16 @@ Artículo interesante donde nos cuenta la verdadera historia que hay detrás del
 
 🔗 **URL**: https://www.microsiervos.com/archivo/internet/el-verdadero-origen-de-internet.html
 
+---
+
+### 👉 Códigos de estado HTTP
+
+Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
+
+🔗 **URL**: https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Web/HTTP/Status
+
 ## 📕 HTML
 
 ## 📘 CSS
