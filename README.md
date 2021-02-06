@@ -172,7 +172,7 @@ Nuestros primeros para prepararnos para como realizar páginas en HTML.
 
 Breve introducción al HTML.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/iniciar
 
 ---
 
@@ -180,7 +180,7 @@ Breve introducción al HTML.
 
 Es un elemento que no vemos en las páginas web pero es muy importante que las tengamos en cuenta.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Metados_en
 
 ---
 
@@ -188,7 +188,7 @@ Es un elemento que no vemos en las páginas web pero es muy importante que las t
 
 Fundamentos para introducir texto en HTML.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/texto
 
 ---
 
@@ -196,7 +196,7 @@ Fundamentos para introducir texto en HTML.
 
 Cómo introducir enlaces dentro de HTML y seguir los estándares.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Creating_hyperlinks
 
 ---
 
@@ -204,15 +204,15 @@ Cómo introducir enlaces dentro de HTML y seguir los estándares.
 
 En un capítulo anterior hemos visto como introducir texto, pero ahora de una manera más avanzada.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Advanced_text_formatting
 
 ---
 
-#### 👉🎲 **La estructura básica de un documento HTML**
+#### 👉🎲 **Estructura básica de un documento HTML**
 
 Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiquetas para las estructuras de nuestro sitio web.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/estructura
 
 ---
 
@@ -220,7 +220,7 @@ Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiqu
 
 Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas podemos utilizar. Ahora es el momento de saber debuggear nuestro código HTML.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Debugging_HTML
 
 ---
 
@@ -228,7 +228,7 @@ Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas pode
 
 En que estructuras podemos dividir una página.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Estructuraci%C3%B3n_de_una_p%C3%A1gina_de_contenido
 
 ---
 
@@ -265,6 +265,32 @@ Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para prin
 ### 🧠 **CONOCIMIENTO**
 
 ---
+
+#### 👉❓ **¿Qué es CSS y CSS3?**
+
+Definición de que es CSS y ver que estamos actualmente en la versión 3.
+
+🔗 **URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
+
+---
+
+#### 👉❓ **¿Qué es CSS y CSS3?**
+
+Definición de que es CSS y ver que estamos actualmente en la versión 3.
+
+🔗 **URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
+
+---
+
+#### 👉❓ **Introducción a CSS**
+
+Vamos a empezar a dar nuestros primeros pasos en CSS.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS
+
+---
+
+https://developer.mozilla.org/es/docs/Learn/CSS
 
 <br>
 
