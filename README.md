@@ -90,6 +90,14 @@ Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos q
 
 🔗 **URL**: https://www.wrike.com/es/blog/que-es-una-api-necesitas-saber/
 
+---
+
+### 👉 ¿Qué es un IDE?
+
+Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escuchas esta palabra y te suena a chino, aquí tienes una breve explicación de lo que realmente es un IDE.
+
+🔗 **URL**: https://platzi.com/blog/que-son-los-ides-y-los-editores-de-texto/
+
 ## 📕 HTML
 
 ## 📘 CSS
