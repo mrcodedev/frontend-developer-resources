@@ -272,9 +272,19 @@ Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
 🔗 **URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
 
-## <br>
+<br>
+
+---
 
 ### 🛹 **PRÁCTICAS**
+
+---
+
+#### 👉🎲 **¿Qué es CSS?**
+
+Nos resuelve la pregunta que es CSS y que réquisitos necesitamos para aprenderlo (principalmente saber HTML).
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Qu%C3%A9_es_CSS
 
 ---
 
@@ -286,13 +296,67 @@ Vamos a empezar a dar nuestros primeros pasos en CSS.
 
 ---
 
+#### 👉🎲 **Cómo se estructura el CSS**
+
+Profundizamos un poco más en la estructura del lenguaje.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_se_estructura_CSS
+
+---
+
+#### 👉🎲 **Cómo funciona CSS**
+
+Sabemos ya como funciona el lenguaje, ahora falta saber como lo utiliza el navegador.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_funciona_CSS
+
+---
+
+#### 👉🎲 **A poner en práctica todo lo aprendido**
+
+Después de ver un poco por encima el lenguaje CSS, ponemos en práctica lo aprendido.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimiento
+
+---
+
+#### 👉🎲 **CSS básico práctico**
+
+Curso donde podremos aprender sobre CSS básico y de forma 100% práctica.
+
+🔗 **URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+
+---
+
 #### 👉🎲 🐸 **Flexfrog (Flexbox)**
 
 Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
 
 🔗 **URL**: https://flexboxfroggy.com/
 
+---
+
+#### 👉🎲 🪴 **Grid Garden (CSS Grid)**
+
+Grid Garden, aprenderás CSS Grid cultivando tu jardín de zanahorias. El objetivo de esta página es que aprendas a utilizar CSS Grid.
+
+🔗 **URL**: https://cssgridgarden.com/#es
+
+---
+
+#### 👉🎲 🍽 **CSS Diner**
+
+Con CSS Diner aprenderemos a utilizar los selectores de CSS a través de un minijuego.
+
+🔗 **URL**: https://flukeout.github.io/
+
+<br>
+
+---
+
 ## 📒 JAVASCRIPT
+
+---
 
 ### 🧠 **CONOCIMIENTO**
 
