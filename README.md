@@ -15,7 +15,8 @@ Está dividido en distintos apartados, y si encuentras cualquier recurso que ves
 ![Flexflog Flexbox](screenshots/flexfrog.jpg)
 
 Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
-https://flexboxfroggy.com/
+
+URL: https://flexboxfroggy.com/
 
 ## JAVASCRIPT
 
@@ -44,3 +45,7 @@ https://flexboxfroggy.com/
 ## CREACIÓN APLICACIONES PARA MÓVILES
 
 ## GENERADOR DE PÁGINAS ESTÁTICAS
+
+## MINIBOOTCAMPS
+
+## SITIOS DE INTERÉS
