@@ -10,7 +10,7 @@ Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si t
 
 Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
 
-| Emoji | ¿Qué significa                           |
+| Emoji | ¿Qué significa?                          |
 | ----- | ---------------------------------------- |
 | ❓    | Conocimientos que debemos de saber antes |
 | 🖊     | Contenido que es un artículo             |
