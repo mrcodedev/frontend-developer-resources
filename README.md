@@ -2,11 +2,11 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontends Developers.
 
-Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún problema. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps.
+Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
 Está dividido en distintos apartados, y si encuentras un recurso que no está aquí, y lo ves interesante, siempre puedes hacer una Merge Request para seguir ampliando el catálogo de recursos.
 
-Los recursos que puedas encontrar aquí, estarán en inglés y en español.
+Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si tienes problemas con el idioma de Shakespeare, siempre puedes traducir la página (Google Chrome tiene uno por defecto). Es muy importante que empieces a leer documentación en inglés y puedas entenderla, es algo muy habitual en nuestro día a día. Además si buscas algún error o cualquier cosa, la mejor práctica es siempre buscar lo que sea en inglés, siempre encontraremos más respuestas.
 
 Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
 
@@ -605,6 +605,96 @@ Hemos visto como se hacen funciones o métodos, ¿por qué no creamos ahora uno 
 Ya tenemos una función creada, pero ahora podemos llevarlo a un siguiente nivel, ¿qué te parece si nuestra función nos retorna algo?.
 
 🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Return_values
+
+---
+
+#### 👉🎲 **Eventos en JS**
+
+Los eventos son una cosa que vamos a estar usando siempre, y tenemos que saber usarlos junto controlarlos.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Eventos
+
+---
+
+#### 👉🎲 **Crear nuestra galería de imágenes en JS**
+
+Para finalizar crearemos una galería de imágenes funcional.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Galeria_de_imagenes
+
+---
+
+#### 👉🎲 **Empezando a trabajar con objetos en JS**
+
+Nos falta ver una última estructura que vamos a utilizar muchísimo junto a los arrays, y son los objetos.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics
+
+---
+
+#### 👉🎲 **Programación Orientada a Objetos en JS**
+
+La programación orientada a objetos (POO ó OOP) en JavaScript es un poco peculiar, vamos a ver como JavaScript emula las Clases y cómo podemos utilizarlas.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+---
+
+#### 👉🎲 **Prototipos de objetos en JS**
+
+Esto puede ser un tema muy denso, pero si lo entiendes y lo controlas, tienes todo el poder en tus manos.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object_prototypes
+
+---
+
+#### 👉🎲 **Herencia en JS**
+
+Después de los prototipos vamos a ver lo que es una herencia y como utilizarla a nuestro favor.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Inheritance
+
+---
+
+#### 👉🎲 **Trabajando con JSON en JS**
+
+Esto no significa que tengas un compañero llamado JSON, es una estructura de datos que utilizamos con frecuencia. En este artículo vas a ver qué es y como usarlo.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON
+
+---
+
+#### 👉🎲 **Conceptos de la asincronía en JS**
+
+Junto todo lo anterior, ahora vamos a ver la asincronía, algo muy importante a la hora de poder consumir APIs u otros recursos asíncronos. Deberemos de dominar muy bien la asincronía.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Asynchronous/Concepts
+
+---
+
+#### 👉🎲 **Introducción a la asincronía en JS**
+
+Una vez tenemos el concepto de asincronía en nuestra cabeza, vamos a ver casos prácticos.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+
+---
+
+#### 👉🎲 **Timeouts e intervalos en JS**
+
+Vamos a ver en detalle los timeouts y los intervalos junto a su uso.
+
+🔗 **URL**:
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
+
+---
+
+#### 👉🎲 **Promesas en JS**
+
+Todo código asíncrono devuelve una promesa, así que es el momento de ver que es una promesa.
+
+🔗 **URL**:
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
 
 ---
 
