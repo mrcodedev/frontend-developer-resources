@@ -1168,6 +1168,14 @@ Artículo que habla un poco sobre la seguridad web y que cosas debes de no reali
 
 🔗 **URL**: https://www.purocodigo.net/articulo/recomendaciones-de-seguridad-para-aplicaciones-front-end
 
+---
+
+#### 👉🖊 **.htaccess**
+
+Nunca sabemos si vamos a tener que añadir un `.htaccess` a nuestra web, pero es bueno tener el conocimiento de qué es, y que podemos hacer.
+
+🔗 **URL**: https://carrero.es/htaccess-tutorial/
+
 <br>
 
 ---
@@ -1179,6 +1187,28 @@ Artículo que habla un poco sobre la seguridad web y que cosas debes de no reali
 ### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
+
+#### 👉❓ **¿Qué es un administrador de paquetes?**
+
+Si no sabes lo que es un administrador de paquetes (o sistema de gestión de paquetes), primero tendrás que leerte este artículo.
+
+🔗 **URL**: https://www.wikiwand.com/es/Sistema_de_gesti%C3%B3n_de_paquetes
+
+---
+
+#### 👉❓ **¿Qué es NPM?**
+
+Ya sabemos que es un administrador de paquetes, ahora vamos hablar de NPM que es uno de ellos.
+
+🔗 **URL**: https://www.wikiwand.com/es/Npm
+
+---
+
+#### 👉❓ **¿Qué es Yarn?**
+
+Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablaremos de yarn.
+
+🔗 **URL**: https://www.wikiwand.com/es/Yarn_(Facebook)
 
 <br>
 
