@@ -1010,6 +1010,14 @@ Este libro te enseñará los conceptos básicos de programación y Javascript. T
 
 ---
 
+#### 👉🎲 **No sabes JavaScript**
+
+Esta es una serie de libros que profundizan en los mecanismos centrales del lenguaje JavaScript. La primera edición de la serie ya está completa. Además, estos libros de la primera edición ahora están agotados y ya no se pueden comprar. Solo se pueden leer gratis en línea aquí.
+
+🔗 **URL**: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
+
+---
+
 #### 👉🎲 **Listado de métodos y muchas cosas más de JS**
 
 Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicios.
