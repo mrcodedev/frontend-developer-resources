@@ -258,9 +258,17 @@ Como adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
 
 #### 👉🎲 **Introducción a HTML básico y HTML5**
 
-Curso donde con ¡¡¡A ESTUDIAR TOCA!!!, podrás aprender HTML y HTML5.
+Curso donde vas a aprender a básica de práctica, podrás está enfocado en HTML y HTML5.
 
 🔗 **URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+
+---
+
+#### 👉🎲 **Tutorial HTML de W3Schools**
+
+HTML es el lenguaje de marcado estándar para páginas web. Con HTML puede crear su propio sitio web. HTML es fácil de aprender y podrás hacer tutoriales prácticos para ir practicando.
+
+🔗 **URL**: https://www.w3schools.com/html/html_intro.asp
 
 ---
 
@@ -429,6 +437,14 @@ Con CSS Diner aprenderemos a utilizar los selectores de CSS a través de un mini
 En CSS podemos hacer muchas cosas, hasta podemos realizar animaciones, aquí tienes un recurso para poder realizar animaciones con textos, imágenes, etc.
 
 🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Usando_animaciones_CSS
+
+---
+
+#### 👉🎲 **Tutorial CSS de W3Schools**
+
+CSS es el lenguaje que usamos para diseñar un documento HTML. CSS describe cómo se deben mostrar los elementos HTML. Este tutorial te enseñará CSS de básico a avanzado.
+
+🔗 **URL**: https://www.w3schools.com/css/css_intro.asp
 
 ---
 
@@ -744,6 +760,14 @@ Junto todo lo anterior, ahora vamos a ver la asincronía, algo muy importante a 
 
 ---
 
+#### 👉🎲 **Dominio de JS asíncrono**
+
+Esta es una hoja de referencia que contiene un resumen del curso de Dominio de JavaScript asíncrono en Frontend Armory. Tenemos como podemos realizar promesas de manera correcta.
+
+🔗 **URL**: https://github.com/frontarm/async-javascript-cheatsheet
+
+---
+
 #### 👉🎲 **Introducción a la asincronía en JS**
 
 Una vez tenemos el concepto de asincronía en nuestra cabeza, vamos a ver casos prácticos.
@@ -773,14 +797,6 @@ Todo código asíncrono devuelve una promesa, así que es el momento de ver que 
 Gracias a esta introducción en la ES7, podemos utilizar nuestro código asíncrono de una manera más fácil.
 
 🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
-
----
-
-#### 👉🎲 **Elegir el enfoque correcto de la asincronía en JS**
-
-No todo va a ser coser y cantar, a veces tenemos que ver la compatibilidad con otros navegadores.
-
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach
 
 ---
 
@@ -874,11 +890,83 @@ Los formularios HTML pueden enviar una solicitud HTTP de forma declarativa. Pero
 
 ---
 
+#### 👉🎲 **JavaScript Moderno**
+
+Curso que contiene 2 partes que cubren JavaScript como lenguaje de programación y el trabajo con un navegador. También hay series adicionales de artículos temáticos muy interesantes.
+
+🔗 **URL**: https://javascript.info/
+
+---
+
+#### 👉🎲 **JavaScript Inspírate**
+
+Libro de Ulises Gascón, es un libro de programación sencillo y divertido que nos muestra como programar en JavaScript desde cero.
+
+🔗 **URL**: https://github.com/UlisesGascon/javascript-inspirate
+
+---
+
+#### 👉🎲 **JavaScript Elocuente**
+
+Este es un libro sobre JavaScript, programación y las maravillas de lo digital. Puedes leerlo en línea de forma totalmente gratuita o obtener una copia de bolsillo.
+
+🔗 **URL**: https://eloquentjavascript.net/
+
+---
+
+#### 👉🎲 **Tutorial JavaScript W3Schools**
+
+JavaScript es el lenguaje de programación más popular del mundo. JavaScript es el lenguaje de programación de la Web. JavaScript es fácil de aprender. Este tutorial te enseñará JavaScript de básico a avanzado.
+
+🔗 **URL**: https://www.w3schools.com/js/js_intro.asp
+
+---
+
+#### 👉🎲 **ES6 para humanos**
+
+Repaso a las funcionalidades añadidas en ES6 como: let, const, arrow functions, etc.
+
+🔗 **URL**: https://github.com/metagrover/ES6-for-humans/tree/spanish-version
+
+---
+
+#### 👉🎲 **33 Conceptos que todo desarrollador de JavaScript debería saber**
+
+Este repositorio fue creado con la intención de ayudar a los desarrolladores a dominar sus conceptos en JavaScript. No es un requisito, sino una guía para futuros estudios. Está basado en un artículo escrito por Stephen Curtis y puedes leerlo aquí.
+
+🔗 **URL**: https://github.com/adonismendozaperez/33-js-conceptos
+
+---
+
+#### 👉🎲 **JavaScript moderno**
+
+Este documento es una hoja de trucos para JavaScript que encontrarás con frecuencia en proyectos modernos y en la mayoría de los códigos de muestra contemporáneos.
+
+🔗 **URL**: https://github.com/mbeaudru/modern-js-cheatsheet
+
+---
+
 #### 👉🎲 **Apuntes JavaScript básico**
 
 Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y tienen un estilo único.
 
 🔗 **URL**: https://losapuntesdemajo.now.sh/
+
+---
+
+#### 👉🎲 **Código limpio en JS**
+
+Principios de ingeniería de software, del libro Clean Code de Robert C. Martin, adaptado para JavaScript. Esta no es una guía de estilo. Es una guía para producir software legible, reutilizable y refactorizable en JavaScript.
+
+🔗 **URL**: https://github.com/ryanmcdermott/clean-code-javascript
+
+---
+
+#### 👉🎲 **Principios y patrones la programación**
+
+Todo programador se beneficia al comprender los principios y patrones de programación. Este resumen es una referencia para el autor, y lo puso en Github. Tal vez te resulte útil durante el diseño, la discusión o la revisión. Ten en cuenta que está lejos de ser completo y que a menudo se debe hacer concesiones entre principios en conflicto.
+
+🔗 **URL**: https://github.com/iluwatar/programming-principles
 
 ---
 
@@ -1154,6 +1242,106 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
+#### 👉🎲 **FreeCodeCamp**
+
+Es una organización sin ánimo de lucro consistente en una una plataforma web de enseñanza interactiva accesible para todo el mundo. Al final puedes conseguir un certíficado de que has realizado todos los ejercicios de esta plataforma. Es totalmente gratuito.
+
+🔗 **URL**: https://www.freecodecamp.org/
+
+---
+
+#### 👉🎲 **Fullstackopen**
+
+Este curso sirve como una introducción al desarrollo de aplicaciones web modernas con JavaScript. El objetivo principal es crear aplicaciones SPA con ReactJS que utilizan API REST creadas con Node.js. El curso también contiene una sección sobre GraphQL, una alternativa moderna a las API REST.
+
+🔗 **URL**: https://fullstackopen.com/en/
+
+---
+
+#### 👉🎲 **The Odin Project**
+
+Es uno de esos recursos gratuitos de "lo que desearía tener cuando estoy aprendiendo". Proyecto interesante y que podemos seguir aprendiendo, y que tiene un Path de Full Stack JavaScript.
+
+🔗 **URL**: https://www.theodinproject.com/home
+
+---
+
+#### 👉🎲 **Dash General Assembly**
+
+Dash es un curso en línea divertido y gratuito que te enseña los conceptos básicos del desarrollo web a través de proyectos que puedes realizar en tu navegador.
+
+🔗 **URL**: https://dash.generalassemb.ly/
+
+---
+
+#### 👉🎲 **Khan Academy**
+
+Organización sin ánimo de lucro cuya misión es la de brindar una educación gratuita de clase mundial para cualquier persona, en cualquier lugar. En nuestro campo, hay distintos cursos de programación 100% grauitos.
+
+🔗 **URL**: https://www.khanacademy.org/computing/computer-programming
+
+---
+
+#### 👉🎲 **Exercism**
+
+Mejora tus habilidades de programación con 3450 ejercicios en 52 idiomas y con un equipo dedicado de mentores. Los ejercicios son 100% gratis por siempre.
+
+🔗 **URL**: https://exercism.io/
+
+---
+
+#### 👉🎲 **Sololearn**
+
+Plataforma para ayudar a les usuaries a aprender los conceptos básicos de los principales lenguajes de programación mediante la explicación de teoría y una serie de ejercicios prácticos con los que demostrar que, de verdad, hemos entendido el concepto.
+
+🔗 **URL**: https://www.sololearn.com/
+
+---
+
+#### 👉🎲 **Microsoft Frontent Bootcamp**
+
+Es un taller de dos días, aprenderás los conceptos básicos del desarrollo frontend mientras creas una aplicación web que funciona.
+
+🔗 **URL**: https://github.com/microsoft/frontend-bootcamp
+
+---
+
+#### 👉🎲 **Material Adalab**
+
+Adalab es una escuela especializada en formación digital para mujeres. Trabajan para formar y acompañar a mujeres que buscan un giro profesional adaptado a las nuevas necesidades de las empresas. Aquí tenemos el material que utilizan y que podemos seguir perfectamente.
+
+🔗 **URL**: https://books.adalab.es/materiales-front-end-d/
+
+---
+
+#### 👉🎲 **Material Fictizia**
+
+Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid. Aquí tenemos todos los repositorios de todos los cursos que se han impartido hasta ahora. Tenemos todo el material que tienen les alumnes.
+
+🔗 **URL**: https://github.com/Fictizia
+
+<br>
+
+---
+
+## 🗡 KATAS
+
+---
+
+#### 👉🎲 **Codewars**
+
+Ponte a prueba con katas, creado por la comunidad para fortalecer diferentes habilidades. Domina el idioma que prefieras o amplía tu comprensión de uno nuevo.
+
+🔗 **URL**: https://www.codewars.com/
+
+---
+
+#### 👉🎲 **Git katas**
+
+Katas de git, parece increible pero es un recurso bastante bueno para realizar ejercicios que podemos utilizar en nuestro día a día.
+
+🔗 **URL**: https://github.com/eficode-academy/git-katas
+
 <br>
 
 ---
@@ -1170,7 +1358,24 @@ Hemos utilizado este recurso en este documento, pero tiene más secciones las cu
 
 ---
 
-#### 👉🎲 **Material Adalab**
+#### 👉🎲 **Cómo se hace de W3Schools**
 
-Adalab es una escuela especializada en formación digital para mujeres. Trabajan para formar y acompañar a mujeres que buscan un giro profesional adaptado a las nuevas necesidades de las empresas. Aquí tenemos el material que utilizan.
-🔗 **URL**: https://books.adalab.es/materiales-front-end-d/
+Desde la w3schools tenemos distintos ejemplos de como realizar desde una cabecera con vídeo o un botón animado.
+
+🔗 **URL**: https://www.w3schools.com/howto/default.asp
+
+---
+
+#### 👉🎲 **APIs públicas**
+
+APIs para usar en tus pet projects o en proyectos de pruebas.
+
+🔗 **URL**: https://github.com/public-apis/public-apis
+
+---
+
+#### 👉🎲 **Mejores prácticas para Node**
+
+Documento donde nos ponen las mejores prácticas para utilizar NodeJS.
+
+🔗 **URL**: https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md
