@@ -10,6 +10,15 @@ Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si t
 
 Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
 
+| Emoji | ¿Qué significa                           |
+| ----- | ---------------------------------------- |
+| ❓    | Conocimientos que debemos de saber antes |
+| ✍️    | Contenido que es un artículo             |
+| 📹    | Contenido en vídeo                       |
+| 📖    | Libro                                    |
+| 🗣     | Charla o Conferencia                     |
+| 👨‍🏫    | Curso                                    |
+
 ---
 
 ## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
@@ -168,7 +177,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 ---
 
-#### 👉🎲 **Empezando con la web**
+#### 👉✍️ **Empezando con la web**
 
 Nuestros primeros para prepararnos para como realizar páginas en HTML.
 
