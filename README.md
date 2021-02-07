@@ -164,7 +164,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -316,7 +316,7 @@ Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -580,7 +580,7 @@ Lista de los cambios introducidos en cada versión de ECMAScript. Hay que tener 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1040,7 +1040,7 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1078,7 +1078,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1098,7 +1098,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1118,7 +1118,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1138,7 +1138,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1158,7 +1158,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1178,7 +1178,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1198,7 +1198,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1218,7 +1218,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1238,7 +1238,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1258,7 +1258,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1278,7 +1278,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
+### 🛹 **CONTENIDOS**
 
 ---
 
