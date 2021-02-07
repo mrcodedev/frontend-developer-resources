@@ -994,6 +994,22 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 ---
 
+#### 👉🎲 **JavaScript Garden**
+
+JavaScript Garden es una creciente colección de documentos sobre las partes más extravagantes del lenguaje de programación JavaScript. Brinda consejos para evitar errores comunes y errores sutiles, así como problemas de rendimiento y malas prácticas, que los programadores de JavaScript no expertos pueden encontrar en sus esfuerzos en las profundidades del lenguaje.
+
+🔗 **URL**: http://bonsaiden.github.io/JavaScript-Garden/
+
+---
+
+#### 👉🎲 **Aprende JavaScript**
+
+Este libro te enseñará los conceptos básicos de programación y Javascript. Tanto si eres un programador experimentado como si no, este libro está dirigido a todos aquellos que desean aprender JavaScript.
+
+🔗 **URL**: https://gitbookio.gitbooks.io/javascript/content/
+
+---
+
 #### 👉🎲 **Listado de métodos y muchas cosas más de JS**
 
 Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicios.
