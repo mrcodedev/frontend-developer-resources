@@ -1067,6 +1067,7 @@ La primera pregunta que nos vamos a hacer es, ¿qué es un control de versiones 
 ¿Qué es git?. Podremos usar distintos repositorios como son: Github, GitLab, Bitbucket, etc. Pero siempre utilizaremos git para poder usar nuestro control de versiones favorito.
 
 🔗 **URL**: https://www.wikiwand.com/es/Git
+
 🔗 **URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git
 
 ---
@@ -1105,7 +1106,9 @@ Lecciones interactivas del uso de Git, donde podremos utilizar los comandos más
 
 Libro en inglés donde nos enseñará como usar git de una manera mucho más avanzada.
 
-🔗 **URL**: http://book.git-scm.com/book/en/v2
+🔗 **URL(Inglés)**: http://book.git-scm.com/book/en/v2
+
+🔗 **URL(Español)**: https://uniwebsidad.com/libros/pro-git
 
 ---
 
@@ -1115,6 +1118,22 @@ Katas de git, parece increible pero es un recurso bastante bueno para realizar e
 
 🔗 **URL**: https://github.com/eficode-academy/git-katas
 
+---
+
+#### 👉📑 **Cheatsheet git**
+
+Cheatsheet con los comandos de git.
+
+🔗 **URL**: https://education.github.com/git-cheat-sheet-education.pdf
+
+---
+
+#### 👉🖊📑 **Guía de GitHub**
+
+Guía oficial de uso de GitHub. Una vez aprendido como funciona GitHub, vas a saber utilizar GitLab, Bitbucket, etc.
+
+🔗 **URL**: https://guides.github.com/
+
 <br>
 
 ---
@@ -1123,7 +1142,7 @@ Katas de git, parece increible pero es un recurso bastante bueno para realizar e
 
 ---
 
-### 🧠 **CONOCIMIENTOS PREVIOS**
+### 🛹 **CONTENIDOS**
 
 ---
 
@@ -1132,6 +1151,22 @@ Katas de git, parece increible pero es un recurso bastante bueno para realizar e
 Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro día a día.
 
 🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Server-side/Primeros_pasos/seguridad_sitios_web
+
+---
+
+#### 👉🖊 **Tips seguridad Frontend**
+
+Artículo sobre tips en seguridad si eres Frontend Developer.
+
+🔗 **URL**: https://www.glajumedia.com/tips-seguridad-frondend/
+
+---
+
+#### 👉🖊 **Recomendaciones de seguridad para aplicaciones front-end**
+
+Artículo que habla un poco sobre la seguridad web y que cosas debes de no realizar.
+
+🔗 **URL**: https://www.purocodigo.net/articulo/recomendaciones-de-seguridad-para-aplicaciones-front-end
 
 <br>
 
