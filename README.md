@@ -1050,11 +1050,62 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 ---
 
+#### 👉❓ **Control de versiones**
+
+La primera pregunta que nos vamos a hacer es, ¿qué es un control de versiones y para qué sirve?
+
+🔗 **URL**: https://www.wikiwand.com/es/Control_de_versiones
+
+🔗 **URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones
+
+🔗 **URL**: https://www.atlassian.com/es/git/tutorials/what-is-version-control
+
+---
+
+#### 👉❓ **Git**
+
+¿Qué es git?. Podremos usar distintos repositorios como son: Github, GitLab, Bitbucket, etc. Pero siempre utilizaremos git para poder usar nuestro control de versiones favorito.
+
+🔗 **URL**: https://www.wikiwand.com/es/Git
+🔗 **URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git
+
+---
+
+#### 👉❓ **¿Qué es un repositorio?**
+
+Después de saber que es un control de versiones y git la siguiente pregunta es: ¿qué es un repositorio?.
+
+🔗 **URL**: https://www.wikiwand.com/es/Repositorio_(contenido_digital)
+
 <br>
 
 ---
 
 ### 🛹 **CONTENIDOS**
+
+---
+
+#### 👉🖊 **Guía para principiantes para el uso de git**
+
+Vamos a dar los primeros pasos en git con este tutorial básico y muy conciso.
+
+🔗 **URL**: https://rogerdudler.github.io/git-guide/index.es.html
+
+---
+
+#### 👉📚🕹 **Aprende git branching**
+
+Lecciones interactivas del uso de Git, donde podremos utilizar los comandos más usados.
+
+🔗 **URL**: https://learngitbranching.js.org/?locale=es_ES
+
+---
+
+#### 👉📖 **Git Like a Pro**
+
+Libro en inglés donde nos enseñará como usar git de una manera mucho más avanzada.
+
+🔗 **URL**: http://book.git-scm.com/book/en/v2
 
 ---
 
