@@ -298,14 +298,6 @@ Listado de elementos HTML con ejemplos y hasta con ejercicios.
 
 🔗 **URL**: https://www.w3schools.com/html/default.asp
 
----
-
-#### 👉📦 **Pantallas retina y unidades**
-
-Vamos a darle un repaso a las pantallas de alta densidad de píxeles y cuándo usar unas unidades u otras.
-
-🔗 **URL**: https://github.com/spacenomads/pantallas-retina-y-unidades
-
 <br>
 
 ---
@@ -473,6 +465,14 @@ Apuntes de CSS realizados por Majo Ledesma, que son muy buenos y tienen un estil
 Artículo muy interesante donde se plantean utilizar lo mínimo las media queries
 
 🔗 **URL**: https://goiblas.com/evitar-utilizar-css-media-queries/
+
+---
+
+#### 👉📦 **Pantallas retina y unidades**
+
+Vamos a darle un repaso a las pantallas de alta densidad de píxeles y cuándo usar unas unidades u otras. Realizado por One eyed man.
+
+🔗 **URL**: https://github.com/spacenomads/pantallas-retina-y-unidades
 
 ---
 
