@@ -538,6 +538,14 @@ Mucha gente puede confundir estos dos términos, pero son dos lenguajes totalmen
 
 ---
 
+#### 👉❓ **¿Qué es Vanilla JS?**
+
+Habrás escuchado a lo mejor Vanilla JS, te adelanto que no es un helado. En este artículo te explican qué es.
+
+🔗 **URL**: https://platzi.com/tutoriales/1339-fundamentos-javascript/1487-que-es-vanilla-js-o-javascript-puro/
+
+---
+
 #### 👉❓ **ECMAScript**
 
 Vamos a escuchar mucho la palabra ECMAScript o ESX, pues realmente es una especificación del lenguaje.
@@ -970,6 +978,22 @@ Todo programador se beneficia al comprender los principios y patrones de program
 
 ---
 
+#### 👉🎲 **Impresionante JavaScript**
+
+Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript. Puede que algún link no funcione o no esté el contenido, pero hay muchas cosas interesantes aquí.
+
+🔗 **URL**: https://github.com/sergiodxa/impresionante-javascript
+
+---
+
+#### 👉🎲 **Reto 30 días porgramando en Vanilla JS**
+
+Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript. Puede que algún link no funcione o no esté el contenido, pero hay muchas cosas interesantes aquí.
+
+🔗 **URL**: https://github.com/wesbos/JavaScript30
+
+---
+
 #### 👉🎲 **Listado de métodos y muchas cosas más de JS**
 
 Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicios.
@@ -1379,3 +1403,11 @@ APIs para usar en tus pet projects o en proyectos de pruebas.
 Documento donde nos ponen las mejores prácticas para utilizar NodeJS.
 
 🔗 **URL**: https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md
+
+---
+
+#### 👉🎲 **Frontend check-list**
+
+La lista de verificación de front-end es una lista exhaustiva de todos los elementos que necesita tener / probar antes de lanzar su sitio web / página HTML a producción.
+
+🔗 **URL**: https://github.com/thedaviddias/Front-End-Checklist
