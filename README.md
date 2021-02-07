@@ -254,6 +254,14 @@ Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para prin
 
 🔗 **URL**: https://www.youtube.com/watch?v=pQN-pnXPaVg
 
+---
+
+#### 👉🎲 **Listado elementos HTML**
+
+Listado de elementos HTML con ejemplos y hasta con ejercicios.
+
+🔗 **URL**: https://www.w3schools.com/html/default.asp
+
 <br>
 
 ---
@@ -454,6 +462,14 @@ Guía de todas las propiedades que tiene CSS Grid, por si en algún momento no t
 
 🔗 **URL**: https://css-tricks.com/snippets/css/complete-guide-grid/
 
+---
+
+#### 👉🎲 **Listado elementos CSS**
+
+Listado de elementos CSS con ejemplos y hasta con ejercicios.
+
+🔗 **URL**: https://www.w3schools.com/css/default.asp
+
 <br>
 
 ---
@@ -479,6 +495,25 @@ Empezamos a introducirnos con JavaScript sabiendo que es y como fueron sus inici
 Mucha gente puede confundir estos dos términos, pero son dos lenguajes totalmente diferentes.
 
 🔗 **URL**: https://desarrolloweb.com/articulos/492.php
+
+---
+
+#### 👉❓ **ECMAScript**
+
+Vamos a escuchar mucho la palabra ECMAScript o ESX, pues realmente es una especificación del lenguaje.
+.
+
+🔗 **URL**: https://www.wikiwand.com/es/ECMAScript
+🔗 **URL**: https://desarrolloweb.com/articulos/494.php
+
+---
+
+#### 👉❓ **ECMAScript cambios introducidos**
+
+Lista de los cambios introducidos en cada versión de ECMAScript, hay que tener cuidado porque los números que ponemos detrás de ES, no coincide con el año.
+
+🔗 **ES5(2009)**: https://www.wikiwand.com/es/ECMAScript
+🔗 **URL**: https://desarrolloweb.com/articulos/494.php
 
 <br>
 
@@ -684,8 +719,7 @@ Una vez tenemos el concepto de asincronía en nuestra cabeza, vamos a ver casos 
 
 Vamos a ver en detalle los timeouts y los intervalos junto a su uso.
 
-🔗 **URL**:
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
 
 ---
 
@@ -693,8 +727,33 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_
 
 Todo código asíncrono devuelve una promesa, así que es el momento de ver que es una promesa.
 
-🔗 **URL**:
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+
+---
+
+#### 👉🎲 **Async/Await en JS**
+
+Gracias a esta introducción en la ES7, podemos utilizar nuestro código asíncrono de una manera más fácil.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+
+---
+
+#### 👉🎲 **Elegir el enfoque correcto de la asincronía en JS**
+
+No todo va a ser coser y cantar, a veces tenemos que ver la compatibilidad con otros navegadores.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach
+
+---
+
+#### 👉🎲 **Elegir el enfoque correcto de la asincronía en JS**
+
+No todo va a ser coser y cantar, a veces tenemos que ver la compatibilidad con otros navegadores.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
 
 ---
 
@@ -703,6 +762,14 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
 Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y tienen un estilo único.
 
 🔗 **URL**: https://losapuntesdemajo.now.sh/
+
+---
+
+#### 👉🎲 **Listado de métodos y muchas cosas más de JS**
+
+Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicios.
+
+🔗 **URL**: https://www.w3schools.com/js/default.asp
 
 <br>
 
@@ -736,13 +803,11 @@ Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y 
 
 ---
 
-<br>
+#### 👉🎲 **Seguridad en sitios web**
 
----
+Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro día a día.
 
-### 🛹 **PRÁCTICAS**
-
----
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Server-side/Primeros_pasos/seguridad_sitios_web
 
 <br>
 
