@@ -13,11 +13,11 @@ Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a
 | Emoji | ¿Qué significa                           |
 | ----- | ---------------------------------------- |
 | ❓    | Conocimientos que debemos de saber antes |
-| ✍️    | Contenido que es un artículo             |
+| 🖊     | Contenido que es un artículo             |
 | 📹    | Contenido en vídeo                       |
 | 📖    | Libro                                    |
 | 🗣     | Charla o Conferencia                     |
-| 👨‍🏫    | Curso                                    |
+| 📚    | Curso                                    |
 
 ---
 
@@ -177,7 +177,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 ---
 
-#### 👉✍️ **Empezando con la web**
+#### 👉🖊 **Empezando con la web**
 
 Nuestros primeros para prepararnos para como realizar páginas en HTML.
 
