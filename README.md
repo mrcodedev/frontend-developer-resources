@@ -2,13 +2,15 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontends Developers.
 
-Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientoS PREVIOSs que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
-Está dividido en distintos apartados, y si encuentras un recurso que no está aquí, y lo ves interesante, siempre puedes hacer una Merge Request para seguir ampliando el catálogo de recursos.
+Está dividido en distintos apartados, y si encuentras un recurso que no está aquí, y lo ves interesante, siempre puedes hacer una Merge Request para seguir ampliando el catálogo de recursos. O simplemente me buscas en Twitter como mrcodedev y me lo comentas.
 
 Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si tienes problemas con el idioma de Shakespeare, siempre puedes traducir la página (Google Chrome tiene uno por defecto). Es muy importante que empieces a leer documentación en inglés y puedas entenderla, es algo muy habitual en nuestro día a día. Además si buscas algún error o cualquier cosa, la mejor práctica es siempre buscar lo que sea en inglés, siempre encontraremos más respuestas.
 
 Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
+
+Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá una mano señalando que tipo de recurso es 👉.
 
 | Emoji | ¿Qué significa?                          |
 | ----- | ---------------------------------------- |
@@ -1056,6 +1058,12 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 ---
 
+#### 👉🕹 **Git katas**
+
+Katas de git, parece increible pero es un recurso bastante bueno para realizar ejercicios que podemos utilizar en nuestro día a día.
+
+🔗 **URL**: https://github.com/eficode-academy/git-katas
+
 <br>
 
 ---
@@ -1394,19 +1402,36 @@ Ponte a prueba con katas, creado por la comunidad para fortalecer diferentes hab
 
 🔗 **URL**: https://www.codewars.com/
 
----
-
-#### 👉🕹 **Git katas**
-
-Katas de git, parece increible pero es un recurso bastante bueno para realizar ejercicios que podemos utilizar en nuestro día a día.
-
-🔗 **URL**: https://github.com/eficode-academy/git-katas
-
 <br>
 
 ---
 
 ## 🤔 SITIOS DE INTERÉS
+
+---
+
+#### 👉❓ **Google/Duckduckgo**
+
+Dirás, ¿este se le ha ido la cabeza?, pues no. Un buscador siempre nos va a salvar en muchas ocasiones, y tenemos que saber buscar. Os doy el consejo de buscar siempre lo que queráis en inglés.
+
+🔗 **URL**: https://www.google.com
+🔗 **URL**: https://duckduckgo.com/
+
+---
+
+#### 👉❓ **Stackoverflow**
+
+Es la biblia para les programadores, aquí la gente pone su duda y la gente le ayuda a buscar una solución.
+
+🔗 **URL**: https://stackoverflow.com/
+
+---
+
+#### 👉❓ **Can I use?**
+
+Podemos ver si una característica de HTML o CSS es compatible con todos los navegadores.
+
+🔗 **URL**: https://caniuse.com/
 
 ---
 
