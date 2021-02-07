@@ -2,7 +2,7 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontends Developers.
 
-Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientoS PREVIOSs que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
 Está dividido en distintos apartados, y si encuentras un recurso que no está aquí, y lo ves interesante, siempre puedes hacer una Merge Request para seguir ampliando el catálogo de recursos.
 
@@ -16,7 +16,15 @@ Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
+
+---
+
+#### 👉❓ **¿Qué es la informática?**
+
+Vamos a empezar con lo principal, como empezó esto de los ordenadores.
+
+🔗 **URL**: https://www.wikiwand.com/es/Inform%C3%A1tica
 
 ---
 
@@ -116,7 +124,7 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -156,7 +164,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -240,9 +248,17 @@ Una de las tareas más rutinarias serán realizar formularios.
 
 ---
 
+#### 👉🎲 **Imágenes adaptables en HTML5**
+
+Como adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+
+---
+
 #### 👉🎲 **Introducción a HTML básico y HTML5**
 
-Curso donde con prácticas, podrás aprender HTML y HTML5.
+Curso donde con ¡¡¡A ESTUDIAR TOCA!!!, podrás aprender HTML y HTML5.
 
 🔗 **URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 
@@ -262,6 +278,14 @@ Listado de elementos HTML con ejemplos y hasta con ejercicios.
 
 🔗 **URL**: https://www.w3schools.com/html/default.asp
 
+---
+
+#### 👉🎲 **Pantallas retina y unidades**
+
+Vamos a darle un repaso a las pantallas de alta densidad de píxeles y cuándo usar unas unidades u otras.
+
+🔗 **URL**: https://github.com/spacenomads/pantallas-retina-y-unidades
+
 <br>
 
 ---
@@ -270,7 +294,7 @@ Listado de elementos HTML con ejemplos y hasta con ejercicios.
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -284,7 +308,7 @@ Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -324,7 +348,7 @@ Sabemos ya como funciona el lenguaje, ahora falta saber como lo utiliza el naveg
 
 Después de ver un poco por encima el lenguaje CSS, ponemos en práctica lo aprendido.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimiento
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimientoS PREVIOS
 
 ---
 
@@ -478,7 +502,7 @@ Listado de elementos CSS con ejemplos y hasta con ejercicios.
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -510,16 +534,29 @@ Vamos a escuchar mucho la palabra ECMAScript o ESX, pues realmente es una especi
 
 #### 👉❓ **ECMAScript cambios introducidos**
 
-Lista de los cambios introducidos en cada versión de ECMAScript, hay que tener cuidado porque los números que ponemos detrás de ES, no coincide con el año.
+Lista de los cambios introducidos en cada versión de ECMAScript. Hay que tener cuidado porque los números que ponemos detrás de ES, no coincide con el año. A partir del 2016 se hizo estándar poner el año, así no nos hacemos un lío.
 
 🔗 **ES5(2009)**: https://www.wikiwand.com/es/ECMAScript
-🔗 **URL**: https://desarrolloweb.com/articulos/494.php
+
+🔗 **ES6(2015)**: https://www.w3schools.com/js/js_es6.asp
+
+🔗 **ES2016**: https://www.w3schools.com/js/js_2016.asp
+
+🔗 **ES2017**: https://www.w3schools.com/js/js_2017.asp
+
+🔗 **ES2018**: https://www.w3schools.com/js/js_2018.asp
+
+🔗 **ES2019**: http://blog.enriqueoriol.com/2020/04/javascript-es2019-novedades.html
+
+🔗 **ES2020**: https://www.freecodecamp.org/news/javascript-new-features-es2020/
+
+🔗 **ES2020**: https://cosasdigitales.com/articulos-diseno-web/es2021-es12-novedades-de-la-ultima-version-de-javascript/
 
 <br>
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -753,7 +790,87 @@ No todo va a ser coser y cantar, a veces tenemos que ver la compatibilidad con o
 
 🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach
 
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+---
+
+#### 👉🎲 **Introducción a las APIs en JS**
+
+Vamos a echar un vistazo a las APIS desde un nivel superior ¿qué son, cómo funcionan, cómo usarlas en el código, y cómo están estructuradas?.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Introducci%C3%B3n
+
+---
+
+#### 👉🎲 **Manipulando documentos con JS**
+
+Al escribir páginas web y aplicaciones, una de las cosas más comunes que querrá hacer es manipular la estructura del documento de alguna manera.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+
+---
+
+#### 👉🎲 **Obteniendo datos del servidor**
+
+Otra tarea muy común en páginas web y en aplicaciones es tomar elementos individuales de datos desde el servidor para actualizar secciones de la página web sin tener que cargar toda una nueva página.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+
+---
+
+#### 👉🎲 **API de terceros**
+
+Las API que hemos cubierto hasta ahora están integradas en el navegador, pero no todas las API lo están. Ahora vamos a ver como utilizar de terceros.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs
+
+---
+
+#### 👉🎲 **Dibujando gráficos (opcional)**
+
+El navegador tiene algunas herramientas de programación de gráficos muy poderosas, desde el lenguaje Scalable Vector Graphics (SVG), hasta API para dibujar en elementos HTML canvas.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
+
+---
+
+#### 👉🎲 **Vídeo y audio (opcional)**
+
+HTML5 viene con elementos para incrustar medios enriquecidos en documentos de video y audio.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
+
+---
+
+#### 👉🎲 **Almacenamiento del lado cliente**
+
+Los navegadores web modernos admiten varias formas para que que las páginas web almacenen datos en el ordenador del usuario, con el permiso del usuario, y luego los recuperen cuando sea necesario.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
+
+---
+
+#### 👉🎲 **Formularios web**
+
+Esta guía está constituida por una serie de artículos que te ayudarán a dominar los formularios en HTML.
+
+Tiene distintos artículos, debes de ir siguiéndolos uno a uno si quieres dominar esta parte. No los he puesto separados o ocuparía mucho en el documento.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Forms
+
+---
+
+#### 👉🎲 **Cómo crear widgets de formularios personalizados**
+
+Hay muchos casos donde los widgets de formularios HTML disponibles simplemente no son suficientes. si deseas establecer un estilo avanzado en algunos widgets como el elemento `<select>` o si deseas proporcionar comportamientos personalizados, no tienes más opción que crear tus propios widgets.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Forms/como_crear_widgets_de_formularios_personalizados
+
+---
+
+#### 👉🎲 **Envío de formularios a través de JavaScript**
+
+Los formularios HTML pueden enviar una solicitud HTTP de forma declarativa. Pero los formularios también pueden preparar una solicitud HTTP para enviarse a través de JavaScript, por ejemplo, a través de XMLHttpRequest.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript
 
 ---
 
@@ -779,7 +896,7 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -787,7 +904,7 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -799,7 +916,7 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -817,7 +934,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -825,7 +942,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -837,7 +954,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -845,7 +962,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -857,7 +974,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -865,7 +982,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -877,7 +994,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -885,7 +1002,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -897,7 +1014,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -905,7 +1022,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -917,7 +1034,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -925,7 +1042,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -937,7 +1054,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -945,7 +1062,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -957,7 +1074,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -965,7 +1082,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -977,7 +1094,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -985,7 +1102,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -997,7 +1114,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -1005,7 +1122,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -1017,7 +1134,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🧠 **CONOCIMIENTO**
+### 🧠 **CONOCIMIENTOS PREVIOS**
 
 ---
 
@@ -1025,7 +1142,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 ---
 
-### 🛹 **PRÁCTICAS**
+### 🛹 **¡¡¡A ESTUDIAR TOCA!!!**
 
 ---
 
@@ -1044,3 +1161,16 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 ## 🤔 SITIOS DE INTERÉS
 
 ---
+
+#### 👉🎲 **MDN Mozilla**
+
+Hemos utilizado este recurso en este documento, pero tiene más secciones las cuales puedes explorar. Tiene un montón de recursos y siempre es bueno tenerlos a mano o echarles un vistazo.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn
+
+---
+
+#### 👉🎲 **Material Adalab**
+
+Adalab es una escuela especializada en formación digital para mujeres. Trabajan para formar y acompañar a mujeres que buscan un giro profesional adaptado a las nuevas necesidades de las empresas. Aquí tenemos el material que utilizan.
+🔗 **URL**: https://books.adalab.es/materiales-front-end-d/
