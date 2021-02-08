@@ -19,7 +19,7 @@ Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá u
 | 📹    | Contenido en vídeo                       |
 | 📖    | Libro                                    |
 | 🗣     | Charla o Conferencia                     |
-| 📚    | Curso                                    |
+| 📚    | Curso o tutorial                         |
 | 📦    | Repositorio                              |
 | 🕹     | Prácticas en vivo                        |
 | 📑    | Apuntes o cheatsheets                    |
@@ -1086,7 +1086,7 @@ Después de saber que es un control de versiones y git la siguiente pregunta es:
 
 ---
 
-#### 👉🖊 **Guía para principiantes para el uso de git**
+#### 👉🖊📚 **Guía para principiantes para instalación y uso de git**
 
 Vamos a dar los primeros pasos en git con este tutorial básico y muy conciso.
 
@@ -1210,6 +1210,14 @@ Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablare
 
 🔗 **URL**: https://www.wikiwand.com/es/Yarn_(Facebook)
 
+---
+
+#### 👉❓ **¿Qué es NodeJS?**
+
+Aunque no estemos desarrollando en NodeJS, tenemos qué saber que es y qué hace.
+
+🔗 **URL**: https://www.wikiwand.com/es/Node.js
+
 <br>
 
 ---
@@ -1217,6 +1225,54 @@ Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablare
 ### 🛹 **CONTENIDOS**
 
 ---
+
+#### 👉🖊📚 **¿Cómo instalar NodeJS?**
+
+Es recomendable tener instalado NodeJS, además que a través de él, tendremos acceso a npm o npx.
+
+🔗 **URL**: https://midu.dev/como-instalar-node-en-mac-y-windows/
+
+---
+
+#### 👉🖊📚 **Primeros pasos con Npm**
+
+Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablaremos de yarn.
+
+🔗 **URL**: https://www.freecodecamp.org/espanol/news/node-js-npm-tutorial/
+
+---
+
+#### 👉🖊📚 **Introducción a Npm hasta avanzado**
+
+Artículos interesantes sobre Npm desde empezar con él, hasta hacer cosas más avanzadas.
+
+🔗 **URL**: https://lenguajejs.com/npm/introduccion/que-es/
+
+---
+
+#### 👉🖊📚 **¿Cómo instalar Yarn?**
+
+Vamos a instalar Yarn, nunca está de más tener npm y yarn instalados a la vez.
+
+🔗 **URL**: https://elsolitario.org/post/instalacion-de-yarn/
+
+🔗 **URL**: https://classic.yarnpkg.com/en/docs/install
+
+---
+
+#### 👉🖊📚 **Introducción a Npm hasta avanzado**
+
+Artículos interesantes sobre Npm desde empezar con él, hasta hacer cosas más avanzadas.
+
+🔗 **URL**: https://lenguajejs.com/npm/introduccion/que-es/
+
+---
+
+#### 👉🖊📚 **Introducción a Yarn**
+
+Documentación de Yarn sobre su uso (si ya lo tenemos instalado podemos obviar la instalación). Una vez sabemos usar Npm siempre va a ser casi igual usar Yarn.
+
+🔗 **URL**: https://yarnpkg.com/getting-started
 
 <br>
 
@@ -1226,15 +1282,27 @@ Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablare
 
 ---
 
-### 🧠 **CONOCIMIENTOS PREVIOS**
-
----
-
-<br>
-
----
-
 ### 🛹 **CONTENIDOS**
+
+---
+
+https://desarrolloweb.com/articulos/problemas-arquitectura-css.html
+
+---
+
+https://medium.com/williambastidasblog/metodolog%C3%ADas-o-arquitecturas-css-oocss-bem-smacss-itcss-atomic-design-a1a3cfbfa6c9
+
+---
+
+https://cosasdigitales.com/articulos-diseno-web/arquitectura-css-como-deberia-ser-tu-codigo-css/
+
+---
+
+Ignacio Villanueva, Carmen Ansio | Buenas practicas en arquitecturas CSS | Codemotion Madrid 2017
+
+https://www.youtube.com/watch?v=B9Qwq_MKuqY
+
+---
 
 ---
 
