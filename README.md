@@ -496,6 +496,80 @@ En CSS podemos hacer muchas cosas, hasta podemos realizar animaciones, aquí tie
 
 ---
 
+#### 👉🖊📚 **Resumen sobre animaciones CSS**
+
+Resumen sobre animaciones con CSS.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/animation
+
+---
+
+#### 👉🖊 **Performance con animaciones CSS**
+
+Artículos que hablan sobre performance al realizar animaciones CSS.
+
+🔗 **URL**: https://www.html5rocks.com/en/tutorials/speed/rendering/
+
+🔗 **URL**: https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+
+---
+
+#### 👉🖊 **Animaciones web en el trabajo**
+
+Artículo interesante donde nos habla una experta de animaciones web con CSS, que cosas tenemos que tener en cuenta para hacer nuestras animaciones
+
+🔗 **URL**: https://alistapart.com/article/web-animation-at-work/
+
+---
+
+#### 👉🖊 Animaciones sin usar flash\*\*
+
+Otro artículo interesante donde nos explica paso a paso, en qué debemos de fijarnos a la hora de realizar una animación.
+
+🔗 **URL**: https://24ways.org/2012/flashless-animation/
+
+---
+
+#### 👉🖊 **Cinco formas de animar de forma responsable**
+
+En esta ocasión este artículo nos habla que debemos de realizar para tener una animación responsable (de forma correcta).
+
+🔗 **URL**: https://24ways.org/2014/five-ways-to-animate-responsibly/
+
+---
+
+#### 👉🖊 **Trucos al realizar animaciones con CSS**
+
+Trucos que podemos realizar a la hora de hacer nuestras animaciones con CSS.
+
+🔗 **URL**: https://css-tricks.com/css-animation-tricks/
+
+---
+
+#### 👉🖊 **Empezando con CSS nivel intermedio**
+
+Excelente artículo donde nos explica como realizar una animación con coches.
+
+🔗 **URL**: https://css-tricks.com/starting-css-animations-mid-way/
+
+---
+
+#### 👉📚 **Animaciones con CSS de W3Schools**
+
+Apartado de como realizar animaciones en CSS de W3Schools.
+
+🔗 **URL**: https://www.w3schools.com/css/css3_animations.asp
+
+---
+
+#### 👉📚 **Draft sobre animaciones CSS W3C**
+
+Draft sobre la especificación de la W3C para realizar animaciones con CSS.
+
+🔗 **URL**: https://drafts.csswg.org/css-animations-1/
+
+---
+
 #### 👉📚 **Tutorial CSS de W3Schools**
 
 CSS es el lenguaje que usamos para diseñar un documento HTML. CSS describe cómo se deben mostrar los elementos HTML. Este tutorial te enseñará CSS de básico a avanzado.
