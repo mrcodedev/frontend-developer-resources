@@ -304,6 +304,56 @@ Listado de elementos HTML con ejemplos y hasta con ejercicios.
 
 ---
 
+## ♿️ ACCESIBILIDAD
+
+---
+
+### 🛹 **CONTENIDOS**
+
+---
+
+👉🖊 **The a11y project**
+
+Página web de la comunidad "The a11y project" donde tiene artículos muy interesantes sobre accesibilidad.
+
+🔗 **URL**: https://www.a11ywithlindsey.com/
+
+---
+
+👉🖊 **Blog a11 with Lindsey**
+
+Blog de Lindsey que se dedica a todo el tema de la accesibilidad, siempre tiene artículos muy pero que muy interesantes.
+
+🔗 **URL**: https://www.a11ywithlindsey.com/
+
+---
+
+👉🖊 **Listado de accesibilidad Deque University**
+
+Deque University tiene cursos sobre accesibilidad, y aquí tienen un listado sobre que cosa tenemos que tener en cuenta a la hora de hacer nuestra aplicación o web, de forma accesible.
+
+🔗 **URL**: https://dequeuniversity.com/checklists/web/
+
+---
+
+👉🖊📑 **Recopilatorio apuntes accesibilidad**
+
+Gracias a Alena Nikolaeva, tenemos unos apuntos sobre accesibilidad que podemos utilizar en nuestro día a día.
+
+🔗 **URL**: https://www.notion.so/Quick-wins-and-easy-checks-7efac3ef91c24e5fbfd184dc3e25d8e8
+
+---
+
+👉🖊 **Newsletter a11**
+
+Newsletter para recibir toda la actualidad sobre accesibilidad.
+
+🔗 **URL**: https://a11yweekly.com/
+
+<br>
+
+---
+
 ## 📘 CSS
 
 ---
@@ -362,7 +412,7 @@ Sabemos ya como funciona el lenguaje, ahora falta saber como lo utiliza el naveg
 
 Después de ver un poco por encima el lenguaje CSS, ponemos en práctica lo aprendido.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimientoS PREVIOS
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimiento
 
 ---
 
