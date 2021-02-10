@@ -562,6 +562,54 @@ Apartado de como realizar animaciones en CSS de W3Schools.
 
 ---
 
+#### 👉🖊 **Crear un cubo 3D sólo con CSS**
+
+Gran artículo de como crear un cubo 3D con CSS y JQuery.
+
+🔗 **URL**: https://devcode.la/tutoriales/crear-un-cubo-3d-con-css/
+
+---
+
+#### 👉🖊 **Animación cubo 3D con CSS **
+
+Creación de una animación 3D de un cubo, con sólo CSS.
+
+🔗 **URL**: http://abarcarodriguez.com/blog/entendiendo-la-transformacion-3d-con-css3
+
+---
+
+#### 👉🖊 **Aprender a pensar en cubos en lugar de cajas**
+
+Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y acertarás.
+
+🔗 **URL**: https://css-tricks.com/css-in-3d-learning-to-think-in-cubes-instead-of-boxes/
+
+---
+
+#### 👉🖊 **20 impresionantes ejemplos de transformaciones CSS 3D**
+
+20 ejemplos impresionantes de transformaciones en 3D sólo usando CSS.
+
+🔗 **URL**: https://www.creativebloq.com/css3/20-stunning-examples-css-3d-transforms-11112759
+
+---
+
+#### 👉🖊 **10 efectos en 3D con CSS impresionantes**
+
+Más ejemplos de efectos en 3D con CSS. Muchas veces podemos ver ejemplos y aprender como se hacen.
+
+🔗 **URL**: https://redstapler.co/10-stunning-css-3d-effect-must-see/
+
+---
+
+#### 👉🖊 **Animaciones y transformaciones de 2D a 3D**
+
+¿Cómo pasamos nuestros CSS en 2D a 3D?. En este artículo podemos ver cómo se hace.
+
+🔗 **URL**: https://picodotdev.github.io/blog-bitix/2020/04/animaciones-y-transformaciones-2d-y-3d-con-css/
+
+---
+
 #### 👉📚 **Draft sobre animaciones CSS W3C**
 
 Draft sobre la especificación de la W3C para realizar animaciones con CSS.
