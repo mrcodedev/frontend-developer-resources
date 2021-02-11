@@ -570,7 +570,7 @@ Gran artículo de como crear un cubo 3D con CSS y JQuery.
 
 ---
 
-#### 👉🖊 **Animación cubo 3D con CSS **
+#### 👉🖊 **Animación cubo 3D con CSS**
 
 Creación de una animación 3D de un cubo, con sólo CSS.
 
