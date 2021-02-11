@@ -1458,25 +1458,27 @@ Documentación de Yarn sobre su uso (si ya lo tenemos instalado podemos obviar l
 
 ---
 
-https://desarrolloweb.com/articulos/problemas-arquitectura-css.html
+#### 👉🖊 **Metodologías y arquitecturas CSS**
+
+Artículo que da un repaso a las arquitecturas o metodologías que existen para CSS.
+
+🔗 **URL**: https://medium.com/williambastidasblog/metodolog%C3%ADas-o-arquitecturas-css-oocss-bem-smacss-itcss-atomic-design-a1a3cfbfa6c9
 
 ---
 
-https://medium.com/williambastidasblog/metodolog%C3%ADas-o-arquitecturas-css-oocss-bem-smacss-itcss-atomic-design-a1a3cfbfa6c9
+#### 👉🖊 **Cómo debería de ser tú código CSS**
+
+Artículo que nos explica como debería de ser nuestro código CSS.
+
+🔗 **URL**: https://cosasdigitales.com/articulos-diseno-web/arquitectura-css-como-deberia-ser-tu-codigo-css/
 
 ---
 
-https://cosasdigitales.com/articulos-diseno-web/arquitectura-css-como-deberia-ser-tu-codigo-css/
+#### 👉📹🗣 **Buenas prácticas en arquitectura CSS**
 
----
+Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en arquitecturas CSS", en la Codemotion de Madrid en 2017.
 
-Ignacio Villanueva, Carmen Ansio | Buenas practicas en arquitecturas CSS | Codemotion Madrid 2017
-
-https://www.youtube.com/watch?v=B9Qwq_MKuqY
-
----
-
----
+🔗 **URL**: https://www.youtube.com/watch?v=B9Qwq_MKuqY
 
 <br>
 
@@ -1490,6 +1492,18 @@ https://www.youtube.com/watch?v=B9Qwq_MKuqY
 
 ---
 
+#### 👉❓ **¿Qué son los prepocesadores CSS?**
+
+Una breve descripción de que es un preprocesador CSS.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Glossary/Preprocesador_CSS
+
+🔗 **URL**: https://abalozz.es/que-es-un-preprocesador-de-css/
+
+🔗 **URL**: https://picodotdev.github.io/blog-bitix/2020/08/que-hace-y-ventajas-de-un-preprocesador-de-estilos-css/
+
+---
+
 <br>
 
 ---
@@ -1497,6 +1511,88 @@ https://www.youtube.com/watch?v=B9Qwq_MKuqY
 ### 🛹 **CONTENIDOS**
 
 ---
+
+#### 👉🖊 **Tutorial SASS**
+
+Excelente artículo que nos habla un poco de que es SASS y como instalarlo.
+
+🔗 **URL**: https://codingpotions.com/tutorial-sass
+
+---
+
+#### 👉📚🖊 **Documentación SASS**
+
+Muchas veces nos volvemos loques buscando recursos, pero la documentación cualquier cosa que consumamos, suele estar completa. En este caso SASS, tiene una buena documentación de la cual podemos aprender qué cosas podemos realizar.
+
+🔗 **URL**: https://sass-lang.com/guide
+
+🔗 **URL**: https://sass-lang.com/documentation
+
+---
+
+#### 👉📚🖊 **Documentación LESS**
+
+En la página oficial podemos ver como se utiliza (se parece mucho a SASS), y también tenemos una guía de qué cosas podemos realizar.
+
+🔗 **URL**: http://lesscss.org/usage/
+
+🔗 **URL**: http://lesscss.org/features/
+
+---
+
+#### 👉🖊 **Intalación Stylus**
+
+Artículo sencillo de como instalar Stylus CSS
+
+🔗 **URL**: https://devcode.la/tutoriales/instalacion-de-stylus/
+
+---
+
+#### 👉🖊 **Intalación Stylus**
+
+Artículo de cómo usar Stylus.
+
+🔗 **URL**: https://devcode.la/tutoriales/que-es-stylus-preprocesador-de-css/
+
+---
+
+#### 👉🖊 **Documentación oficial Stylus**
+
+Documentación de Stylus bastante completa.
+
+🔗 **URL**: https://stylus-lang.com/
+
+---
+
+#### 👉📦🖊 **Documentación oficial instalación PostCSS**
+
+Documentación oficial de instalación de PostCSS.
+
+🔗 **URL**: https://github.com/postcss/postcss#usage
+
+---
+
+#### 👉📦🖊 **Documentación oficial de uso de PostCSS**
+
+Documentación oficial de uso de PostCSS.
+
+🔗 **URL**: https://github.com/postcss/postcss/tree/main/docs
+
+---
+
+#### 👉📹🗣 **PostCSS el Babel CSS**
+
+Vídeo de la conferencia de JS Day Canarias que imparte Joan León, que nos dice como instalarlo y como utilizarlo por encima.
+
+🔗 **URL**: https://www.youtube.com/watch?v=ssAUyf0kpfo
+
+---
+
+#### 👉🖊 **Yo prefiero CSS**
+
+Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso sobre este preprocesador de CSS.
+
+🔗 **URL**: https://joanleon.dev/postcss
 
 <br>
 
