@@ -1756,6 +1756,28 @@ Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete 
 
 ---
 
+#### 👉❓ **Entendiendo los frameworks de JS del lado del cliente**
+
+Los frameworks de JavaScript son una parte esencial del desarrollo web front-end moderno, los cuales proveen a los desarrolladores herramientas probadas y testeadas para la creación de aplicaciones web interactivas y escalables.
+
+🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks
+
+---
+
+#### 👉❓ **Diferencia entre librería y framework**
+
+Aquí nos explican de una manera muy breve, cual es la diferencia entre una librería y un framework.
+
+🔗 **URL**: http://notasjs.blogspot.com/2014/09/diferencia-entre-libreria-y-framework.html
+
+---
+
+#### 👉❓ **Frameworks más usados en el 2020**
+
+Podemos ver cuales son los frameworks de JS más utilizados en el 2020. Esto no significa que sean unos mejores que otros, ni que estudiando la más usada vas a encontrar trabajo más rápido. Debes de aprender como funcionan varios y después saber utilizar si te ponen uno que es nuevo para ti.
+
+🔗 **URL**: https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/
+
 <br>
 
 ---
