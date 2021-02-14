@@ -2234,3 +2234,35 @@ La lista de verificación de front-end es una lista exhaustiva de todos los elem
 Manual muy completo para utilizar docker, desde la instalación hasta como utilizarlo.
 
 🔗 **🏴URL**: https://www.freecodecamp.org/news/the-docker-handbook/
+
+---
+
+#### 👉🖊📚 **Tutoriales NeoGuias**
+
+Tutoriales de Neoguias, encontraréis de Vue, React, JavaScript... Muy recomendables.
+
+🔗 **🏳URL**: https://www.neoguias.com/tutoriales/
+
+---
+
+#### 👉🖊📚 **Tutoriales LenguajeJS**
+
+En esta página encontraréis mucho material en todo lo relacionado con JavaScript (también de HTML, CSS o Terminal).
+
+🔗 **🏳URL**: https://lenguajejs.com/
+
+---
+
+#### 👉🖊 **Manual Terminal Linux**
+
+Interesante artículo de freeCodeCamp, sobre comandos de consola para Linux (también vale para macOS). Es una lista bastante extensa, la veo bastante completa.
+
+🔗 **🏴URL**: https://www.freecodecamp.org/news/the-linux-commands-handbook/
+
+---
+
+#### 👉🖊 **Manual Terminal Windows/Linux/OSX**
+
+Tutorial de linea de comandos de la mano de DjangoGirls, en este caso tenemos incluida la terminal de Windows.
+
+🔗 **🏳URL**: https://tutorial.djangogirls.org/es/intro_to_command_line/
