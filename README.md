@@ -2024,7 +2024,7 @@ Repaso a los WebComponents nativos y realizados con LitElement.
 
 #### 👉🖊📚 **Desarrolloweb LitElement**
 
-Artículo muy compelto para realizar WebComponents nativos.
+Artículo muy completo para realizar WebComponents nativos.
 
 🔗 **🏴URL**: https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85
 
@@ -2044,6 +2044,22 @@ Manual muy completo de este Framework de la mano de FreeCodeCamp
 
 🔗 **🏴URL**: https://www.freecodecamp.org/news/the-svelte-handbook/
 
+---
+
+#### 👉🖊📚 **Documentación oficial StencilJS**
+
+Documentación oficial de la página oficial de StencilJS, donde vamos a ver como utilizarlo y dar nuestros primeros pasos.
+
+🔗 **🏴URL**: https://stenciljs.com/docs/introduction
+
+---
+
+#### 👉🖊 **Introducción a StencilJS**
+
+Breve introducción a este framework que realiza WebComponents.
+
+🔗 **🏴URL**: https://gabrieltanner.org/blog/stencil-js-introduction
+
 <br>
 
 ---
@@ -2056,6 +2072,28 @@ Manual muy completo de este Framework de la mano de FreeCodeCamp
 
 ---
 
+#### 👉❓ **¿Qué es un framework de CSS?**
+
+Breve introducción a este framework que realiza WebComponents.
+
+🔗 **🏳URL**: https://www.wikiwand.com/es/Framework_de_CSS
+
+---
+
+#### 👉❓ **Ventajas e inconvenientes de un framework CSS**
+
+Un breve artículo donde se expone que ventajas y que inconvenientes hay en el uso de Frameworks CSS.
+
+🔗 **🏳URL**: https://desarrolloweb.com/articulos/framework-css-ventajas-inconvenientes.html
+
+---
+
+#### 👉❓ **Pros y contras entre frameworks CSS**
+
+Listado de 9 frameworks css, donde nos dan sus pros y sus contras desde su punto de vista.
+
+🔗 **🏳URL**: https://athemes.com/collections/best-css-frameworks/
+
 <br>
 
 ---
@@ -2063,6 +2101,106 @@ Manual muy completo de este Framework de la mano de FreeCodeCamp
 ### 🛹 **CONTENIDOS**
 
 ---
+
+❗️**NOTA:** En un principio no puedo poner como se utiliza cada framework de CSS en cada framework de JS. Además que si lo váis a utilizar en un framework o librería, cada uno de ellos, lo gestiona de una manera, y además en ciertos frameworks como Vue, tenemos BootstrapVue o en React con React Bootstrap.
+
+Tendremos que hacer una breve búsqueda del tipo: "Framework CSS Framework JS".
+
+Un ejemplo: "Bootstrap React".
+
+Hago un listado de los más utilizados actualmente, para que así podáis leer su documentación o buscar más información sobre ellos. Cualquier consulta, me la podéis realizar sin ningún problema.
+
+Recomiendo encarecidamente, si vamos a usar un framework CSS, que os miréis la documentación, porque ahí es donde vamos a ver cómo utilizarlo y cómo customizarlo.
+
+---
+
+#### 👉🖊 **Introducción a Bootstrap 4**
+
+Introducción a Bootstrap 4, desde la página oficial del framework. Aquí veremos como lo podemos instalar. También añado otro artículo de cómo instalarlo con npm.
+
+🔗 **🏴URL**: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+🔗 **🏴URL**: https://getbootstrap.com/docs/4.0/getting-started/download/
+
+---
+
+#### 👉🖊 **Componentes Bootstrap**
+
+Introducción a Bootstrap 4, desde la página oficial del framework. Aquí veremos como lo podemos instalar. También añado otro artículo de cómo instalarlo con npm o yarn.
+
+🔗 **🏴URL**: https://getbootstrap.com/docs/4.0/components/alerts/
+
+---
+
+#### 👉🖊 **Documentación de Bootstrap**
+
+Documentación de Bootstrap, donde encontraremos componentes y otros tipos de usos.
+
+🔗 **🏴URL**: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+---
+
+#### 👉🖊 **Instalación Foundation**
+
+Lo que tiene Foundation es que tiene muchos tutoriales para iniciarse. En este caso, vamos a ver como instalar este Framework CSS.
+
+🔗 **🏴URL**: https://get.foundation/sites/docs/installation.html
+
+---
+
+#### 👉🖊 **Tutoriales de Foundation**
+
+En la propia web del Framework CSS, encontramos estos tutoriales sobre casos de uso.
+
+🔗 **🏴URL**: https://get.foundation/index.html
+
+---
+
+#### 👉🖊 **Documentación de Foundation**
+
+Documentación de Foundation, donde encontraremos componentes y otros tipos de usos.
+
+🔗 **🏴URL**: https://get.foundation/sites/docs/
+
+---
+
+#### 👉🖊 **Instalación de Bulma**
+
+Aquí tenemos otro framework de CSS llamado Bulma, donde tendrémos una documentación correcta y podrémos ver su uso. En este caso vamos a ver como instalarlo.
+
+🔗 **🏴URL**: https://bulma.io/documentation/overview/start/
+
+---
+
+#### 👉🖊 **Documentación de Bulma**
+
+Documentación de Bulma, donde encontraremos componentes y otros tipos de usos.
+
+🔗 **🏴URL**: https://bulma.io/documentation/overview/start/
+
+---
+
+#### 👉🖊 **Instalación de Tailwind**
+
+Cómo instalar este framework de CSS que tiene muy buena pinta.
+
+🔗 **🏴URL**: https://tailwindcss.com/docs/installation
+
+---
+
+#### 👉🖊 **Documentación de Tailwind**
+
+Documentación de Tailwind, donde encontraremos componentes y otros tipos de usos.
+
+🔗 **🏴URL**: https://tailwindcss.com/docs
+
+---
+
+#### 👉🖊 **Material Design primeros pasos y documentación**
+
+Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tienen dependencias preparadas para su uso, os recomiendo realizar una búsqueda como pone arriba de la sección en "NOTA".
+
+🔗 **🏴URL**: https://material.io/develop/web/getting-started
 
 <br>
 
