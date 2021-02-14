@@ -1844,7 +1844,15 @@ Redux es una herramienta para la gestión de estado en apps Javascript que naci�
 
 Breve introducción a TypeScript de la mano de Software Crafters, donde veremos un poco por encima de que va TypeScript.
 
-https://softwarecrafters.io/typescript/typescript-tutorial-javascript-introduccion
+🔗 **🏳URL**: https://softwarecrafters.io/typescript/typescript-tutorial-javascript-introduccion
+
+---
+
+#### 👉❓ **¿Qué es RxJS?, y usos**
+
+El título del artículo es Rxjs de 0 a experto en 15 minutos, pero es un poco ambicioso conseguir eso en tan poco tiempo. Veremos una introducción un repaso de su uso de RxJS.
+
+🔗 **🏳URL**: https://medium.com/@osmancea/programaci%C3%B3n-reactiva-con-rxjs-bebc9432485f
 
 <br>
 
@@ -1920,7 +1928,7 @@ En este caso, da tus primeros pasos de la mano de Mozilla.
 
 ---
 
-#### 👉🖊📹📚 **Primeros pasos con Vue 2**
+#### 👉🖊📚 **Primeros pasos con Vue 2**
 
 En este caso, da tus primeros pasos de la mano de Mozilla.
 
@@ -1928,13 +1936,51 @@ En este caso, da tus primeros pasos de la mano de Mozilla.
 
 ---
 
-#### 👉🖊📹📚 **Angular**
+#### 👉🖊📚 **Angular Tour of Heroes**
 
-En este caso, da tus primeros pasos de la mano de Mozilla.
+Aunque esté en Inglés, el tutorial de "Tour of Heroes" de Angular es un clásico en la introducción en este framework.
 
-🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/Vue_primeros_pasos
+🔗 **🏴URL**: https://angular.io/tutorial
 
 ---
+
+#### 👉🖊📚 **Angular**
+
+Aunque esté en Inglés, el tutorial de "Tour of Heroes" de Angular es un clásico en la introducción en este framework.
+
+🔗 **🏴URL**: https://angular.io/tutorial
+
+---
+
+#### 👉🖊📚 **Haz tu primera App con Angular**
+
+En este tutorial vamos a aprender como realizar una calculadora, así repasamos como funciona Angular.
+
+🔗 **🏴URL**: https://www.techiediaries.com/angular/angular-9-tutorial-and-example/
+
+---
+
+#### 👉🖊 **Angular para principiantes**
+
+Tutorial muy básico para introducirse con Angular.
+
+🔗 **🏳URL**: https://betabeers.com/blog/angular-principiantes-390/
+
+---
+
+#### 👉📹📚 **Curso de Angular**
+
+Curso de YouTube donde aprenderemos a utilizar Angular.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=SZtxwDAqEok&list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU&index=1
+
+---
+
+#### 👉📹📚 **Curso de Angular**
+
+Curso de YouTube donde aprenderemos a utilizar Angular.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=SZtxwDAqEok&list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU&index=1
 
 <br>
 
