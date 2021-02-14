@@ -772,6 +772,22 @@ Lista de los cambios introducidos en cada versión de ECMAScript. Hay que tener 
 
 🔗 **🏴ES2020**: https://cosasdigitales.com/articulos-diseno-web/es2021-es12-novedades-de-la-ultima-version-de-javascript/
 
+---
+
+#### 👉❓ **¿Qué es la programación funcional?**
+
+Muchas veces escucharemos que es la programación funcional, pero no sabremos lo que significa. En estos artículos nos podremos hacer una idea de que es.
+
+🔗 **🏳URL**: https://www.wikiwand.com/es/Programaci%C3%B3n_funcional
+
+🔗 **🏳URL**: https://domingogallardo.github.io/apuntes-lpp/teoria/tema02-programacion-funcional/tema02-programacion-funcional.html
+
+🔗 **🏳URL**: https://blog.softtek.com/es/programaci%C3%B3n-funcional-con-javascript-i#:~:text=La%20programaci%C3%B3n%20funcional%20es%20un,y%20no%20en%20c%C3%B3mo%20hacerlo.
+
+🔗 **🏳URL**: https://janpierrsanchez.medium.com/introducci%C3%B3n-a-programaci%C3%B3n-funcional-con-javascript-9ef140319865
+
+🔗 **🏳URL**: https://softwarecrafters.io/javascript/introduccion-programacion-funcional-javascript
+
 <br>
 
 ---
@@ -1812,11 +1828,111 @@ Podemos ver cuales son los frameworks de JS más utilizados en el 2020. Esto no 
 
 🔗 **🏴URL**: https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/
 
+---
+
+#### 👉❓ **Frameworks más usados en el 2020**
+
+Redux es una herramienta para la gestión de estado en apps Javascript que nació en 2015 de la mano de Dan Abramov. Aunque suele asociarse a React, lo cierto es que es una librería framework agnostic, que vale la pena conocer aunque no vayas a trabajar con React.
+
+🔗 **🏳URL**: http://blog.enriqueoriol.com/2018/08/que-es-redux.html
+
+🔗 **🏳URL**: https://carlosazaustre.es/como-funciona-redux-conceptos-basicos
+
+---
+
+#### 👉❓ **¿Qué es TypeScript?**
+
+Breve introducción a TypeScript de la mano de Software Crafters, donde veremos un poco por encima de que va TypeScript.
+
+https://softwarecrafters.io/typescript/typescript-tutorial-javascript-introduccion
+
 <br>
 
 ---
 
 ### 🛹 **CONTENIDOS**
+
+---
+
+#### 👉🖊📚 **Introducción a React**
+
+De la página oficial de React, encontraremos este tutorial, se va a construir un pequeño juego. Deberás estar tentado a obviarlo porque tú no estás construyendo juegos en el día a día, pero dale una oportunidad. Las técnicas que aprenderás en el tutorial son fundamentales para construir cualquier aplicación de React, y dominarlo te dará un entendimiento profundo de React.
+
+🔗 **🏳URL**: https://es.reactjs.org/tutorial/tutorial.html
+
+---
+
+#### 👉🖊📹📚 **Aprendiendo React desde cero**
+
+Midudev tiene muchos recursos interesantes, aquí te traemos un vídeo donde nos enseñará React desde cero.
+
+🔗 **🏳URL**: https://midu.dev/curso-gratis-react-2020/
+
+---
+
+#### 👉🖊📹📚 **Primeros pasos con React**
+
+Artículos donde nos enseñarán nuestros primeros pasos con React.
+
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/React_getting_started
+
+---
+
+#### 👉🖊📹📚 **Cómo crear una aplicación con React usando Hooks**
+
+Artículos donde nos enseñarán nuestros primeros pasos con React.
+
+🔗 **🏳URL**: https://www.neoguias.com/tutorial-react-hooks/
+
+---
+
+#### 👉🖊📚 **Guía Vue**
+
+Desde la página oficial de Vue, tenemos una guía que nos enseña como utilizar Vue.
+
+🔗 **🏴URL (v3)**: https://v3.vuejs.org/guide/introduction.html
+
+🔗 **🏳URL (v2)**: https://es.vuejs.org/v2/guide/
+
+---
+
+#### 👉🖊📚 **Introducción a Vue 3**
+
+En este tutorial aprenderás a crear una aplicación desde cero usando Vue. Veremos primero los conceptos fundamentales de Vue, así como la anatomía de las aplicaciones creadas con este framework.
+
+🔗 **🏳URL**: https://www.neoguias.com/tutorial-vue/
+
+---
+
+#### 👉🖊📹📚 **Primeros pasos con Vue 2**
+
+Da tus primeros paso con Vue 2 de la mano de Carlos Azaustre.
+
+🔗 **🏳URL**: https://carlosazaustre.es/primeros-pasos-en-vue
+
+---
+
+#### 👉🖊📹📚 **Primeros pasos con Vue 2**
+
+En este caso, da tus primeros pasos de la mano de Mozilla.
+
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/Vue_primeros_pasos
+
+---
+
+#### 👉🖊📹📚 **Primeros pasos con Vue 2**
+
+En este caso, da tus primeros pasos de la mano de Mozilla.
+
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/Vue_primeros_pasos
+
+---
+
+#### 👉🖊📹📚 **Angular**
+
+En este caso, da tus primeros pasos de la mano de Mozilla.
+
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/Vue_primeros_pasos
 
 ---
 
@@ -2044,7 +2160,7 @@ Ponte a prueba con katas, creado por la comunidad para fortalecer diferentes hab
 
 ---
 
-## 🤔 SITIOS DE INTERÉS
+## 🤔 SITIOS DE INTERÉS O RECURSOS DE INTERÉS
 
 ---
 
@@ -2110,3 +2226,11 @@ Documento donde nos ponen las mejores prácticas para utilizar NodeJS.
 La lista de verificación de front-end es una lista exhaustiva de todos los elementos que necesita tener / probar antes de lanzar tu sitio web / página HTML a producción.
 
 🔗 **🏴URL**: https://github.com/thedaviddias/Front-End-Checklist
+
+---
+
+#### 👉🖊 **Manual de Docker**
+
+Manual muy completo para utilizar docker, desde la instalación hasta como utilizarlo.
+
+🔗 **🏴URL**: https://www.freecodecamp.org/news/the-docker-handbook/
