@@ -1282,6 +1282,12 @@ Colección de paradigmas, algoritmos y enfoques clásicos de la informática esc
 
 🔗 **URL**: https://github.com/humanwhocodes/computer-science-in-javascript
 
+#### 👉📦 **JavaScript: mejores prácticas**
+
+Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y fácil de mantener con lecciones prácticas y claras en arquitectura de aplicaciones, administración de paquetes, herramientas, atajos, devoluciones de llamada, clases, control de flujo y mucho más.
+
+🔗 **URL**: https://www.sitepoint.com/premium/books/javascript-best-practice/read/1?fromBlog=true&campaign=js-best-practice-reader
+
 <br>
 
 ---
@@ -1556,7 +1562,7 @@ Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en
 
 ---
 
-## 🤖 PREPOCESADORES CSS
+## 🤖 PREPOCESADORES CSS Y POSTCSS
 
 ---
 
@@ -1678,6 +1684,20 @@ Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso s
 
 ---
 
+#### 👉❓ **Herramientas de compilación de JS: ¿por qué las necesitamos?**
+
+Este artículo nos resolverá las dudas por qué necesitamos herramientas para la compilación de nuestor código.
+
+🔗 **URL**: https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8
+
+---
+
+#### 👉❓ **¿Cuál es el propósito de las herramientas de compilación de JavaScript?**
+
+Pregunta de StackOverflow sobre cual es el propósito de las build tools.
+
+🔗 **URL**: https://stackoverflow.com/questions/28684041/what-is-the-purposes-of-javascript-build-tools
+
 <br>
 
 ---
@@ -1685,6 +1705,44 @@ Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso s
 ### 🛹 **CONTENIDOS**
 
 ---
+
+#### 👉🖊 **Elige una build tool de JS: configurar o no configurar**
+
+Artículo sobre las herramientas de construcción. Se han convertido en un componente necesario en el flujo de trabajo de las aplicaciones web modernas. Aquí tienes un breve repaso, una comparación de cada una y una breve explicación para configurarlas.
+
+🔗 **URL**: https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8
+
+---
+
+#### 👉🖊 **Herramientas de creación de JavaScript y sistemas de automatización**
+
+Otro artículo que hace un repaso a las principales Build Tools que tenemos ahora mismo. También nos explica un poco como configurarlas.
+
+🔗 **URL**: https://hackernoon.com/javascript-build-tools-and-automation-systems-9589c5c91ebe
+
+---
+
+#### 👉🖊 **Elige una build tool de JS: configurar o no configurar**
+
+Más recursos en forma de artículo donde hace otro repaso a las diferentes herramientas que tenemos y como debemos de configurarlas.
+
+🔗 **URL**: https://survivejs.com/webpack/appendices/comparison/
+
+---
+
+#### 👉🖊 **5 herramientas de JavaScript a tener en cuenta en 2021**
+
+El ecosistema de JavaScript evoluciona a un ritmo rápido, aquí tienes 5 herramientas a tener en cuenta este año.
+
+🔗 **URL**: https://www.sitepoint.com/javascript-tools-to-look-out-for/
+
+---
+
+#### 👉🖊📹📚 **Cómo combinar JavaScript con Rollup - Tutorial paso a paso**
+
+Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete web y Browserify para agrupar archivos JavaScript en esta serie de tutoriales paso a paso.
+
+🔗 **URL**: https://www.learnwithjason.dev/blog/learn-rollup-js
 
 <br>
 
