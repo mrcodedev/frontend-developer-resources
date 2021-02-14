@@ -1558,7 +1558,7 @@ Documentación de Yarn sobre su uso (si ya lo tenemos instalado podemos obviar l
 
 Artículo que da un repaso a las arquitecturas o metodologías que existen para CSS.
 
-🔗 **URL**: https://medium.com/williambastidasblog/metodolog%C3%ADas-o-arquitecturas-css-oocss-bem-smacss-itcss-atomic-design-a1a3cfbfa6c9
+🔗 **🏳URL**: https://medium.com/williambastidasblog/metodolog%C3%ADas-o-arquitecturas-css-oocss-bem-smacss-itcss-atomic-design-a1a3cfbfa6c9
 
 ---
 
@@ -1566,7 +1566,7 @@ Artículo que da un repaso a las arquitecturas o metodologías que existen para 
 
 Artículo que nos explica como debería de ser nuestro código CSS.
 
-🔗 **URL**: https://cosasdigitales.com/articulos-diseno-web/arquitectura-css-como-deberia-ser-tu-codigo-css/
+🔗 **🏳URL**: https://cosasdigitales.com/articulos-diseno-web/arquitectura-css-como-deberia-ser-tu-codigo-css/
 
 ---
 
@@ -1574,7 +1574,7 @@ Artículo que nos explica como debería de ser nuestro código CSS.
 
 Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en arquitecturas CSS", en la Codemotion de Madrid en 2017.
 
-🔗 **URL**: https://www.youtube.com/watch?v=B9Qwq_MKuqY
+🔗 **🏳URL**: https://www.youtube.com/watch?v=B9Qwq_MKuqY
 
 <br>
 
@@ -1592,11 +1592,11 @@ Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en
 
 Una breve descripción de que es un preprocesador CSS.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Glossary/Preprocesador_CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Glossary/Preprocesador_CSS
 
-🔗 **URL**: https://abalozz.es/que-es-un-preprocesador-de-css/
+🔗 **🏳URL**: https://abalozz.es/que-es-un-preprocesador-de-css/
 
-🔗 **URL**: https://picodotdev.github.io/blog-bitix/2020/08/que-hace-y-ventajas-de-un-preprocesador-de-estilos-css/
+🔗 **🏳URL**: https://picodotdev.github.io/blog-bitix/2020/08/que-hace-y-ventajas-de-un-preprocesador-de-estilos-css/
 
 ---
 
@@ -1612,7 +1612,7 @@ Una breve descripción de que es un preprocesador CSS.
 
 Excelente artículo que nos habla un poco de que es SASS y como instalarlo.
 
-🔗 **URL**: https://codingpotions.com/tutorial-sass
+🔗 **🏳URL**: https://codingpotions.com/tutorial-sass
 
 ---
 
@@ -1620,9 +1620,9 @@ Excelente artículo que nos habla un poco de que es SASS y como instalarlo.
 
 Muchas veces nos volvemos loques buscando recursos, pero la documentación cualquier cosa que consumamos, suele estar completa. En este caso SASS, tiene una buena documentación de la cual podemos aprender qué cosas podemos realizar.
 
-🔗 **URL**: https://sass-lang.com/guide
+🔗 **🏴URL**: https://sass-lang.com/guide
 
-🔗 **URL**: https://sass-lang.com/documentation
+🔗 **🏴URL**: https://sass-lang.com/documentation
 
 ---
 
@@ -1630,9 +1630,9 @@ Muchas veces nos volvemos loques buscando recursos, pero la documentación cualq
 
 En la página oficial podemos ver como se utiliza (se parece mucho a SASS), y también tenemos una guía de qué cosas podemos realizar.
 
-🔗 **URL**: http://lesscss.org/usage/
+🔗 **🏴URL**: http://lesscss.org/usage/
 
-🔗 **URL**: http://lesscss.org/features/
+🔗 **🏴URL**: http://lesscss.org/features/
 
 ---
 
@@ -1640,7 +1640,7 @@ En la página oficial podemos ver como se utiliza (se parece mucho a SASS), y ta
 
 Artículo sencillo de como instalar Stylus CSS
 
-🔗 **URL**: https://devcode.la/tutoriales/instalacion-de-stylus/
+🔗 **🏳URL**: https://devcode.la/tutoriales/instalacion-de-stylus/
 
 ---
 
@@ -1648,11 +1648,11 @@ Artículo sencillo de como instalar Stylus CSS
 
 Artículo de cómo usar Stylus.
 
-🔗 **URL**: https://devcode.la/tutoriales/que-es-stylus-preprocesador-de-css/
+🔗 **🏳URL**: https://devcode.la/tutoriales/que-es-stylus-preprocesador-de-css/
 
 ---
 
-#### 👉🖊 **Documentación oficial Stylus**
+#### 👉🏴🖊 **Documentación oficial Stylus**
 
 Documentación de Stylus bastante completa.
 
@@ -1664,7 +1664,7 @@ Documentación de Stylus bastante completa.
 
 Documentación oficial de instalación de PostCSS.
 
-🔗 **URL**: https://github.com/postcss/postcss#usage
+🔗 **🏴URL**: https://github.com/postcss/postcss#usage
 
 ---
 
@@ -1672,7 +1672,7 @@ Documentación oficial de instalación de PostCSS.
 
 Documentación oficial de uso de PostCSS.
 
-🔗 **URL**: https://github.com/postcss/postcss/tree/main/docs
+🔗 **🏴URL**: https://github.com/postcss/postcss/tree/main/docs
 
 ---
 
@@ -1680,7 +1680,7 @@ Documentación oficial de uso de PostCSS.
 
 Vídeo de la conferencia de JS Day Canarias que imparte Joan León, que nos dice como instalarlo y como utilizarlo por encima.
 
-🔗 **URL**: https://www.youtube.com/watch?v=ssAUyf0kpfo
+🔗 **🏳URL**: https://www.youtube.com/watch?v=ssAUyf0kpfo
 
 ---
 
@@ -1688,7 +1688,7 @@ Vídeo de la conferencia de JS Day Canarias que imparte Joan León, que nos dice
 
 Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso sobre este preprocesador de CSS.
 
-🔗 **URL**: https://joanleon.dev/postcss
+🔗 **🏳URL**: https://joanleon.dev/postcss
 
 <br>
 
@@ -1706,7 +1706,7 @@ Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso s
 
 Este artículo nos resolverá las dudas por qué necesitamos herramientas para la compilación de nuestor código.
 
-🔗 **URL**: https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8
+🔗 **🏴URL**: https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8
 
 ---
 
@@ -1714,7 +1714,7 @@ Este artículo nos resolverá las dudas por qué necesitamos herramientas para l
 
 Pregunta de StackOverflow sobre cual es el propósito de las build tools.
 
-🔗 **URL**: https://stackoverflow.com/questions/28684041/what-is-the-purposes-of-javascript-build-tools
+🔗 **🏴URL**: https://stackoverflow.com/questions/28684041/what-is-the-purposes-of-javascript-build-tools
 
 <br>
 
@@ -1728,7 +1728,7 @@ Pregunta de StackOverflow sobre cual es el propósito de las build tools.
 
 Artículo sobre las herramientas de construcción. Se han convertido en un componente necesario en el flujo de trabajo de las aplicaciones web modernas. Aquí tienes un breve repaso, una comparación de cada una y una breve explicación para configurarlas.
 
-🔗 **URL**: https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8
+🔗 **🏴URL**: https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8
 
 ---
 
@@ -1736,7 +1736,7 @@ Artículo sobre las herramientas de construcción. Se han convertido en un compo
 
 Otro artículo que hace un repaso a las principales Build Tools que tenemos ahora mismo. También nos explica un poco como configurarlas.
 
-🔗 **URL**: https://hackernoon.com/javascript-build-tools-and-automation-systems-9589c5c91ebe
+🔗 **🏴URL**: https://hackernoon.com/javascript-build-tools-and-automation-systems-9589c5c91ebe
 
 ---
 
@@ -1744,7 +1744,7 @@ Otro artículo que hace un repaso a las principales Build Tools que tenemos ahor
 
 Más recursos en forma de artículo donde hace otro repaso a las diferentes herramientas que tenemos y como debemos de configurarlas.
 
-🔗 **URL**: https://survivejs.com/webpack/appendices/comparison/
+🔗 **🏴URL**: https://survivejs.com/webpack/appendices/comparison/
 
 ---
 
@@ -1752,7 +1752,7 @@ Más recursos en forma de artículo donde hace otro repaso a las diferentes herr
 
 El ecosistema de JavaScript evoluciona a un ritmo rápido, aquí tienes 5 herramientas a tener en cuenta este año.
 
-🔗 **URL**: https://www.sitepoint.com/javascript-tools-to-look-out-for/
+🔗 **🏴URL**: https://www.sitepoint.com/javascript-tools-to-look-out-for/
 
 ---
 
@@ -1760,7 +1760,7 @@ El ecosistema de JavaScript evoluciona a un ritmo rápido, aquí tienes 5 herram
 
 Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete web y Browserify para agrupar archivos JavaScript en esta serie de tutoriales paso a paso.
 
-🔗 **URL**: https://www.learnwithjason.dev/blog/learn-rollup-js
+🔗 **🏴URL**: https://www.learnwithjason.dev/blog/learn-rollup-js
 
 <br>
 
@@ -1778,7 +1778,7 @@ Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete 
 
 Los frameworks de JavaScript son una parte esencial del desarrollo web front-end moderno, los cuales proveen a los desarrolladores herramientas probadas y testeadas para la creación de aplicaciones web interactivas y escalables.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks
 
 ---
 
@@ -1786,7 +1786,7 @@ Los frameworks de JavaScript son una parte esencial del desarrollo web front-end
 
 Aquí nos explican de una manera muy breve, cual es la diferencia entre una librería y un framework.
 
-🔗 **URL**: http://notasjs.blogspot.com/2014/09/diferencia-entre-libreria-y-framework.html
+🔗 **🏳URL**: http://notasjs.blogspot.com/2014/09/diferencia-entre-libreria-y-framework.html
 
 ---
 
@@ -1794,7 +1794,7 @@ Aquí nos explican de una manera muy breve, cual es la diferencia entre una libr
 
 Comenzamos nuestra mirada a los frameworks con una descripción general, analizando una breve historia de JavaScript y sus frameworks, por qué existen los frameworks y qué nos brindan, cómo empezar a pensar en la elección de un framework para aprender y qué alternativas hay de frameworks del lado del cliente.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction
 
 ---
 
@@ -1802,7 +1802,7 @@ Comenzamos nuestra mirada a los frameworks con una descripción general, analiza
 
 Cada framework de JS tiene un enfoque diferente para actualizar el DOM, manejar los eventos del navegador y brindar una experiencia de desarrollador agradable. Este artículo explorará las características principales de los frameworks de “los 4 grandes” (React, Ember, Vue y Angular), observando cómo los frameworks tienden a funcionar desde un alto nivel y las diferencias entre ellos.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features
 
 ---
 
@@ -1810,7 +1810,7 @@ Cada framework de JS tiene un enfoque diferente para actualizar el DOM, manejar 
 
 Podemos ver cuales son los frameworks de JS más utilizados en el 2020. Esto no significa que sean unos mejores que otros, ni que estudiando la más usada vas a encontrar trabajo más rápido. Debes de aprender como funcionan varios y después saber utilizar si te ponen uno que es nuevo para ti.
 
-🔗 **URL**: https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/
+🔗 **🏴URL**: https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/
 
 <br>
 
@@ -1952,7 +1952,7 @@ Podemos ver cuales son los frameworks de JS más utilizados en el 2020. Esto no 
 
 Es una organización sin ánimo de lucro consistente en una una plataforma web de enseñanza interactiva accesible para todo el mundo. Al final puedes conseguir un certíficado de que has realizado todos los ejercicios de esta plataforma. Es totalmente gratuito.
 
-🔗 **URL**: https://www.freecodecamp.org/
+🔗 **🏴URL**: https://www.freecodecamp.org/
 
 ---
 
@@ -1960,7 +1960,7 @@ Es una organización sin ánimo de lucro consistente en una una plataforma web d
 
 Este curso sirve como una introducción al desarrollo de aplicaciones web modernas con JavaScript. El objetivo principal es crear aplicaciones SPA con ReactJS que utilizan API REST creadas con Node.js. El curso también contiene una sección sobre GraphQL, una alternativa moderna a las API REST.
 
-🔗 **URL**: https://fullstackopen.com/en/
+🔗 **🏴URL**: https://fullstackopen.com/en/
 
 ---
 
@@ -1968,7 +1968,7 @@ Este curso sirve como una introducción al desarrollo de aplicaciones web modern
 
 Es uno de esos recursos gratuitos de "lo que desearía tener cuando estoy aprendiendo". Proyecto interesante y que podemos seguir aprendiendo, y que tiene un Path de Full Stack JavaScript.
 
-🔗 **URL**: https://www.theodinproject.com/home
+🔗 **🏴URL**: https://www.theodinproject.com/home
 
 ---
 
@@ -1976,7 +1976,7 @@ Es uno de esos recursos gratuitos de "lo que desearía tener cuando estoy aprend
 
 Dash es un curso en línea divertido y gratuito que te enseña los conceptos básicos del desarrollo web a través de proyectos que puedes realizar en tu navegador.
 
-🔗 **URL**: https://dash.generalassemb.ly/
+🔗 **🏴URL**: https://dash.generalassemb.ly/
 
 ---
 
@@ -1984,7 +1984,7 @@ Dash es un curso en línea divertido y gratuito que te enseña los conceptos bá
 
 Organización sin ánimo de lucro cuya misión es la de brindar una educación gratuita de clase mundial para cualquier persona, en cualquier lugar. En nuestro campo, hay distintos cursos de programación 100% grauitos.
 
-🔗 **URL**: https://www.khanacademy.org/computing/computer-programming
+🔗 **🏴URL**: https://www.khanacademy.org/computing/computer-programming
 
 ---
 
@@ -1992,7 +1992,7 @@ Organización sin ánimo de lucro cuya misión es la de brindar una educación g
 
 Mejora tus habilidades de programación con 3450 ejercicios en 52 idiomas y con un equipo dedicado de mentores. Los ejercicios son 100% gratis por siempre.
 
-🔗 **URL**: https://exercism.io/
+🔗 **🏴URL**: https://exercism.io/
 
 ---
 
@@ -2000,7 +2000,7 @@ Mejora tus habilidades de programación con 3450 ejercicios en 52 idiomas y con 
 
 Plataforma para ayudar a les usuaries a aprender los conceptos básicos de los principales lenguajes de programación mediante la explicación de teoría y una serie de ejercicios prácticos con los que demostrar que, de verdad, hemos entendido el concepto.
 
-🔗 **URL**: https://www.sololearn.com/
+🔗 **🏴URL**: https://www.sololearn.com/
 
 ---
 
@@ -2008,7 +2008,7 @@ Plataforma para ayudar a les usuaries a aprender los conceptos básicos de los p
 
 Es un taller de dos días, aprenderás los conceptos básicos del desarrollo frontend mientras creas una aplicación web que funciona.
 
-🔗 **URL**: https://github.com/microsoft/frontend-bootcamp
+🔗 **🏴URL**: https://github.com/microsoft/frontend-bootcamp
 
 ---
 
@@ -2016,7 +2016,7 @@ Es un taller de dos días, aprenderás los conceptos básicos del desarrollo fro
 
 Adalab es una escuela especializada en formación digital para mujeres. Trabajan para formar y acompañar a mujeres que buscan un giro profesional adaptado a las nuevas necesidades de las empresas. Aquí tenemos el material que utilizan y que podemos seguir perfectamente.
 
-🔗 **URL**: https://books.adalab.es/materiales-front-end-d/
+🔗 **🏳URL**: https://books.adalab.es/materiales-front-end-d/
 
 ---
 
@@ -2024,7 +2024,7 @@ Adalab es una escuela especializada en formación digital para mujeres. Trabajan
 
 Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid. Aquí tenemos todos los repositorios de todos los cursos que se han impartido hasta ahora. Tenemos todo el material que tienen les alumnes.
 
-🔗 **URL**: https://github.com/Fictizia
+🔗 **🏳URL**: https://github.com/Fictizia
 
 <br>
 
@@ -2038,7 +2038,7 @@ Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid
 
 Ponte a prueba con katas, creado por la comunidad para fortalecer diferentes habilidades. Domina el idioma que prefieras o amplía tu comprensión de uno nuevo.
 
-🔗 **URL**: https://www.codewars.com/
+🔗 **🏴URL**: https://www.codewars.com/
 
 <br>
 
@@ -2052,8 +2052,8 @@ Ponte a prueba con katas, creado por la comunidad para fortalecer diferentes hab
 
 Dirás, ¿este se le ha ido la cabeza?, pues no. Un buscador siempre nos va a salvar en muchas ocasiones, y tenemos que saber buscar. Os doy el consejo de buscar siempre lo que queráis en inglés.
 
-🔗 **URL**: https://www.google.com
-🔗 **URL**: https://duckduckgo.com/
+🔗 **🏳URL**: https://www.google.com
+🔗 **🏳URL**: https://duckduckgo.com/
 
 ---
 
@@ -2061,7 +2061,7 @@ Dirás, ¿este se le ha ido la cabeza?, pues no. Un buscador siempre nos va a sa
 
 Es la biblia para les programadores, aquí la gente pone su duda y la gente le ayuda a buscar una solución.
 
-🔗 **URL**: https://stackoverflow.com/
+🔗 **🏳🏴URL**: https://stackoverflow.com/
 
 ---
 
@@ -2069,7 +2069,7 @@ Es la biblia para les programadores, aquí la gente pone su duda y la gente le a
 
 Podemos ver si una característica de HTML o CSS es compatible con todos los navegadores.
 
-🔗 **URL**: https://caniuse.com/
+🔗 **🏴URL**: https://caniuse.com/
 
 ---
 
@@ -2077,7 +2077,7 @@ Podemos ver si una característica de HTML o CSS es compatible con todos los nav
 
 Hemos utilizado este recurso en este documento, pero tiene más secciones las cuales puedes explorar. Tiene un montón de artículos y siempre es bueno tenerlos a mano o echarles un vistazo.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn
+🔗 **🏳🏴URL**: https://developer.mozilla.org/es/docs/Learn
 
 ---
 
@@ -2085,7 +2085,7 @@ Hemos utilizado este recurso en este documento, pero tiene más secciones las cu
 
 Desde la w3schools tenemos distintos ejemplos de como realizar desde una cabecera con vídeo o un botón animado.
 
-🔗 **URL**: https://www.w3schools.com/howto/default.asp
+🔗 **🏴URL**: https://www.w3schools.com/howto/default.asp
 
 ---
 
@@ -2093,7 +2093,7 @@ Desde la w3schools tenemos distintos ejemplos de como realizar desde una cabecer
 
 APIs para usar en tus pet projects o en proyectos de pruebas.
 
-🔗 **URL**: https://github.com/public-apis/public-apis
+🔗 **🏴URL**: https://github.com/public-apis/public-apis
 
 ---
 
@@ -2109,4 +2109,4 @@ Documento donde nos ponen las mejores prácticas para utilizar NodeJS.
 
 La lista de verificación de front-end es una lista exhaustiva de todos los elementos que necesita tener / probar antes de lanzar tu sitio web / página HTML a producción.
 
-🔗 **URL**: https://github.com/thedaviddias/Front-End-Checklist
+🔗 **🏴URL**: https://github.com/thedaviddias/Front-End-Checklist
