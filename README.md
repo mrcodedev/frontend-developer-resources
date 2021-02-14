@@ -10,6 +10,10 @@ Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si t
 
 Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
 
+También quiero comentar (desde mi punto de vista), que los cursos de 0 a experto en 15 minutos o en un día, es imposible. Podemos aprender ciertas cosas, pero no vamos a dominar esa tecnología con soltura. Tenemos que práctica y usarla muchas veces, y además, afrontarnos a errores o bloqueos.
+
+Quiero agradecer a todas las fuentes de los recursos, por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript.
+
 Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá una mano señalando que tipo de recurso es 👉.
 
 | Emoji | ¿Qué significa?                          |
@@ -25,6 +29,8 @@ Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá u
 | 📑    | Apuntes o cheatsheets                    |
 | 🏳     | Idioma en español                        |
 | 🏴    | Idioma en inglés                         |
+
+Si queréis apoyar con una aportación, siempre se agradece, igual que siempre se puede hacer una aportación a todas las fuentes recopiladas en este documento.
 
 ---
 
@@ -1848,6 +1854,14 @@ Breve introducción a TypeScript de la mano de Software Crafters, donde veremos 
 
 ---
 
+#### 👉❓ **Aprende los tipos de datos en TypeScript**
+
+Artículo donde nos enseñarán a tipar bien nuestros datos en TypeScript.
+
+🔗 **🏴URL**: https://www.freecodecamp.org/news/learn-typescript-data-types-from-zero-to-hero/
+
+---
+
 #### 👉❓ **¿Qué es RxJS?, y usos**
 
 El título del artículo es Rxjs de 0 a experto en 15 minutos, pero es un poco ambicioso conseguir eso en tan poco tiempo. Veremos una introducción un repaso de su uso de RxJS.
@@ -1976,11 +1990,43 @@ Curso de YouTube donde aprenderemos a utilizar Angular.
 
 ---
 
-#### 👉📹📚 **Curso de Angular**
+#### 👉🖊📚 **Desarrolloweb LitElement**
 
-Curso de YouTube donde aprenderemos a utilizar Angular.
+Curso de LitElement de desarrollo web, donde daremos un repaso a la librería para realizar WebComponents.
 
-🔗 **🏳URL**: https://www.youtube.com/watch?v=SZtxwDAqEok&list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU&index=1
+🔗 **🏳URL**: https://desarrolloweb.com/manuales/manual-litelement.html
+
+---
+
+#### 👉🖊📚 **¿Qué son los WebComponents?. Y cómo utilizar LitElement**
+
+Repaso a los WebComponents nativos y realizados con LitElement.
+
+🔗 **🏳URL**: https://lenguajejs.com/webcomponents/introduccion/que-son-webcomponents/
+
+---
+
+#### 👉🖊📚 **Desarrolloweb LitElement**
+
+Artículo muy compelto para realizar WebComponents nativos.
+
+🔗 **🏴URL**: https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85
+
+---
+
+#### 👉🖊📚 **Introduccion a SvelteJS**
+
+Tutorial muy completo de Svelte de su página oficial, además es interactivo y nos puede recordar a FreeCodeCamp.
+
+🔗 **🏴URL**: https://svelte.dev/tutorial/basics
+
+---
+
+#### 👉🖊📚 **Manual de SvelteJS**
+
+Manual muy completo de este Framework de la mano de FreeCodeCamp
+
+🔗 **🏴URL**: https://www.freecodecamp.org/news/the-svelte-handbook/
 
 <br>
 
