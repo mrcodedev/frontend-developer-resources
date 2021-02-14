@@ -23,6 +23,8 @@ Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá u
 | 📦    | Repositorio                              |
 | 🕹     | Prácticas en vivo                        |
 | 📑    | Apuntes o cheatsheets                    |
+| 🏳     | Idioma en español                        |
+| 🏴    | Idioma en inglés                         |
 
 ---
 
@@ -38,7 +40,7 @@ Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá u
 
 Vamos a empezar con lo principal, como empezó esto de los ordenadores.
 
-🔗 **URL**: https://www.wikiwand.com/es/Inform%C3%A1tica
+🔗 **🏳URL**: https://www.wikiwand.com/es/Inform%C3%A1tica
 
 ---
 
@@ -46,7 +48,7 @@ Vamos a empezar con lo principal, como empezó esto de los ordenadores.
 
 El origen de Internet, cómo nació y su funcionamiento.
 
-🔗 **URL**: https://www.wikiwand.com/es/Internet
+🔗 **🏳URL**: https://www.wikiwand.com/es/Internet
 
 ---
 
@@ -54,7 +56,7 @@ El origen de Internet, cómo nació y su funcionamiento.
 
 Artículo interesante donde nos cuenta la verdadera historia que hay detrás del nacimiento de Internet.
 
-🔗 **URL**: https://www.microsiervos.com/archivo/internet/el-verdadero-origen-de-internet.html
+🔗 **🏳URL**: https://www.microsiervos.com/archivo/internet/el-verdadero-origen-de-internet.html
 
 ---
 
@@ -62,7 +64,7 @@ Artículo interesante donde nos cuenta la verdadera historia que hay detrás del
 
 Se dice mucho la palabra HTTP pero, ¿realmente qué quiere decir?.
 
-🔗 **URL**: https://www.wikiwand.com/es/Protocolo_de_transferencia_de_hipertexto
+🔗 **🏳URL**: https://www.wikiwand.com/es/Protocolo_de_transferencia_de_hipertexto
 
 ---
 
@@ -70,9 +72,9 @@ Se dice mucho la palabra HTTP pero, ¿realmente qué quiere decir?.
 
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica.
 
-🔗 **URL**: https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP
+🔗 **🏳URL**: https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Web/HTTP/Status
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/HTTP/Status
 
 ---
 
@@ -80,7 +82,7 @@ Los códigos de estado de respuesta HTTP indican si se ha completado satisfactor
 
 Cómo funcionan los navegadores: lo que hay detrás de los navegadores web actuales
 
-🔗 **URL**: https://www.html5rocks.com/es/tutorials/internals/howbrowserswork/
+🔗 **🏳URL**: https://www.html5rocks.com/es/tutorials/internals/howbrowserswork/
 
 ---
 
@@ -88,7 +90,7 @@ Cómo funcionan los navegadores: lo que hay detrás de los navegadores web actua
 
 Tenemos normalizado los nombres de dominio, pero no realmente lo que es una DNS, aquí vemos una explicación.
 
-🔗 **URL**: http://wikiwand.com/es/Sistema_de_nombres_de_dominio
+🔗 **🏳URL**: http://wikiwand.com/es/Sistema_de_nombres_de_dominio
 
 ---
 
@@ -96,7 +98,7 @@ Tenemos normalizado los nombres de dominio, pero no realmente lo que es una DNS,
 
 Hablamos de IPs siempre, pero si queremos saber realmente como se conforman, tenemos este artículo de la Wikipedia donde se explica muy bien.
 
-🔗 **URL**: https://www.wikiwand.com/es/Direcci%C3%B3n_IP
+🔗 **🏳URL**: https://www.wikiwand.com/es/Direcci%C3%B3n_IP
 
 ---
 
@@ -104,7 +106,7 @@ Hablamos de IPs siempre, pero si queremos saber realmente como se conforman, ten
 
 Realmente cuando tenemos una app o una web necesitamos alojarlo en un lugar, aquí interviene el hosting.
 
-🔗 **URL**: https://www.wikiwand.com/es/Alojamiento_web
+🔗 **🏳URL**: https://www.wikiwand.com/es/Alojamiento_web
 
 ---
 
@@ -112,7 +114,7 @@ Realmente cuando tenemos una app o una web necesitamos alojarlo en un lugar, aqu
 
 Qué es este paradigma que está de moda.
 
-🔗 **URL**: https://www.wikiwand.com/es/Computaci%C3%B3n_en_la_nube
+🔗 **🏳URL**: https://www.wikiwand.com/es/Computaci%C3%B3n_en_la_nube
 
 ---
 
@@ -120,7 +122,7 @@ Qué es este paradigma que está de moda.
 
 Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos que saber realmente lo que son.
 
-🔗 **URL**: https://www.wrike.com/es/blog/que-es-una-api-necesitas-saber/
+🔗 **🏳URL**: https://www.wrike.com/es/blog/que-es-una-api-necesitas-saber/
 
 ---
 
@@ -128,7 +130,7 @@ Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos q
 
 Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escuchas esta palabra y te suena a chino, aquí tienes una breve explicación de lo que realmente es un IDE.
 
-🔗 **URL**: https://platzi.com/blog/que-son-los-ides-y-los-editores-de-texto/
+🔗 **🏳URL**: https://platzi.com/blog/que-son-los-ides-y-los-editores-de-texto/
 
 <br>
 
@@ -146,9 +148,9 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Web/HTML
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/HTML
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 ---
 
@@ -156,7 +158,7 @@ Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor
 
 Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
 
-🔗 **URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
+🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
 
 ---
 
@@ -164,7 +166,7 @@ Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor
 
 Hay un consorcio que se preocupa que todo lo que hacemos tenga un estándard.
 
-🔗 **URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
+🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
 
 ---
 
@@ -172,7 +174,7 @@ Hay un consorcio que se preocupa que todo lo que hacemos tenga un estándard.
 
 Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explican.
 
-🔗 **URL**: https://www.wikiwand.com/es/HTML5
+🔗 **🏳URL**: https://www.wikiwand.com/es/HTML5
 
 <br>
 
@@ -186,7 +188,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 Nuestros primeros para prepararnos para como realizar páginas en HTML.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 ---
 
@@ -194,7 +196,7 @@ Nuestros primeros para prepararnos para como realizar páginas en HTML.
 
 Breve introducción al HTML.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/iniciar
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/iniciar
 
 ---
 
@@ -202,7 +204,7 @@ Breve introducción al HTML.
 
 Es un elemento que no vemos en las páginas web pero es muy importante que las tengamos en cuenta.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Metados_en
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Metados_en
 
 ---
 
@@ -210,7 +212,7 @@ Es un elemento que no vemos en las páginas web pero es muy importante que las t
 
 Fundamentos para introducir texto en HTML.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/texto
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/texto
 
 ---
 
@@ -218,7 +220,7 @@ Fundamentos para introducir texto en HTML.
 
 Cómo introducir enlaces dentro de HTML y seguir los estándares.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Creating_hyperlinks
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Creating_hyperlinks
 
 ---
 
@@ -226,7 +228,7 @@ Cómo introducir enlaces dentro de HTML y seguir los estándares.
 
 En un capítulo anterior hemos visto como introducir texto, pero ahora de una manera más avanzada.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Advanced_text_formatting
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Advanced_text_formatting
 
 ---
 
@@ -234,7 +236,7 @@ En un capítulo anterior hemos visto como introducir texto, pero ahora de una ma
 
 Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiquetas para las estructuras de nuestro sitio web.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/estructura
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/estructura
 
 ---
 
@@ -242,7 +244,7 @@ Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiqu
 
 Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas podemos utilizar. Ahora es el momento de saber debuggear nuestro código HTML.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Debugging_HTML
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Debugging_HTML
 
 ---
 
@@ -250,7 +252,7 @@ Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas pode
 
 En que estructuras podemos dividir una página.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Estructuraci%C3%B3n_de_una_p%C3%A1gina_de_contenido
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Estructuraci%C3%B3n_de_una_p%C3%A1gina_de_contenido
 
 ---
 
@@ -258,7 +260,7 @@ En que estructuras podemos dividir una página.
 
 Una de las tareas más rutinarias serán realizar formularios.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/HTML/HTML5/Forms_in_HTML5
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/HTML/HTML5/Forms_in_HTML5
 
 ---
 
@@ -266,7 +268,7 @@ Una de las tareas más rutinarias serán realizar formularios.
 
 Como adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 
 ---
 
@@ -274,7 +276,7 @@ Como adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
 
 Curso donde vas a aprender a básica de práctica, podrás está enfocado en HTML y HTML5.
 
-🔗 **URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+🔗 **🏴URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 
 ---
 
@@ -282,7 +284,7 @@ Curso donde vas a aprender a básica de práctica, podrás está enfocado en HTM
 
 HTML es el lenguaje de marcado estándar para páginas web. Con HTML puede crear su propio sitio web. HTML es fácil de aprender y podrás hacer tutoriales prácticos para ir practicando.
 
-🔗 **URL**: https://www.w3schools.com/html/html_intro.asp
+🔗 **🏴URL**: https://www.w3schools.com/html/html_intro.asp
 
 ---
 
@@ -290,7 +292,7 @@ HTML es el lenguaje de marcado estándar para páginas web. Con HTML puede crear
 
 Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para principiantes.
 
-🔗 **URL**: https://www.youtube.com/watch?v=pQN-pnXPaVg
+🔗 **🏴URL**: https://www.youtube.com/watch?v=pQN-pnXPaVg
 
 ---
 
@@ -298,7 +300,7 @@ Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para prin
 
 Listado de elementos HTML con ejemplos y hasta con ejercicios.
 
-🔗 **URL**: https://www.w3schools.com/html/default.asp
+🔗 **🏴URL**: https://www.w3schools.com/html/default.asp
 
 <br>
 
@@ -316,7 +318,7 @@ Listado de elementos HTML con ejemplos y hasta con ejercicios.
 
 Página web de la comunidad "The a11y project" donde tiene artículos muy interesantes sobre accesibilidad.
 
-🔗 **URL**: https://www.a11ywithlindsey.com/
+🔗 **🏴URL**: https://www.a11ywithlindsey.com/
 
 ---
 
@@ -324,7 +326,7 @@ Página web de la comunidad "The a11y project" donde tiene artículos muy intere
 
 Blog de Lindsey que se dedica a todo el tema de la accesibilidad, siempre tiene artículos muy pero que muy interesantes.
 
-🔗 **URL**: https://www.a11ywithlindsey.com/
+🔗 **🏴URL**: https://www.a11ywithlindsey.com/
 
 ---
 
@@ -332,7 +334,7 @@ Blog de Lindsey que se dedica a todo el tema de la accesibilidad, siempre tiene 
 
 Deque University tiene cursos sobre accesibilidad, y aquí tienen un listado sobre que cosa tenemos que tener en cuenta a la hora de hacer nuestra aplicación o web, de forma accesible.
 
-🔗 **URL**: https://dequeuniversity.com/checklists/web/
+🔗 **🏴URL**: https://dequeuniversity.com/checklists/web/
 
 ---
 
@@ -340,7 +342,7 @@ Deque University tiene cursos sobre accesibilidad, y aquí tienen un listado sob
 
 Gracias a Alena Nikolaeva, tenemos unos apuntos sobre accesibilidad que podemos utilizar en nuestro día a día.
 
-🔗 **URL**: https://www.notion.so/Quick-wins-and-easy-checks-7efac3ef91c24e5fbfd184dc3e25d8e8
+🔗 **🏴URL**: https://www.notion.so/Quick-wins-and-easy-checks-7efac3ef91c24e5fbfd184dc3e25d8e8
 
 ---
 
@@ -348,7 +350,15 @@ Gracias a Alena Nikolaeva, tenemos unos apuntos sobre accesibilidad que podemos 
 
 Newsletter para recibir toda la actualidad sobre accesibilidad.
 
-🔗 **URL**: https://a11yweekly.com/
+🔗 **🏴URL**: https://a11yweekly.com/
+
+---
+
+👉🖊 **Blog de Adrián Bolonio**
+
+Blog de Adrián donde suele subir artículos sobre accesibilidad web
+
+🔗 **🏳URL**: https://www.adrianbolonio.com/es/blog
 
 <br>
 
@@ -366,7 +376,7 @@ Newsletter para recibir toda la actualidad sobre accesibilidad.
 
 Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
-🔗 **URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
+🔗 **🏳URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
 
 <br>
 
@@ -380,7 +390,7 @@ Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
 Nos resuelve la pregunta que es CSS y que réquisitos necesitamos para aprenderlo (principalmente saber HTML).
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Qu%C3%A9_es_CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Qu%C3%A9_es_CSS
 
 ---
 
@@ -388,7 +398,7 @@ Nos resuelve la pregunta que es CSS y que réquisitos necesitamos para aprenderl
 
 Vamos a empezar a dar nuestros primeros pasos en CSS.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS
 
 ---
 
@@ -396,7 +406,7 @@ Vamos a empezar a dar nuestros primeros pasos en CSS.
 
 Profundizamos un poco más en la estructura del lenguaje.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_se_estructura_CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_se_estructura_CSS
 
 ---
 
@@ -404,7 +414,7 @@ Profundizamos un poco más en la estructura del lenguaje.
 
 Sabemos ya como funciona el lenguaje, ahora falta saber como lo utiliza el navegador.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_funciona_CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_funciona_CSS
 
 ---
 
@@ -412,7 +422,7 @@ Sabemos ya como funciona el lenguaje, ahora falta saber como lo utiliza el naveg
 
 Después de ver un poco por encima el lenguaje CSS, ponemos en práctica lo aprendido.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimiento
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Usa_tu_nuevo_conocimiento
 
 ---
 
@@ -420,7 +430,7 @@ Después de ver un poco por encima el lenguaje CSS, ponemos en práctica lo apre
 
 Actualmente tenemos muchos dispositivos y con diferentes tamaños, ¿has pensado alguna vez como adaptar el diseño de nuestra web en todos ellos?.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/CSS/Media_queries
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/CSS/Media_queries
 
 ---
 
@@ -428,7 +438,7 @@ Actualmente tenemos muchos dispositivos y con diferentes tamaños, ¿has pensado
 
 Tipos de medios para especificar las media queries
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/@media
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/CSS/@media
 
 ---
 
@@ -436,7 +446,7 @@ Tipos de medios para especificar las media queries
 
 En CSS sabemos como utilizar media queries, pero ¿y en nuestro código JS?.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Web/Guide/CSS/probando_media_queries
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/Guide/CSS/probando_media_queries
 
 ---
 
@@ -444,7 +454,7 @@ En CSS sabemos como utilizar media queries, pero ¿y en nuestro código JS?.
 
 Listado de los tamaños de dispositivos que podemos tener como referencia para realizar media queries.
 
-🔗 **URL**: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+🔗 **🏴URL**: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 ---
 
@@ -452,7 +462,7 @@ Listado de los tamaños de dispositivos que podemos tener como referencia para r
 
 Tenemos distintas unidades de medida en CSS, en este artículo te lo explica con ejemplos, con los cuales puedes prácticar tú también.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Valores_y_unidades_CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Valores_y_unidades_CSS
 
 ---
 
@@ -460,7 +470,7 @@ Tenemos distintas unidades de medida en CSS, en este artículo te lo explica con
 
 Curso donde podremos aprender sobre CSS básico y de forma 100% práctica.
 
-🔗 **URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+🔗 **🏴URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 
 ---
 
@@ -468,7 +478,7 @@ Curso donde podremos aprender sobre CSS básico y de forma 100% práctica.
 
 Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo código CSS. El objetivo de esta página es que aprendas a utilizar Flexbox.
 
-🔗 **URL**: https://flexboxfroggy.com/
+🔗 **🏳URL**: https://flexboxfroggy.com/
 
 ---
 
@@ -476,7 +486,7 @@ Flexbox Froggy, un juego donde ayudarás a Froggy y a sus amigos escribiendo có
 
 Grid Garden, aprenderás CSS Grid cultivando tu jardín de zanahorias. El objetivo de esta página es que aprendas a utilizar CSS Grid.
 
-🔗 **URL**: https://cssgridgarden.com/#es
+🔗 **🏳URL**: https://cssgridgarden.com/#es
 
 ---
 
@@ -484,7 +494,7 @@ Grid Garden, aprenderás CSS Grid cultivando tu jardín de zanahorias. El objeti
 
 Con CSS Diner aprenderemos a utilizar los selectores de CSS a través de un minijuego.
 
-🔗 **URL**: https://flukeout.github.io/
+🔗 **🏴URL**: https://flukeout.github.io/
 
 ---
 
@@ -492,7 +502,7 @@ Con CSS Diner aprenderemos a utilizar los selectores de CSS a través de un mini
 
 En CSS podemos hacer muchas cosas, hasta podemos realizar animaciones, aquí tienes un recurso para poder realizar animaciones con textos, imágenes, etc.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Usando_animaciones_CSS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/CSS/CSS_Animations/Usando_animaciones_CSS
 
 ---
 
@@ -500,7 +510,7 @@ En CSS podemos hacer muchas cosas, hasta podemos realizar animaciones, aquí tie
 
 Resumen sobre animaciones con CSS.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Web/CSS/animation
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/CSS/animation
 
 ---
 
@@ -508,9 +518,9 @@ Resumen sobre animaciones con CSS.
 
 Artículos que hablan sobre performance al realizar animaciones CSS.
 
-🔗 **URL**: https://www.html5rocks.com/en/tutorials/speed/rendering/
+🔗 **🏴URL**: https://www.html5rocks.com/en/tutorials/speed/rendering/
 
-🔗 **URL**: https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
+🔗 **🏴URL**: https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 
 ---
 
@@ -518,7 +528,7 @@ Artículos que hablan sobre performance al realizar animaciones CSS.
 
 Artículo interesante donde nos habla una experta de animaciones web con CSS, que cosas tenemos que tener en cuenta para hacer nuestras animaciones
 
-🔗 **URL**: https://alistapart.com/article/web-animation-at-work/
+🔗 **🏴URL**: https://alistapart.com/article/web-animation-at-work/
 
 ---
 
@@ -526,7 +536,7 @@ Artículo interesante donde nos habla una experta de animaciones web con CSS, qu
 
 Otro artículo interesante donde nos explica paso a paso, en qué debemos de fijarnos a la hora de realizar una animación.
 
-🔗 **URL**: https://24ways.org/2012/flashless-animation/
+🔗 **🏴URL**: https://24ways.org/2012/flashless-animation/
 
 ---
 
@@ -534,7 +544,7 @@ Otro artículo interesante donde nos explica paso a paso, en qué debemos de fij
 
 En esta ocasión este artículo nos habla que debemos de realizar para tener una animación responsable (de forma correcta).
 
-🔗 **URL**: https://24ways.org/2014/five-ways-to-animate-responsibly/
+🔗 **🏴URL**: https://24ways.org/2014/five-ways-to-animate-responsibly/
 
 ---
 
@@ -542,7 +552,7 @@ En esta ocasión este artículo nos habla que debemos de realizar para tener una
 
 Trucos que podemos realizar a la hora de hacer nuestras animaciones con CSS.
 
-🔗 **URL**: https://css-tricks.com/css-animation-tricks/
+🔗 **🏴URL**: https://css-tricks.com/css-animation-tricks/
 
 ---
 
@@ -550,7 +560,7 @@ Trucos que podemos realizar a la hora de hacer nuestras animaciones con CSS.
 
 Excelente artículo donde nos explica como realizar una animación con coches.
 
-🔗 **URL**: https://css-tricks.com/starting-css-animations-mid-way/
+🔗 **🏴URL**: https://css-tricks.com/starting-css-animations-mid-way/
 
 ---
 
@@ -558,7 +568,7 @@ Excelente artículo donde nos explica como realizar una animación con coches.
 
 Apartado de como realizar animaciones en CSS de W3Schools.
 
-🔗 **URL**: https://www.w3schools.com/css/css3_animations.asp
+🔗 **🏴URL**: https://www.w3schools.com/css/css3_animations.asp
 
 ---
 
@@ -566,7 +576,7 @@ Apartado de como realizar animaciones en CSS de W3Schools.
 
 Gran artículo de como crear un cubo 3D con CSS y JQuery.
 
-🔗 **URL**: https://devcode.la/tutoriales/crear-un-cubo-3d-con-css/
+🔗 **🏳URL**: https://devcode.la/tutoriales/crear-un-cubo-3d-con-css/
 
 ---
 
@@ -574,7 +584,7 @@ Gran artículo de como crear un cubo 3D con CSS y JQuery.
 
 Creación de una animación 3D de un cubo, con sólo CSS.
 
-🔗 **URL**: http://abarcarodriguez.com/blog/entendiendo-la-transformacion-3d-con-css3
+🔗 **🏳URL**: http://abarcarodriguez.com/blog/entendiendo-la-transformacion-3d-con-css3
 
 ---
 
@@ -582,7 +592,7 @@ Creación de una animación 3D de un cubo, con sólo CSS.
 
 Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y acertarás.
 
-🔗 **URL**: https://css-tricks.com/css-in-3d-learning-to-think-in-cubes-instead-of-boxes/
+🔗 **🏴URL**: https://css-tricks.com/css-in-3d-learning-to-think-in-cubes-instead-of-boxes/
 
 ---
 
@@ -590,7 +600,7 @@ Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y ace
 
 20 ejemplos impresionantes de transformaciones en 3D sólo usando CSS.
 
-🔗 **URL**: https://www.creativebloq.com/css3/20-stunning-examples-css-3d-transforms-11112759
+🔗 **🏴URL**: https://www.creativebloq.com/css3/20-stunning-examples-css-3d-transforms-11112759
 
 ---
 
@@ -598,7 +608,7 @@ Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y ace
 
 Más ejemplos de efectos en 3D con CSS. Muchas veces podemos ver ejemplos y aprender como se hacen.
 
-🔗 **URL**: https://redstapler.co/10-stunning-css-3d-effect-must-see/
+🔗 **🏴URL**: https://redstapler.co/10-stunning-css-3d-effect-must-see/
 
 ---
 
@@ -606,7 +616,7 @@ Más ejemplos de efectos en 3D con CSS. Muchas veces podemos ver ejemplos y apre
 
 ¿Cómo pasamos nuestros CSS en 2D a 3D?. En este artículo podemos ver cómo se hace.
 
-🔗 **URL**: https://picodotdev.github.io/blog-bitix/2020/04/animaciones-y-transformaciones-2d-y-3d-con-css/
+🔗 **🏳URL**: https://picodotdev.github.io/blog-bitix/2020/04/animaciones-y-transformaciones-2d-y-3d-con-css/
 
 ---
 
@@ -614,7 +624,7 @@ Más ejemplos de efectos en 3D con CSS. Muchas veces podemos ver ejemplos y apre
 
 Draft sobre la especificación de la W3C para realizar animaciones con CSS.
 
-🔗 **URL**: https://drafts.csswg.org/css-animations-1/
+🔗 **🏴URL**: https://drafts.csswg.org/css-animations-1/
 
 ---
 
@@ -622,7 +632,7 @@ Draft sobre la especificación de la W3C para realizar animaciones con CSS.
 
 CSS es el lenguaje que usamos para diseñar un documento HTML. CSS describe cómo se deben mostrar los elementos HTML. Este tutorial te enseñará CSS de básico a avanzado.
 
-🔗 **URL**: https://www.w3schools.com/css/css_intro.asp
+🔗 **🏴URL**: https://www.w3schools.com/css/css_intro.asp
 
 ---
 
@@ -630,7 +640,7 @@ CSS es el lenguaje que usamos para diseñar un documento HTML. CSS describe cóm
 
 Apuntes de CSS realizados por Majo Ledesma, que son muy buenos y tienen un estilo único.
 
-🔗 **URL**: https://losapuntesdemajo.now.sh/
+🔗 **🏳URL**: https://losapuntesdemajo.now.sh/
 
 ---
 
@@ -638,7 +648,7 @@ Apuntes de CSS realizados por Majo Ledesma, que son muy buenos y tienen un estil
 
 Artículo muy interesante donde se plantean utilizar lo mínimo las media queries
 
-🔗 **URL**: https://goiblas.com/evitar-utilizar-css-media-queries/
+🔗 **🏳URL**: https://goiblas.com/evitar-utilizar-css-media-queries/
 
 ---
 
@@ -646,7 +656,7 @@ Artículo muy interesante donde se plantean utilizar lo mínimo las media querie
 
 Vamos a darle un repaso a las pantallas de alta densidad de píxeles y cuándo usar unas unidades u otras. Realizado por One eyed man.
 
-🔗 **URL**: https://github.com/spacenomads/pantallas-retina-y-unidades
+🔗 **🏳URL**: https://github.com/spacenomads/pantallas-retina-y-unidades
 
 ---
 
@@ -654,7 +664,7 @@ Vamos a darle un repaso a las pantallas de alta densidad de píxeles y cuándo u
 
 Taller impartido por Diana Aceves, una referente en nuestro sector, que nos enseña como usar CSS Grid Layout
 
-🔗 **URL**: https://youtu.be/AxVXpS6PyRE
+🔗 **🏳URL**: https://youtu.be/AxVXpS6PyRE
 
 ---
 
@@ -662,7 +672,7 @@ Taller impartido por Diana Aceves, una referente en nuestro sector, que nos ense
 
 Otro taller impartido por Diana Aceves, que recrea ilustraciones usando CSS Grid Layout
 
-🔗 **URL**: https://youtu.be/p7oXrr9yjXY
+🔗 **🏳URL**: https://youtu.be/p7oXrr9yjXY
 
 ---
 
@@ -670,7 +680,7 @@ Otro taller impartido por Diana Aceves, que recrea ilustraciones usando CSS Grid
 
 Otro taller impartido por Diana Aceves, que nos introduce al uso de Flexbox.
 
-🔗 **URL**: https://youtu.be/job5SOuS7Ko
+🔗 **🏳URL**: https://youtu.be/job5SOuS7Ko
 
 ---
 
@@ -678,7 +688,7 @@ Otro taller impartido por Diana Aceves, que nos introduce al uso de Flexbox.
 
 Guía de todas las propiedades que tiene flexbox, por si en algún momento no te acuerdas que hacía cada una, lo puedes visualizar en un momento
 
-🔗 **URL**: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+🔗 **🏴URL**: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ---
 
@@ -686,7 +696,7 @@ Guía de todas las propiedades que tiene flexbox, por si en algún momento no te
 
 Guía de todas las propiedades que tiene CSS Grid, por si en algún momento no te acuerdas que hacía cada una, lo puedes visualizar en un momento
 
-🔗 **URL**: https://css-tricks.com/snippets/css/complete-guide-grid/
+🔗 **🏴URL**: https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ---
 
@@ -694,7 +704,7 @@ Guía de todas las propiedades que tiene CSS Grid, por si en algún momento no t
 
 Listado de elementos CSS con ejemplos y hasta con ejercicios.
 
-🔗 **URL**: https://www.w3schools.com/css/default.asp
+🔗 **🏴URL**: https://www.w3schools.com/css/default.asp
 
 <br>
 
@@ -712,7 +722,7 @@ Listado de elementos CSS con ejemplos y hasta con ejercicios.
 
 Empezamos a introducirnos con JavaScript sabiendo que es y como fueron sus inicios.
 
-🔗 **URL**: https://www.wikiwand.com/es/JavaScript
+🔗 **🏳URL**: https://www.wikiwand.com/es/JavaScript
 
 ---
 
@@ -720,7 +730,7 @@ Empezamos a introducirnos con JavaScript sabiendo que es y como fueron sus inici
 
 Mucha gente puede confundir estos dos términos, pero son dos lenguajes totalmente diferentes.
 
-🔗 **URL**: https://desarrolloweb.com/articulos/492.php
+🔗 **🏳URL**: https://desarrolloweb.com/articulos/492.php
 
 ---
 
@@ -728,7 +738,7 @@ Mucha gente puede confundir estos dos términos, pero son dos lenguajes totalmen
 
 Habrás escuchado a lo mejor Vanilla JS, te adelanto que no es un helado. En este artículo te explican qué es.
 
-🔗 **URL**: https://platzi.com/tutoriales/1339-fundamentos-javascript/1487-que-es-vanilla-js-o-javascript-puro/
+🔗 **🏳URL**: https://platzi.com/tutoriales/1339-fundamentos-javascript/1487-que-es-vanilla-js-o-javascript-puro/
 
 ---
 
@@ -737,8 +747,8 @@ Habrás escuchado a lo mejor Vanilla JS, te adelanto que no es un helado. En est
 Vamos a escuchar mucho la palabra ECMAScript o ESX, pues realmente es una especificación del lenguaje.
 .
 
-🔗 **URL**: https://www.wikiwand.com/es/ECMAScript
-🔗 **URL**: https://desarrolloweb.com/articulos/494.php
+🔗 **🏳URL**: https://www.wikiwand.com/es/ECMAScript
+🔗 **🏳URL**: https://desarrolloweb.com/articulos/494.php
 
 ---
 
@@ -746,21 +756,21 @@ Vamos a escuchar mucho la palabra ECMAScript o ESX, pues realmente es una especi
 
 Lista de los cambios introducidos en cada versión de ECMAScript. Hay que tener cuidado porque los números que ponemos detrás de ES, no coincide con el año. A partir del 2016 se hizo estándar poner el año, así no nos hacemos un lío.
 
-🔗 **ES5(2009)**: https://www.wikiwand.com/es/ECMAScript
+🔗 **🏴ES5(2009)**: https://www.wikiwand.com/es/ECMAScript
 
-🔗 **ES6(2015)**: https://www.w3schools.com/js/js_es6.asp
+🔗 **🏴ES6(2015)**: https://www.w3schools.com/js/js_es6.asp
 
-🔗 **ES2016**: https://www.w3schools.com/js/js_2016.asp
+🔗 **🏴ES2016**: https://www.w3schools.com/js/js_2016.asp
 
-🔗 **ES2017**: https://www.w3schools.com/js/js_2017.asp
+🔗 **🏴ES2017**: https://www.w3schools.com/js/js_2017.asp
 
-🔗 **ES2018**: https://www.w3schools.com/js/js_2018.asp
+🔗 **🏴ES2018**: https://www.w3schools.com/js/js_2018.asp
 
-🔗 **ES2019**: http://blog.enriqueoriol.com/2020/04/javascript-es2019-novedades.html
+🔗 **🏴ES2019**: http://blog.enriqueoriol.com/2020/04/javascript-es2019-novedades.html
 
-🔗 **ES2020**: https://www.freecodecamp.org/news/javascript-new-features-es2020/
+🔗 **🏴ES2020**: https://www.freecodecamp.org/news/javascript-new-features-es2020/
 
-🔗 **ES2020**: https://cosasdigitales.com/articulos-diseno-web/es2021-es12-novedades-de-la-ultima-version-de-javascript/
+🔗 **🏴ES2020**: https://cosasdigitales.com/articulos-diseno-web/es2021-es12-novedades-de-la-ultima-version-de-javascript/
 
 <br>
 
@@ -774,7 +784,7 @@ Lista de los cambios introducidos en cada versión de ECMAScript. Hay que tener 
 
 Repaso de JavaScript visto desde un alto nivel, así podrás tener una idea rápida del lenguaje.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
 
 ---
 
@@ -782,7 +792,7 @@ Repaso de JavaScript visto desde un alto nivel, así podrás tener una idea ráp
 
 JavaScript es el lenguaje de programación que debes usar para añadir características interactivas a tu sitio web.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
 ---
 
@@ -790,7 +800,7 @@ JavaScript es el lenguaje de programación que debes usar para añadir caracter�
 
 Después de la teoría viene la práctica, vamos a empezar a escribir código.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
 
 ---
 
@@ -798,7 +808,7 @@ Después de la teoría viene la práctica, vamos a empezar a escribir código.
 
 Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha sucedido? y ¿qué podemos hacer para que funcione?.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_went_wrong
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_went_wrong
 
 ---
 
@@ -806,7 +816,7 @@ Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha su
 
 Vamos a descubrir las variables en JavaScript y que tipos hay.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables
 
 ---
 
@@ -814,7 +824,7 @@ Vamos a descubrir las variables en JavaScript y que tipos hay.
 
 Ahora es el momento de dar operaciones con números y operadores.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math
 
 ---
 
@@ -822,7 +832,7 @@ Ahora es el momento de dar operaciones con números y operadores.
 
 Vamos a jugar con cadenas y ver como podemos concatenar todo tipo de variables.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Strings
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Strings
 
 ---
 
@@ -830,7 +840,7 @@ Vamos a jugar con cadenas y ver como podemos concatenar todo tipo de variables.
 
 Ya sabemos concatenar cadenas, pues en el siguiente artículo, vamos a utilizar métodos para manipular cadenas.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Useful_string_methods
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 ---
 
@@ -838,7 +848,7 @@ Ya sabemos concatenar cadenas, pues en el siguiente artículo, vamos a utilizar 
 
 Proseguimos ahora con los arrays, qué es una cosa con la que vamos a tener que estar muy familarizados y saber usar bien sus métodos.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays
 
 ---
 
@@ -846,7 +856,7 @@ Proseguimos ahora con los arrays, qué es una cosa con la que vamos a tener que 
 
 Con todo lo aprendido anteriormente, vamos a relizar un generador de historias absurdas.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
 
 ---
 
@@ -854,7 +864,7 @@ Con todo lo aprendido anteriormente, vamos a relizar un generador de historias a
 
 Vamos a ver ya estructuras de código más complejo, ahora le toca el turno a los condicionales.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals
 
 ---
 
@@ -862,7 +872,7 @@ Vamos a ver ya estructuras de código más complejo, ahora le toca el turno a lo
 
 Una vez visto los condicionales, ahora vamos a ver los bucles, ¡debemos de no caer en un bucle infinito!.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Bucle_codigo
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Bucle_codigo
 
 ---
 
@@ -870,7 +880,7 @@ Una vez visto los condicionales, ahora vamos a ver los bucles, ¡debemos de no c
 
 Para que tú código pueda ser reusable se utilizan funciones o métodos, en este artículo veremos como se utilizan.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Functions
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Functions
 
 ---
 
@@ -878,7 +888,7 @@ Para que tú código pueda ser reusable se utilizan funciones o métodos, en est
 
 Hemos visto como se hacen funciones o métodos, ¿por qué no creamos ahora uno nosotres mismes?.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Construyendo_tu_propia_funcion
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Construyendo_tu_propia_funcion
 
 ---
 
@@ -886,7 +896,7 @@ Hemos visto como se hacen funciones o métodos, ¿por qué no creamos ahora uno 
 
 Ya tenemos una función creada, pero ahora podemos llevarlo a un siguiente nivel, ¿qué te parece si nuestra función nos retorna algo?.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Return_values
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Return_values
 
 ---
 
@@ -894,7 +904,7 @@ Ya tenemos una función creada, pero ahora podemos llevarlo a un siguiente nivel
 
 Los eventos son una cosa que vamos a estar usando siempre, y tenemos que saber usarlos junto controlarlos.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Eventos
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Eventos
 
 ---
 
@@ -902,7 +912,7 @@ Los eventos son una cosa que vamos a estar usando siempre, y tenemos que saber u
 
 Para finalizar crearemos una galería de imágenes funcional.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Galeria_de_imagenes
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/Galeria_de_imagenes
 
 ---
 
@@ -910,7 +920,7 @@ Para finalizar crearemos una galería de imágenes funcional.
 
 Nos falta ver una última estructura que vamos a utilizar muchísimo junto a los arrays, y son los objetos.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics
 
 ---
 
@@ -918,7 +928,7 @@ Nos falta ver una última estructura que vamos a utilizar muchísimo junto a los
 
 La programación orientada a objetos (POO ó OOP) en JavaScript es un poco peculiar, vamos a ver como JavaScript emula las Clases y cómo podemos utilizarlas.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object-oriented_JS
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object-oriented_JS
 
 ---
 
@@ -926,7 +936,7 @@ La programación orientada a objetos (POO ó OOP) en JavaScript es un poco pecul
 
 Esto puede ser un tema muy denso, pero si lo entiendes y lo controlas, tienes todo el poder en tus manos.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object_prototypes
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object_prototypes
 
 ---
 
@@ -934,7 +944,7 @@ Esto puede ser un tema muy denso, pero si lo entiendes y lo controlas, tienes to
 
 Después de los prototipos vamos a ver lo que es una herencia y como utilizarla a nuestro favor.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Inheritance
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Inheritance
 
 ---
 
@@ -942,7 +952,7 @@ Después de los prototipos vamos a ver lo que es una herencia y como utilizarla 
 
 Esto no significa que tengas un compañero llamado JSON, es una estructura de datos que utilizamos con frecuencia. En este artículo vas a ver qué es y como usarlo.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON
 
 ---
 
@@ -950,7 +960,7 @@ Esto no significa que tengas un compañero llamado JSON, es una estructura de da
 
 Junto todo lo anterior, ahora vamos a ver la asincronía, algo muy importante a la hora de poder consumir APIs u otros recursos asíncronos. Deberemos de dominar muy bien la asincronía.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Asynchronous/Concepts
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Asynchronous/Concepts
 
 ---
 
@@ -958,7 +968,7 @@ Junto todo lo anterior, ahora vamos a ver la asincronía, algo muy importante a 
 
 Esta es una hoja de referencia que contiene un resumen del curso de Dominio de JavaScript asíncrono en Frontend Armory. Tenemos como podemos realizar promesas de manera correcta.
 
-🔗 **URL**: https://github.com/frontarm/async-javascript-cheatsheet
+🔗 **🏴URL**: https://github.com/frontarm/async-javascript-cheatsheet
 
 ---
 
@@ -966,7 +976,7 @@ Esta es una hoja de referencia que contiene un resumen del curso de Dominio de J
 
 Una vez tenemos el concepto de asincronía en nuestra cabeza, vamos a ver casos prácticos.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
 
 ---
 
@@ -974,7 +984,7 @@ Una vez tenemos el concepto de asincronía en nuestra cabeza, vamos a ver casos 
 
 Vamos a ver en detalle los timeouts y los intervalos junto a su uso.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
 
 ---
 
@@ -982,7 +992,7 @@ Vamos a ver en detalle los timeouts y los intervalos junto a su uso.
 
 Todo código asíncrono devuelve una promesa, así que es el momento de ver que es una promesa.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
 
 ---
 
@@ -990,7 +1000,7 @@ Todo código asíncrono devuelve una promesa, así que es el momento de ver que 
 
 Gracias a esta introducción en la ES7, podemos utilizar nuestro código asíncrono de una manera más fácil.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
 
 ---
 
@@ -998,7 +1008,7 @@ Gracias a esta introducción en la ES7, podemos utilizar nuestro código asíncr
 
 No todo va a ser coser y cantar, a veces tenemos que ver la compatibilidad con otros navegadores.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Choosing_the_right_approach
 
 ---
 
@@ -1006,7 +1016,7 @@ No todo va a ser coser y cantar, a veces tenemos que ver la compatibilidad con o
 
 Vamos a echar un vistazo a las APIS desde un nivel superior ¿qué son, cómo funcionan, cómo usarlas en el código, y cómo están estructuradas?.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Introducci%C3%B3n
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Introducci%C3%B3n
 
 ---
 
@@ -1014,7 +1024,7 @@ Vamos a echar un vistazo a las APIS desde un nivel superior ¿qué son, cómo fu
 
 Al escribir páginas web y aplicaciones, una de las cosas más comunes que querrá hacer es manipular la estructura del documento de alguna manera.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 
 ---
 
@@ -1022,7 +1032,7 @@ Al escribir páginas web y aplicaciones, una de las cosas más comunes que querr
 
 Otra tarea muy común en páginas web y en aplicaciones es tomar elementos individuales de datos desde el servidor para actualizar secciones de la página web sin tener que cargar toda una nueva página.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
 
 ---
 
@@ -1030,7 +1040,7 @@ Otra tarea muy común en páginas web y en aplicaciones es tomar elementos indiv
 
 Las API que hemos cubierto hasta ahora están integradas en el navegador, pero no todas las API lo están. Ahora vamos a ver como utilizar de terceros.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs
 
 ---
 
@@ -1038,7 +1048,7 @@ Las API que hemos cubierto hasta ahora están integradas en el navegador, pero n
 
 El navegador tiene algunas herramientas de programación de gráficos muy poderosas, desde el lenguaje Scalable Vector Graphics (SVG), hasta API para dibujar en elementos HTML canvas.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
 
 ---
 
@@ -1046,7 +1056,7 @@ El navegador tiene algunas herramientas de programación de gráficos muy podero
 
 HTML5 viene con elementos para incrustar medios enriquecidos en documentos de video y audio.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
 
 ---
 
@@ -1054,7 +1064,7 @@ HTML5 viene con elementos para incrustar medios enriquecidos en documentos de vi
 
 Los navegadores web modernos admiten varias formas para que que las páginas web almacenen datos en el ordenador del usuario, con el permiso del usuario, y luego los recuperen cuando sea necesario.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
 
 ---
 
@@ -1064,7 +1074,7 @@ Esta guía está constituida por una serie de artículos que te ayudarán a domi
 
 Tiene distintos artículos, debes de ir siguiéndolos uno a uno si quieres dominar esta parte. No los he puesto separados o ocuparía mucho en el documento.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Forms
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Forms
 
 ---
 
@@ -1072,7 +1082,7 @@ Tiene distintos artículos, debes de ir siguiéndolos uno a uno si quieres domin
 
 Hay muchos casos donde los widgets de formularios HTML disponibles simplemente no son suficientes. si deseas establecer un estilo avanzado en algunos widgets como el elemento `<select>` o si deseas proporcionar comportamientos personalizados, no tienes más opción que crear tus propios widgets.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Forms/como_crear_widgets_de_formularios_personalizados
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Forms/como_crear_widgets_de_formularios_personalizados
 
 ---
 
@@ -1080,7 +1090,7 @@ Hay muchos casos donde los widgets de formularios HTML disponibles simplemente n
 
 Los formularios HTML pueden enviar una solicitud HTTP de forma declarativa. Pero los formularios también pueden preparar una solicitud HTTP para enviarse a través de JavaScript, por ejemplo, a través de XMLHttpRequest.
 
-🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript
+🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript
 
 ---
 
@@ -1088,7 +1098,7 @@ Los formularios HTML pueden enviar una solicitud HTTP de forma declarativa. Pero
 
 Curso que contiene 2 partes que cubren JavaScript como lenguaje de programación y el trabajo con un navegador. También hay series adicionales de artículos temáticos muy interesantes.
 
-🔗 **URL**: https://javascript.info/
+🔗 **🏴URL**: https://javascript.info/
 
 ---
 
@@ -1096,7 +1106,7 @@ Curso que contiene 2 partes que cubren JavaScript como lenguaje de programación
 
 Libro de Ulises Gascón, es un libro de programación sencillo y divertido que nos muestra como programar en JavaScript desde cero.
 
-🔗 **URL**: https://github.com/UlisesGascon/javascript-inspirate
+🔗 **🏳URL**: https://github.com/UlisesGascon/javascript-inspirate
 
 ---
 
@@ -1104,7 +1114,7 @@ Libro de Ulises Gascón, es un libro de programación sencillo y divertido que n
 
 Este es un libro sobre JavaScript, programación y las maravillas de lo digital. Puedes leerlo en línea de forma totalmente gratuita o obtener una copia de bolsillo.
 
-🔗 **URL**: https://eloquentjavascript.net/
+🔗 **🏴URL**: https://eloquentjavascript.net/
 
 ---
 
@@ -1112,7 +1122,7 @@ Este es un libro sobre JavaScript, programación y las maravillas de lo digital.
 
 JavaScript es el lenguaje de programación más popular del mundo. JavaScript es el lenguaje de programación de la Web. JavaScript es fácil de aprender. Este tutorial te enseñará JavaScript de básico a avanzado.
 
-🔗 **URL**: https://www.w3schools.com/js/js_intro.asp
+🔗 **🏴URL**: https://www.w3schools.com/js/js_intro.asp
 
 ---
 
@@ -1120,7 +1130,7 @@ JavaScript es el lenguaje de programación más popular del mundo. JavaScript es
 
 Repaso a las funcionalidades añadidas en ES6 como: let, const, arrow functions, etc.
 
-🔗 **URL**: https://github.com/metagrover/ES6-for-humans/tree/spanish-version
+🔗 **🏳URL**: https://github.com/metagrover/ES6-for-humans/tree/spanish-version
 
 ---
 
@@ -1128,7 +1138,7 @@ Repaso a las funcionalidades añadidas en ES6 como: let, const, arrow functions,
 
 Este repositorio fue creado con la intención de ayudar a los desarrolladores a dominar sus conceptos en JavaScript. No es un requisito, sino una guía para futuros estudios. Está basado en un artículo escrito por Stephen Curtis y puedes leerlo aquí.
 
-🔗 **URL**: https://github.com/adonismendozaperez/33-js-conceptos
+🔗 **🏴URL**: https://github.com/adonismendozaperez/33-js-conceptos
 
 ---
 
@@ -1136,7 +1146,7 @@ Este repositorio fue creado con la intención de ayudar a los desarrolladores a 
 
 Este documento es una hoja de trucos para JavaScript que encontrarás con frecuencia en proyectos modernos y en la mayoría de los códigos de muestra contemporáneos.
 
-🔗 **URL**: https://github.com/mbeaudru/modern-js-cheatsheet
+🔗 **🏴URL**: https://github.com/mbeaudru/modern-js-cheatsheet
 
 ---
 
@@ -1144,7 +1154,7 @@ Este documento es una hoja de trucos para JavaScript que encontrarás con frecue
 
 Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y tienen un estilo único.
 
-🔗 **URL**: https://losapuntesdemajo.now.sh/
+🔗 **🏳URL**: https://losapuntesdemajo.now.sh/
 
 ---
 
@@ -1152,7 +1162,7 @@ Apuntes de JavaScript básico realizados por Majo Ledesma, que son muy buenos y 
 
 Principios de ingeniería de software, del libro Clean Code de Robert C. Martin, adaptado para JavaScript. Esta no es una guía de estilo. Es una guía para producir software legible, reutilizable y refactorizable en JavaScript.
 
-🔗 **URL**: https://github.com/ryanmcdermott/clean-code-javascript
+🔗 **🏴URL**: https://github.com/ryanmcdermott/clean-code-javascript
 
 ---
 
@@ -1160,7 +1170,7 @@ Principios de ingeniería de software, del libro Clean Code de Robert C. Martin,
 
 Todo programador se beneficia al comprender los principios y patrones de programación. Este resumen es una referencia para el autor, y lo puso en Github. Tal vez te resulte útil durante el diseño, la discusión o la revisión. Ten en cuenta que está lejos de ser completo y que a menudo se debe hacer concesiones entre principios en conflicto.
 
-🔗 **URL**: https://github.com/iluwatar/programming-principles
+🔗 **🏴URL**: https://github.com/iluwatar/programming-principles
 
 ---
 
@@ -1168,7 +1178,7 @@ Todo programador se beneficia al comprender los principios y patrones de program
 
 Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript. Puede que algún link no funcione o no esté el contenido, pero hay muchas cosas interesantes aquí.
 
-🔗 **URL**: https://github.com/sergiodxa/impresionante-javascript
+🔗 **🏳🏴URL**: https://github.com/sergiodxa/impresionante-javascript
 
 ---
 
@@ -1176,7 +1186,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conferencias, podscasts, cursos y libros en español sobre JavaScript. Puede que algún link no funcione o no esté el contenido, pero hay muchas cosas interesantes aquí.
 
-🔗 **URL**: https://github.com/wesbos/JavaScript30
+🔗 **🏴URL**: https://github.com/wesbos/JavaScript30
 
 ---
 
@@ -1184,7 +1194,7 @@ Recopilación de links de guías, artículos, tutoriales, vídeos, charlas, conf
 
 JavaScript Garden es una creciente colección de documentos sobre las partes más extravagantes del lenguaje de programación JavaScript. Brinda consejos para evitar errores comunes y errores sutiles, así como problemas de rendimiento y malas prácticas, que los programadores de JavaScript no expertos pueden encontrar en sus esfuerzos en las profundidades del lenguaje.
 
-🔗 **URL**: http://bonsaiden.github.io/JavaScript-Garden/
+🔗 **🏴URL**: http://bonsaiden.github.io/JavaScript-Garden/
 
 ---
 
@@ -1192,7 +1202,7 @@ JavaScript Garden es una creciente colección de documentos sobre las partes má
 
 Este libro te enseñará los conceptos básicos de programación y Javascript. Tanto si eres un programador experimentado como si no, este libro está dirigido a todos aquellos que desean aprender JavaScript.
 
-🔗 **URL**: https://gitbookio.gitbooks.io/javascript/content/
+🔗 **🏴URL**: https://gitbookio.gitbooks.io/javascript/content/
 
 ---
 
@@ -1200,7 +1210,7 @@ Este libro te enseñará los conceptos básicos de programación y Javascript. T
 
 Esta es una serie de libros que profundizan en los mecanismos centrales del lenguaje JavaScript. La primera edición de la serie ya está completa. Además, estos libros de la primera edición ahora están agotados y ya no se pueden comprar. Solo se pueden leer gratis en línea aquí.
 
-🔗 **URL**: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
+🔗 **🏴URL**: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
 
 ---
 
@@ -1208,7 +1218,7 @@ Esta es una serie de libros que profundizan en los mecanismos centrales del leng
 
 Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicios.
 
-🔗 **URL**: https://www.w3schools.com/js/default.asp
+🔗 **🏴URL**: https://www.w3schools.com/js/default.asp
 
 ---
 
@@ -1216,7 +1226,7 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 Listado de ejemplos de algorítmos realizados en JavaScript. Tienes desde Sorts, Strings, o hasta de algebra lineal.
 
-🔗 **URL**: https://github.com/TheAlgorithms/Javascript
+🔗 **🏴URL**: https://github.com/TheAlgorithms/Javascript
 
 ---
 
@@ -1224,7 +1234,7 @@ Listado de ejemplos de algorítmos realizados en JavaScript. Tienes desde Sorts,
 
 Repositorio que contiene ejemplos basados en JavaScript de muchos algoritmos y estructuras de datos populares.
 
-🔗 **URL**: https://github.com/trekhleb/javascript-algorithms/blob/master/README.es-ES.md
+🔗 **🏳URL**: https://github.com/trekhleb/javascript-algorithms/blob/master/README.es-ES.md
 
 ---
 
@@ -1232,7 +1242,7 @@ Repositorio que contiene ejemplos basados en JavaScript de muchos algoritmos y e
 
 Este libro te enseñará los conceptos básicos de programación y Javascript. Tanto si es un programador experimentado como si no, este libro está dirigido a todos aquellos que desean aprender el lenguaje de programación JavaScript.
 
-🔗 **URL**: https://github.com/GitbookIO/javascript
+🔗 **🏴URL**: https://github.com/GitbookIO/javascript
 
 ---
 
@@ -1240,7 +1250,7 @@ Este libro te enseñará los conceptos básicos de programación y Javascript. T
 
 Ejercicios de algoritmos que podrás realizar. El autor dice que hay implementaciones más eficientes, que esto hay que tomarlo como fines educativos.
 
-🔗 **URL**: https://github.com/TheAlgorithms/Javascript
+🔗 **🏴URL**: https://github.com/TheAlgorithms/Javascript
 
 ---
 
@@ -1248,7 +1258,7 @@ Ejercicios de algoritmos que podrás realizar. El autor dice que hay implementac
 
 Este es un gran recurso ya que te proponen una pregunta y debajo tienes la respuesta. Os puede venir muy bien para las entrevistas técnicas, 100% recomendable.
 
-🔗 **URL**: https://github.com/lydiahallie/javascript-questions/blob/master/es-ES/README-ES.md
+🔗 **🏳URL**: https://github.com/lydiahallie/javascript-questions/blob/master/es-ES/README-ES.md
 
 ---
 
@@ -1256,7 +1266,7 @@ Este es un gran recurso ya que te proponen una pregunta y debajo tienes la respu
 
 Colección de librerías de JavaScript, recursos y cosas muy interesantes.
 
-🔗 **URL**: https://github.com/sorrycc/awesome-javascript
+🔗 **🏴URL**: https://github.com/sorrycc/awesome-javascript
 
 ---
 
@@ -1264,7 +1274,7 @@ Colección de librerías de JavaScript, recursos y cosas muy interesantes.
 
 Colección de librerías de JavaScript, recursos y cosas muy interesantes.
 
-🔗 **URL**: https://github.com/sorrycc/awesome-javascript
+🔗 **🏴URL**: https://github.com/sorrycc/awesome-javascript
 
 ---
 
@@ -1272,7 +1282,7 @@ Colección de librerías de JavaScript, recursos y cosas muy interesantes.
 
 Recurso donde alojan una colección de patrones que podemos utilizar en JavaScript.
 
-🔗 **URL**: https://github.com/shichuan/javascript-patterns
+🔗 **🏴URL**: https://github.com/shichuan/javascript-patterns
 
 ---
 
@@ -1280,13 +1290,13 @@ Recurso donde alojan una colección de patrones que podemos utilizar en JavaScri
 
 Colección de paradigmas, algoritmos y enfoques clásicos de la informática escritos en JavaScript.
 
-🔗 **URL**: https://github.com/humanwhocodes/computer-science-in-javascript
+🔗 **🏴URL**: https://github.com/humanwhocodes/computer-science-in-javascript
 
 #### 👉📦 **JavaScript: mejores prácticas**
 
 Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y fácil de mantener con lecciones prácticas y claras en arquitectura de aplicaciones, administración de paquetes, herramientas, atajos, devoluciones de llamada, clases, control de flujo y mucho más.
 
-🔗 **URL**: https://www.sitepoint.com/premium/books/javascript-best-practice/read/1?fromBlog=true&campaign=js-best-practice-reader
+🔗 **🏴URL**: https://www.sitepoint.com/premium/books/javascript-best-practice/read/1?fromBlog=true&campaign=js-best-practice-reader
 
 <br>
 
@@ -1304,11 +1314,11 @@ Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y
 
 La primera pregunta que nos vamos a hacer es, ¿qué es un control de versiones y para qué sirve?
 
-🔗 **URL**: https://www.wikiwand.com/es/Control_de_versiones
+🔗 **🏳URL**: https://www.wikiwand.com/es/Control_de_versiones
 
-🔗 **URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones
+🔗 **🏳URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Acerca-del-Control-de-Versiones
 
-🔗 **URL**: https://www.atlassian.com/es/git/tutorials/what-is-version-control
+🔗 **🏴URL**: https://www.atlassian.com/es/git/tutorials/what-is-version-control
 
 ---
 
@@ -1316,9 +1326,9 @@ La primera pregunta que nos vamos a hacer es, ¿qué es un control de versiones 
 
 ¿Qué es git?. Podremos usar distintos repositorios como son: Github, GitLab, Bitbucket, etc. Pero siempre utilizaremos git para poder usar nuestro control de versiones favorito.
 
-🔗 **URL**: https://www.wikiwand.com/es/Git
+🔗 **🏳URL**: https://www.wikiwand.com/es/Git
 
-🔗 **URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git
+🔗 **🏳URL**: https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git
 
 ---
 
@@ -1326,7 +1336,7 @@ La primera pregunta que nos vamos a hacer es, ¿qué es un control de versiones 
 
 Después de saber que es un control de versiones y git la siguiente pregunta es: ¿qué es un repositorio?.
 
-🔗 **URL**: https://www.wikiwand.com/es/Repositorio_(contenido_digital)
+🔗 **🏳URL**: https://www.wikiwand.com/es/Repositorio_(contenido_digital)
 
 <br>
 
@@ -1340,7 +1350,7 @@ Después de saber que es un control de versiones y git la siguiente pregunta es:
 
 Vamos a dar los primeros pasos en git con este tutorial básico y muy conciso.
 
-🔗 **URL**: https://rogerdudler.github.io/git-guide/index.es.html
+🔗 **🏳URL**: https://rogerdudler.github.io/git-guide/index.es.html
 
 ---
 
@@ -1348,7 +1358,7 @@ Vamos a dar los primeros pasos en git con este tutorial básico y muy conciso.
 
 Lecciones interactivas del uso de Git, donde podremos utilizar los comandos más usados.
 
-🔗 **URL**: https://learngitbranching.js.org/?locale=es_ES
+🔗 **🏳URL**: https://learngitbranching.js.org/?locale=es_ES
 
 ---
 
@@ -1356,9 +1366,9 @@ Lecciones interactivas del uso de Git, donde podremos utilizar los comandos más
 
 Libro en inglés donde nos enseñará como usar git de una manera mucho más avanzada.
 
-🔗 **URL(Inglés)**: http://book.git-scm.com/book/en/v2
+🔗 **🏴URL**: http://book.git-scm.com/book/en/v2
 
-🔗 **URL(Español)**: https://uniwebsidad.com/libros/pro-git
+🔗 **🏳URL**: https://uniwebsidad.com/libros/pro-git
 
 ---
 
@@ -1366,7 +1376,7 @@ Libro en inglés donde nos enseñará como usar git de una manera mucho más ava
 
 Katas de git, parece increible pero es un recurso bastante bueno para realizar ejercicios que podemos utilizar en nuestro día a día.
 
-🔗 **URL**: https://github.com/eficode-academy/git-katas
+🔗 **🏴URL**: https://github.com/eficode-academy/git-katas
 
 ---
 
@@ -1374,7 +1384,7 @@ Katas de git, parece increible pero es un recurso bastante bueno para realizar e
 
 Cheatsheet con los comandos de git.
 
-🔗 **URL**: https://education.github.com/git-cheat-sheet-education.pdf
+🔗 **🏴URL**: https://education.github.com/git-cheat-sheet-education.pdf
 
 ---
 
@@ -1382,7 +1392,7 @@ Cheatsheet con los comandos de git.
 
 Guía oficial de uso de GitHub. Una vez aprendido como funciona GitHub, vas a saber utilizar GitLab, Bitbucket, etc.
 
-🔗 **URL**: https://guides.github.com/
+🔗 **🏴URL**: https://guides.github.com/
 
 <br>
 
@@ -1400,7 +1410,7 @@ Guía oficial de uso de GitHub. Una vez aprendido como funciona GitHub, vas a sa
 
 Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro día a día.
 
-🔗 **URL**: https://developer.mozilla.org/es/docs/Learn/Server-side/Primeros_pasos/seguridad_sitios_web
+🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/Server-side/Primeros_pasos/seguridad_sitios_web
 
 ---
 
@@ -1408,7 +1418,7 @@ Un breve resumen de varios tipos de fallos de seguridad más comunes en nuestro 
 
 Artículo sobre tips en seguridad si eres Frontend Developer.
 
-🔗 **URL**: https://www.glajumedia.com/tips-seguridad-frondend/
+🔗 **🏳URL**: https://www.glajumedia.com/tips-seguridad-frondend/
 
 ---
 
@@ -1416,7 +1426,7 @@ Artículo sobre tips en seguridad si eres Frontend Developer.
 
 Artículo que habla un poco sobre la seguridad web y que cosas debes de no realizar.
 
-🔗 **URL**: https://www.purocodigo.net/articulo/recomendaciones-de-seguridad-para-aplicaciones-front-end
+🔗 **🏳URL**: https://www.purocodigo.net/articulo/recomendaciones-de-seguridad-para-aplicaciones-front-end
 
 ---
 
@@ -1424,7 +1434,15 @@ Artículo que habla un poco sobre la seguridad web y que cosas debes de no reali
 
 Nunca sabemos si vamos a tener que añadir un `.htaccess` a nuestra web, pero es bueno tener el conocimiento de qué es, y que podemos hacer.
 
-🔗 **URL**: https://carrero.es/htaccess-tutorial/
+🔗 **🏳URL**: https://carrero.es/htaccess-tutorial/
+
+---
+
+#### 👉🖊 **Política CORS**
+
+Aquí tenemos un artículo que nos habla que es el CORS.
+
+🔗 **🏳URL**: https://lenguajejs.com/javascript/peticiones-http/cors/
 
 <br>
 
@@ -1442,7 +1460,7 @@ Nunca sabemos si vamos a tener que añadir un `.htaccess` a nuestra web, pero es
 
 Si no sabes lo que es un administrador de paquetes (o sistema de gestión de paquetes), primero tendrás que leerte este artículo.
 
-🔗 **URL**: https://www.wikiwand.com/es/Sistema_de_gesti%C3%B3n_de_paquetes
+🔗 **🏳URL**: https://www.wikiwand.com/es/Sistema_de_gesti%C3%B3n_de_paquetes
 
 ---
 
@@ -1450,7 +1468,7 @@ Si no sabes lo que es un administrador de paquetes (o sistema de gestión de paq
 
 Ya sabemos que es un administrador de paquetes, ahora vamos hablar de NPM que es uno de ellos.
 
-🔗 **URL**: https://www.wikiwand.com/es/Npm
+🔗 **🏳URL**: https://www.wikiwand.com/es/Npm
 
 ---
 
@@ -1458,7 +1476,7 @@ Ya sabemos que es un administrador de paquetes, ahora vamos hablar de NPM que es
 
 Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablaremos de yarn.
 
-🔗 **URL**: https://www.wikiwand.com/es/Yarn_(Facebook)
+🔗 **🏳URL**: https://www.wikiwand.com/es/Yarn_(Facebook)
 
 ---
 
@@ -1466,7 +1484,7 @@ Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablare
 
 Aunque no estemos desarrollando en NodeJS, tenemos qué saber que es y qué hace.
 
-🔗 **URL**: https://www.wikiwand.com/es/Node.js
+🔗 **🏳URL**: https://www.wikiwand.com/es/Node.js
 
 <br>
 
@@ -1480,7 +1498,7 @@ Aunque no estemos desarrollando en NodeJS, tenemos qué saber que es y qué hace
 
 Es recomendable tener instalado NodeJS, además que a través de él, tendremos acceso a npm o npx.
 
-🔗 **URL**: https://midu.dev/como-instalar-node-en-mac-y-windows/
+🔗 **🏳URL**: https://midu.dev/como-instalar-node-en-mac-y-windows/
 
 ---
 
@@ -1488,7 +1506,7 @@ Es recomendable tener instalado NodeJS, además que a través de él, tendremos 
 
 Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablaremos de yarn.
 
-🔗 **URL**: https://www.freecodecamp.org/espanol/news/node-js-npm-tutorial/
+🔗 **🏳URL**: https://www.freecodecamp.org/espanol/news/node-js-npm-tutorial/
 
 ---
 
@@ -1496,7 +1514,7 @@ Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablare
 
 Artículos interesantes sobre Npm desde empezar con él, hasta hacer cosas más avanzadas.
 
-🔗 **URL**: https://lenguajejs.com/npm/introduccion/que-es/
+🔗 **🏳URL**: https://lenguajejs.com/npm/introduccion/que-es/
 
 ---
 
@@ -1504,9 +1522,9 @@ Artículos interesantes sobre Npm desde empezar con él, hasta hacer cosas más 
 
 Vamos a instalar Yarn, nunca está de más tener npm y yarn instalados a la vez.
 
-🔗 **URL**: https://elsolitario.org/post/instalacion-de-yarn/
+🔗 **🏳URL**: https://elsolitario.org/post/instalacion-de-yarn/
 
-🔗 **URL**: https://classic.yarnpkg.com/en/docs/install
+🔗 **🏴URL**: https://classic.yarnpkg.com/en/docs/install
 
 ---
 
@@ -1514,7 +1532,7 @@ Vamos a instalar Yarn, nunca está de más tener npm y yarn instalados a la vez.
 
 Artículos interesantes sobre Npm desde empezar con él, hasta hacer cosas más avanzadas.
 
-🔗 **URL**: https://lenguajejs.com/npm/introduccion/que-es/
+🔗 **🏳URL**: https://lenguajejs.com/npm/introduccion/que-es/
 
 ---
 
@@ -1769,6 +1787,22 @@ Los frameworks de JavaScript son una parte esencial del desarrollo web front-end
 Aquí nos explican de una manera muy breve, cual es la diferencia entre una librería y un framework.
 
 🔗 **URL**: http://notasjs.blogspot.com/2014/09/diferencia-entre-libreria-y-framework.html
+
+---
+
+#### 👉❓ **Introducción a los frameworks del lado del cliente**
+
+Comenzamos nuestra mirada a los frameworks con una descripción general, analizando una breve historia de JavaScript y sus frameworks, por qué existen los frameworks y qué nos brindan, cómo empezar a pensar en la elección de un framework para aprender y qué alternativas hay de frameworks del lado del cliente.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction
+
+---
+
+#### 👉❓ **Características principales de los frameworks**
+
+Cada framework de JS tiene un enfoque diferente para actualizar el DOM, manejar los eventos del navegador y brindar una experiencia de desarrollador agradable. Este artículo explorará las características principales de los frameworks de “los 4 grandes” (React, Ember, Vue y Angular), observando cómo los frameworks tienden a funcionar desde un alto nivel y las diferencias entre ellos.
+
+🔗 **URL**: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Main_features
 
 ---
 
