@@ -1900,11 +1900,27 @@ Artículos donde nos enseñarán nuestros primeros pasos con React.
 
 ---
 
-#### 👉🖊📹📚 **Cómo crear una aplicación con React usando Hooks**
+#### 👉🖊📚 **Cómo crear una aplicación con React usando Hooks**
 
 Artículos donde nos enseñarán nuestros primeros pasos con React.
 
 🔗 **🏳URL**: https://www.neoguias.com/tutorial-react-hooks/
+
+---
+
+#### 👉🖊📚 **React para principiantes**
+
+Manual de React para principiantes de la mano de FreeCodeCamp.
+
+🔗 **🏴URL**: https://www.freecodecamp.org/news/react-beginner-handbook/
+
+---
+
+#### 👉🖊📚 **Manual de React**
+
+Manual de React de la mano de FreeCodeCamp.
+
+🔗 **🏴URL**: https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/
 
 ---
 
