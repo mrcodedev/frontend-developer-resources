@@ -1210,6 +1210,78 @@ Listado de métodos y muchas cosas más de JS con ejemplos y hasta con ejercicio
 
 🔗 **URL**: https://www.w3schools.com/js/default.asp
 
+---
+
+#### 👉📦 **Algoritmos de JS**
+
+Listado de ejemplos de algorítmos realizados en JavaScript. Tienes desde Sorts, Strings, o hasta de algebra lineal.
+
+🔗 **URL**: https://github.com/TheAlgorithms/Javascript
+
+---
+
+#### 👉📦 **Algoritmos y Estructuras de Datos en JavaScript**
+
+Repositorio que contiene ejemplos basados en JavaScript de muchos algoritmos y estructuras de datos populares.
+
+🔗 **URL**: https://github.com/trekhleb/javascript-algorithms/blob/master/README.es-ES.md
+
+---
+
+#### 👉📦 **Aprende JavaScript**
+
+Este libro te enseñará los conceptos básicos de programación y Javascript. Tanto si es un programador experimentado como si no, este libro está dirigido a todos aquellos que desean aprender el lenguaje de programación JavaScript.
+
+🔗 **URL**: https://github.com/GitbookIO/javascript
+
+---
+
+#### 👉📦 **Algoritmos de JavaScript**
+
+Ejercicios de algoritmos que podrás realizar. El autor dice que hay implementaciones más eficientes, que esto hay que tomarlo como fines educativos.
+
+🔗 **URL**: https://github.com/TheAlgorithms/Javascript
+
+---
+
+#### 👉📦 **Lista de preguntas avanzadas de JavaScript**
+
+Este es un gran recurso ya que te proponen una pregunta y debajo tienes la respuesta. Os puede venir muy bien para las entrevistas técnicas, 100% recomendable.
+
+🔗 **URL**: https://github.com/lydiahallie/javascript-questions/blob/master/es-ES/README-ES.md
+
+---
+
+#### 👉📦 **Awesome JavaScript**
+
+Colección de librerías de JavaScript, recursos y cosas muy interesantes.
+
+🔗 **URL**: https://github.com/sorrycc/awesome-javascript
+
+---
+
+#### 👉📦 **Awesome JavaScript**
+
+Colección de librerías de JavaScript, recursos y cosas muy interesantes.
+
+🔗 **URL**: https://github.com/sorrycc/awesome-javascript
+
+---
+
+#### 👉📦 **Patrones de JavaScript**
+
+Recurso donde alojan una colección de patrones que podemos utilizar en JavaScript.
+
+🔗 **URL**: https://github.com/shichuan/javascript-patterns
+
+---
+
+#### 👉📦 **Computer Science en JavaScript**
+
+Colección de paradigmas, algoritmos y enfoques clásicos de la informática escritos en JavaScript.
+
+🔗 **URL**: https://github.com/humanwhocodes/computer-science-in-javascript
+
 <br>
 
 ---
