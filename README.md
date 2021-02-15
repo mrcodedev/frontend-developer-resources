@@ -2471,6 +2471,18 @@ La accesibilidad web no se trata solo de navegación por teclado, contraste de c
 
 ---
 
+#### 👉📹 **Introducción al testing con JavaScript**
+
+Vídeo donde podemos ver una breve introduccióin al testing, de una manera sencilla y paso a paso.
+
+🔗 **🏴URL**: https://octuweb.com/testeando-accesibilidad-web/
+
+---
+
+https://academind.com/tutorials/javascript-testing-introduction/
+
+---
+
 #### 👉📹 **Testing en frontend: ¿por qué está roto?. Usando Testing Library**
 
 Los tests que se rompen pero el código funciona, código que se rompe pero los tests pasan… ¿Qué pasa con el testing en frontend? Vamos a ver cómo escribir tests robustos, mantenibles y que nos den confianza con la ayuda de Testing Library 🚀
@@ -2497,7 +2509,11 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 
 ---
 
-https://www.digital55.com/desarrollo-tecnologia/que-es-pwa-ventajas-desventajas/
+#### 👉❓ **¿Qué son las Progressive Web Apps (PWA)?**
+
+Cada vez es más habitual escuchar que una empresa tiene una Progressive Web App, pero… ¿realmente sabemos qué es? En este post veremos qué es, cuáles son sus características, las tecnologías que emplea, sus ventajas y desventajas y, en definitiva, todo lo que convierte una PWA en una opción muy interesante para desarrollar un proyecto.
+
+🔗 **🏳URL**: https://www.digital55.com/desarrollo-tecnologia/que-es-pwa-ventajas-desventajas/
 
 <br>
 
@@ -2507,14 +2523,35 @@ https://www.digital55.com/desarrollo-tecnologia/que-es-pwa-ventajas-desventajas/
 
 ---
 
-(SACAR SECCIONES)
-https://developer.mozilla.org/es/docs/Web/Progressive_web_apps
+#### 👉🖊 **PWA ¿qué pasos tenemos que aprender para hacer nuestra app?**
 
-https://medium.com/samsung-internet-dev/crea-tu-primer-pwa-paso-a-paso-3bc584e3d084
+Desde la fundación Mozilla tenemos unos tutoriales interesantes para introducirnos en este mundo de las PWA. Tendrémos que ir por secciones para ir aprendiendo poco a poco sobre ello.
 
-https://www.digitalocean.com/community/tutorials/js-vanilla-pwa
+🔗 **🏳🏴URL**: https://developer.mozilla.org/es/docs/Web/Progressive_web_apps
 
-https://desarrolloweb.com/manuales/manual-progressive-web-apps.html
+---
+
+#### 👉🖊 **Crea tu primera PWA paso a paso**
+
+Las denominadas “Progressive Web Apps” son un tipo de aplicación móvil pero construidas con tecnologías web, es decir, utilizando HTML, CSS y Javascript y funcionan en cualquier plataforma que contenga un browser donde ejecutarla
+
+🔗 **🏳URL**: https://medium.com/samsung-internet-dev/crea-tu-primer-pwa-paso-a-paso-3bc584e3d084
+
+---
+
+#### 👉🖊📚 **Manual de Progressive Web Apps**
+
+Manual de Progressive Web Apps, vamos a abordar una de las novedades más destacadas para la realización de sitios web de los últimos años, que está revolucionando el mundo del desarrollo, pero sobre todo el modo en el que los usuarios consumen los sitios y aplicaciones web.
+
+🔗 **🏳URL**: https://desarrolloweb.com/manuales/manual-progressive-web-apps.html
+
+---
+
+#### 👉🖊 **Creando nuestra primera PWA con Vanilla JS**
+
+Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA) que aprovecha la API Web Push y la programación cron. En este artículo, cubriremos los conceptos básicos: el front-end, el manifiesto de la aplicación web y el aspecto de Service Worker de la aplicación, y solo usaremos JavaScript puro para lograrlo. Al final de esta publicación, tendremos una PWA en funcionamiento que está almacenada en caché para que se pueda acceder a ella sin conexión.
+
+🔗 **🏴URL**: https://www.digitalocean.com/community/tutorials/js-vanilla-pwa
 
 <br>
 
@@ -2528,6 +2565,12 @@ https://desarrolloweb.com/manuales/manual-progressive-web-apps.html
 
 ---
 
+#### 👉❓ **¿Qué es una aplicación de escritorio?**
+
+Antes de ver las herramientas sobre creación de aplicaciones de escritorio, ¿realmente sabemos qué es una aplicación de escritorio?.
+
+🔗 **🏳URL**: https://www.wikiwand.com/es/Aplicaci%C3%B3n_de_escritorio
+
 <br>
 
 ---
@@ -2536,9 +2579,35 @@ https://desarrolloweb.com/manuales/manual-progressive-web-apps.html
 
 ---
 
-https://www.electronjs.org/
+#### 👉🖊 **¿Qué es Electron y quién lo utiliza?**
 
-https://platzi.com/blog/aplicaciones-escritorio-electron-js/
+Vamos a ver una breve introducción a Electron para ver que podemos hacer con esta herramienta.
+
+🔗 **🏳URL**: https://blog.nubecolectiva.com/que-es-electron-js-y-otros-detalles/
+
+---
+
+#### 👉🖊📚 **Electron: guía de inicio rápido**
+
+Con esta herramienta podremos crear aplicaciones de escritorio de manera muy fácil. Aquí vamos a empezar como instalar Electron.
+
+🔗 **🏳URL**: https://www.electronjs.org/docs/tutorial/quick-start
+
+---
+
+#### 👉🖊📚 **Documentación de Electron**
+
+La documentación de Electron es bastante completa, vamos a poder como realizar nuestra app de manera sencilla.
+
+🔗 **🏳URL**: https://www.electronjs.org/docs
+
+---
+
+#### 👉🖊📚 **Desarrollando aplicaciones de escritorio con Electron.js**
+
+Aquí tenemos una breve introducción como funciona Electron. El contenido puede estar algo desfasado pero podemos quedarnos con la manera de funcionar.
+
+🔗 **🏳URL**: https://platzi.com/blog/aplicaciones-escritorio-electron-js/
 
 <br>
 
@@ -2552,6 +2621,12 @@ https://platzi.com/blog/aplicaciones-escritorio-electron-js/
 
 ---
 
+#### 👉❓ **¿Qué es una aplicación nativa y qué es una aplicación híbrida?**
+
+Antes de meternos en harina, debemos de saber que diferencias tiene una y otra.
+
+🔗 **🏳URL**: https://www.nextu.com/blog/apps-nativas-vs-apps-hibridas/
+
 <br>
 
 ---
@@ -2560,9 +2635,147 @@ https://platzi.com/blog/aplicaciones-escritorio-electron-js/
 
 ---
 
-https://reactnative.dev/
+#### 👉🖊 **¿Qué es React Native?**
 
-https://flutter.dev/
+Esta herramienta nos va a permitir a realizar apps híbridas para móviles. Vamos a ver un poco quién está detrás y que podemos realizar.
+
+🔗 **🏳URL**: https://cuatroochenta.com/que-es-react-native-el-modo-de-desarrollar-apps-esta-cambiando/
+
+---
+
+#### 👉🖊 **Primeros pasos con React Native: instalación**
+
+Vamos a dar nuestros primeros pasos con React Native, en esta ocasión empezamos a instalar esta herramienta
+
+🔗 **🏴URL**: https://reactnative.dev/docs/environment-setup
+
+---
+
+#### 👉🖊 **Primeros pasos con React Native: introducción de uso**
+
+La documentación de React Native es muy extensa y vamos a encontrar muchos ejemplos para hacer nuestras apps híbridas. Podemos seguir el tutorial de la propia página de React Native.
+
+🔗 **🏴URL**: https://reactnative.dev/docs/getting-started
+
+---
+
+#### 👉🖊 **¿Qué es Ionic?**
+
+Tenemos varias opciones de realizar aplicaciones híbridas, Ionic es otra opción. Vamos a ver que hace Ionic.
+
+🔗 **🏳URL**: https://medium.com/biotec/qu%C3%A9-es-ionic-47e03c0d4b88
+
+---
+
+#### 👉🖊 **Primeros pasos con Ionic: instalación**
+
+Vamos a dar nuestros primeros pasos con Ionic, en esta ocasión empezamos a instalar esta herramienta
+
+🔗 **🏴URL**: https://ionicframework.com/getting-started
+
+---
+
+#### 👉🖊 **Primeros pasos con Ionic: instalando CLI**
+
+El CLI de Ionic nos va a ahorrar mucho tiempo a la hora de realizar nuestras estructuras en nuestra app.
+
+🔗 **🏴URL**: https://ionicframework.com/docs/intro/cli
+
+---
+
+#### 👉🖊 **Primeros pasos con Ionic: empezando a desarrollar**
+
+Después de instalar Ionic y su CLI, vamos a empezar a crear nuestra primera app sencilla de la mano del propio equipo de Ionic.
+
+🔗 **🏴URL**: https://ionicframework.com/docs/developing/starting
+
+---
+
+#### 👉🖊 **¿Qué es NativeScript?**
+
+Ahora vamos a abarcar otra herramienta para hacer aplicaciones híbridas con NativeScript.
+
+🔗 **🏳URL**: https://www.wikiwand.com/es/NativeScript
+
+---
+
+#### 👉🖊 **Primeros pasos con NativeScript: instalación**
+
+Vamos a dar nuestros primeros pasos con NativeScript, en esta ocasión empezamos a instalar esta herramienta.
+
+🔗 **🏴URL**: https://docs.nativescript.org/angular/start/quick-setup
+
+---
+
+#### 👉🖊🕹 **Primeros pasos con NativeScript: instalación**
+
+Lo bueno que tiene NativeScript es que tiene un playground donde vamos a poder realizar pruebas en vivo con bastantes elementos para realizar nuestra aplicación.
+
+🔗 **🏴URL**: https://play.nativescript.org/
+
+---
+
+#### 👉🖊 **Documentación oficial NativeScript**
+
+Muchas veces una de las mejores maneras para ver que hace una herramienta es ver su documentación. Aquí tenemos la documentación de NativeScript.
+
+🔗 **🏴URL**: https://docs.nativescript.org/start/introduction
+
+---
+
+#### 👉🖊 **¿Qué es Flutter?**
+
+Esta herramienta nos permite realizar apps Nativas a través de un lenguaje llamado Dart.
+
+🔗 **🏳URL**: https://www.paradigmadigital.com/dev/flutter-visto-con-gafas-programador-web/
+
+---
+
+#### 👉🖊 **Primeros pasos con Flutter: instalación**
+
+Aquí veremos como instalar Flutter. Tendremos que ver que sistema operativo tenemos y seguir las indicaciones.
+
+🔗 **🏳URL**: https://esflutter.dev/docs/get-started/install
+
+---
+
+#### 👉🖊 **Primeros pasos con Flutter: configurar nuestro IDE**
+
+Una vez instalado tendrémos que configurar nuestor IDE para poder trabajar con Flutter.
+
+🔗 **🏳URL**: https://esflutter.dev/docs/get-started/editor
+
+---
+
+#### 👉🖊 **Primeros pasos con Flutter: test inicial**
+
+En este apartado vamos a ver como crear una app con Flutter desde una plantilla, la podremos ejecutar y ver el "hot reload".
+
+🔗 **🏳URL**: https://esflutter.dev/docs/get-started/test-drive
+
+---
+
+#### 👉🖊 **Primeros pasos con Flutter: escribe tu primera app**
+
+Después de todos los anteriores pasos vamos con lo más interesante: crear nuestra primera app.
+
+🔗 **🏳URL**: https://esflutter.dev/docs/get-started/codelab
+
+---
+
+#### 👉🖊 **Primeros pasos con Flutter: aprender más**
+
+Ya hemos acabado con todos los tutoriales desde la página oficial, pero ¿ahora qué hacemos?. Nos ofrecen distintas fuentes para poder seguir.
+
+🔗 **🏳URL**: https://esflutter.dev/docs/get-started/learn-more
+
+---
+
+#### 👉🖊 **Documentación de Flutter**
+
+Una vez acabado todo, tenemos también la documentación de Flutter.
+
+🔗 **🏳URL**: https://esflutter.dev/docs
 
 <br>
 
