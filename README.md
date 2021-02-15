@@ -16,19 +16,19 @@ Quiero agradecer a todas las fuentes de los recursos, por realizar todo el conte
 
 Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá una mano señalando que tipo de recurso es 👉.
 
-| Emoji | ¿Qué significa?                          |
-| ----- | ---------------------------------------- |
-| ❓    | Conocimientos que debemos de saber antes |
-| 🖊     | Contenido que es un artículo             |
-| 📹    | Contenido en vídeo                       |
-| 📖    | Libro                                    |
-| 🗣     | Charla o Conferencia                     |
-| 📚    | Curso o tutorial                         |
-| 📦    | Repositorio                              |
-| 🕹     | Prácticas en vivo                        |
-| 📑    | Apuntes o cheatsheets                    |
-| 🏳     | Idioma en español                        |
-| 🏴    | Idioma en inglés                         |
+| Emoji | ¿Qué significa?                              |
+| ----- | -------------------------------------------- |
+| ❓    | Conocimientos que debemos de saber antes     |
+| 🖊     | Contenido que es un artículo o documentación |
+| 📹    | Contenido en vídeo                           |
+| 📖    | Libro                                        |
+| 🗣     | Charla o Conferencia                         |
+| 📚    | Curso o tutorial                             |
+| 📦    | Repositorio                                  |
+| 🕹     | Prácticas en vivo                            |
+| 📑    | Apuntes o cheatsheets                        |
+| 🏳     | Idioma en español                            |
+| 🏴    | Idioma en inglés                             |
 
 Si queréis apoyar con una aportación, siempre se agradece, igual que siempre se puede hacer una aportación a todas las fuentes recopiladas en este documento.
 
@@ -2214,6 +2214,54 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 ---
 
+#### 👉❓ **¿Qué es un test?**
+
+Artículo dónde explicándonos un poco por encima que es un test, y nos enseña un poco por encima unos ejemplos de tests.
+
+🔗 **🏳URL**: https://yeisondaza.com/que-son-y-como-escribir-pruebas-en-javascript
+
+---
+
+#### 👉❓ **Testing con JavaScript**
+
+Esta documentación es muy completa para introducirnos en el mundo del testing y hacernos una idea de que son los tests.
+
+🔗 **🏳URL**: https://books.adalab.es/materiales-front-end-e/sprint-3.-react/3_14_testing_js
+
+---
+
+#### 👉❓ **¿Qué es TDD?**
+
+Habremos escuchado alguna vez esta palabra, y no, no es un hechizo de Harry Potter o una frase arcana para invocar al grandioso Cthulhu. En este artículo nos introducirá un poco al TDD.
+
+🔗 **🏳URL**: https://softwarecrafters.io/javascript/tdd-test-driven-development
+
+🔗 **🏳URL**: https://medium.com/nursoft/implementar-tdd-facilmente-4d2cffaa9172
+
+---
+
+#### 👉❓ **¿Qué es DDD?**
+
+Vamos a ver que es DDD, para saber que es y poder tener esa posibilidad de utilizarlo.
+
+🔗 **🏳URL**: https://www.wikiwand.com/es/Dise%C3%B1o_guiado_por_el_dominio
+
+---
+
+#### 👉❓ **¿Qué es un mock, stub, fake o dummy?**
+
+En este artículo del libro, veremos que significa cada uno.
+
+🔗 **🏳URL**: https://uniwebsidad.com/libros/tdd/capitulo-6
+
+---
+
+#### 👉❓ **Listado de frameworks testing**
+
+Listado de Frameworks de Testing en JavaScript. Aquí se nombran los más usados. Una vez utilizado uno, vas a saber utilizar los demás sin ningún problema.
+
+🔗 **🏴URL**: https://medium.com/better-programming/8-awesome-javascript-testing-libraries-43e09141fdc2
+
 <br>
 
 ---
@@ -2221,6 +2269,107 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 ### 🛹 **CONTENIDOS**
 
 ---
+
+❗️**NOTA:** En un principio no puedo poner como se utiliza cada herramienta de testing en cada framework de JS. Además que si lo váis a utilizar en un framework o librería, cada uno de ellos, lo gestiona de una manera.
+
+Tendremos que hacer una breve búsqueda del tipo: "Framework Testing Framework JS".
+
+Un ejemplo: "Jest React".
+
+Hago un listado de los más utilizados actualmente, para que así podáis leer su documentación o buscar más información sobre ellos. Cualquier consulta, me la podéis realizar sin ningún problema.
+
+Recomiendo encarecidamente, si vamos a usar una herramienta, que os miréis la documentación, porque ahí es donde vamos a ver cómo utilizarla.
+
+---
+
+#### 👉🖊 **Documentación Jest**
+
+Empezamos con Jest, esta es la documentación oficial, empezaremos a ver como se instala.
+
+🔗 **🏳URL**: https://jestjs.io/docs/es-ES/getting-started
+
+---
+
+#### 👉🖊 **Da potencia y flexibilidad a tus tests con Jest**
+
+Breve artículo introductorio de como empezar con Jest, y da un repaso rápido a su uso.
+
+🔗 **🏳URL**: https://www.genbeta.com/desarrollo/da-potencia-flexibilidad-tus-tests-jest
+
+---
+
+#### 👉🖊 **Probando componentes en React usando Jest: lo básico**
+
+Artículo donde veremos como se testea un simple componente con React.
+
+🔗 **🏳URL**: https://code.tutsplus.com/es/articles/testing-components-in-react-using-jest-the-basics--cms-28934
+
+---
+
+#### 👉🖊 **Karma: instalación**
+
+Vemos como instalar karma desde npm.
+
+🔗 **🏴URL**: https://karma-runner.github.io/6.1/intro/installation.html
+
+---
+
+#### 👉🖊 **Karma: configuración**
+
+Después de instalar Karma, vamos a ver como lo podemos configurar de una manera muy sencilla.
+
+🔗 **🏴URL**: https://karma-runner.github.io/6.1/intro/configuration.html
+
+🔗 **🏳URL**: http://juanmirod.github.io/2016/04/29/configurando-karma-en-un-projecto-javascript.html
+
+---
+
+#### 👉🖊 **Karma: ejemplo de uso con Angular**
+
+Vamos a utilizar Karma con una prueba unitaria en Angular. Si lo analizamos, es muy parecido a Jest.
+
+🔗 **🏳URL**: https://www.digital55.com/desarrollo-tecnologia/como-usar-testing-angular-jasmine-karma/
+
+---
+
+#### 👉🖊 **Mocha: instalación**
+
+Ahora tenemos la oportunidad de ver como instalar mocha, de una manera muy sencilla.
+
+🔗 **🏴URL**: https://mochajs.org/#installation
+
+---
+
+#### 👉🖊 **Mocha: uso junto a Chai**
+
+Vamos a ver como utilizar Mocha junto a Chai, que es una librería de aserciones.
+
+🔗 **🏴URL**: https://www.paradigmadigital.com/dev/testeando-javascript-mocha-chai/
+
+---
+
+#### 👉🖊 **Mocha: testing de API REST junto a Chai-HTTP**
+
+Otro ejemplo de como usar Mocha junto a Chai, en este casi Chai-HTTP.
+
+🔗 **🏴URL**: https://www.paradigmadigital.com/dev/testeo-api-rest-mocha-chai-http/
+
+---
+
+JASMINE
+
+https://jasmine.github.io/tutorials/your_first_suite
+
+https://jasmine.github.io/pages/getting_started.html
+
+https://codingpotions.com/angular-testing
+
+https://dev.to/juanmirod/tests-unitarios-en-javascript-con-jasmine-118e
+
+---
+
+EnZYME
+https://enzymejs.github.io/enzyme/
 
 <br>
 
@@ -2234,6 +2383,8 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 ---
 
+https://www.digital55.com/desarrollo-tecnologia/que-es-pwa-ventajas-desventajas/
+
 <br>
 
 ---
@@ -2241,6 +2392,15 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 ### 🛹 **CONTENIDOS**
 
 ---
+
+(SACAR SECCIONES)
+https://developer.mozilla.org/es/docs/Web/Progressive_web_apps
+
+https://medium.com/samsung-internet-dev/crea-tu-primer-pwa-paso-a-paso-3bc584e3d084
+
+https://www.digitalocean.com/community/tutorials/js-vanilla-pwa
+
+https://desarrolloweb.com/manuales/manual-progressive-web-apps.html
 
 <br>
 
@@ -2262,6 +2422,10 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 ---
 
+https://www.electronjs.org/
+
+https://platzi.com/blog/aplicaciones-escritorio-electron-js/
+
 <br>
 
 ---
@@ -2282,6 +2446,10 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 ---
 
+https://reactnative.dev/
+
+https://flutter.dev/
+
 <br>
 
 ---
@@ -2301,6 +2469,13 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 ### 🛹 **CONTENIDOS**
 
 ---
+
+NEXTJS
+GATSBY
+NUXT
+JEKYLL
+HUGO
+ALTAFONTE ADRIAN
 
 <br>
 
