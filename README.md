@@ -2230,6 +2230,14 @@ Esta documentación es muy completa para introducirnos en el mundo del testing y
 
 ---
 
+#### 👉❓ **Testing en el Front**
+
+Sabemos de sobra que todo aquello que desarrollamos debe funcionar correctamente independiente de la resolución o sistema operativo que esté utilizando el usuario final. Por ello, resulta algo cada vez más importante que aquello que desarrollamos no tenga errores o si los tiene, sean errores controlados.
+
+🔗 **🏳URL**: https://octuweb.com/testing-front/
+
+---
+
 #### 👉❓ **¿Qué es TDD?**
 
 Habremos escuchado alguna vez esta palabra, y no, no es un hechizo de Harry Potter o una frase arcana para invocar al grandioso Cthulhu. En este artículo nos introducirá un poco al TDD.
@@ -2245,6 +2253,14 @@ Habremos escuchado alguna vez esta palabra, y no, no es un hechizo de Harry Pott
 Vamos a ver que es DDD, para saber que es y poder tener esa posibilidad de utilizarlo.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Dise%C3%B1o_guiado_por_el_dominio
+
+---
+
+#### 👉❓ **¿Qué son los tests E2E?**
+
+Aquí vemos que son los tests E2E y que tipos de tests existen.
+
+🔗 **🏳URL**: https://blog.irontec.com/introduccion-automatizacion-tests-e2e-cypress-io/
 
 ---
 
@@ -2344,7 +2360,7 @@ Ahora tenemos la oportunidad de ver como instalar mocha, de una manera muy senci
 
 Vamos a ver como utilizar Mocha junto a Chai, que es una librería de aserciones.
 
-🔗 **🏴URL**: https://www.paradigmadigital.com/dev/testeando-javascript-mocha-chai/
+🔗 **🏳URL**: https://www.paradigmadigital.com/dev/testeando-javascript-mocha-chai/
 
 ---
 
@@ -2352,24 +2368,122 @@ Vamos a ver como utilizar Mocha junto a Chai, que es una librería de aserciones
 
 Otro ejemplo de como usar Mocha junto a Chai, en este casi Chai-HTTP.
 
-🔗 **🏴URL**: https://www.paradigmadigital.com/dev/testeo-api-rest-mocha-chai-http/
+🔗 **🏳URL**: https://www.paradigmadigital.com/dev/testeo-api-rest-mocha-chai-http/
 
 ---
 
-JASMINE
+#### 👉🖊 **¿Cómo instalar Jasmine?**
 
-https://jasmine.github.io/tutorials/your_first_suite
+Vamos a ver como instalar Jasmine y poder utilizarlo.
 
-https://jasmine.github.io/pages/getting_started.html
-
-https://codingpotions.com/angular-testing
-
-https://dev.to/juanmirod/tests-unitarios-en-javascript-con-jasmine-118e
+🔗 **🏴URL**: https://jasmine.github.io/setup/nodejs.html
 
 ---
 
-EnZYME
-https://enzymejs.github.io/enzyme/
+#### 👉🖊 **Primera suite con Jasmine**
+
+Después de instalar Jasmine nos ponemos manos a la obra para hacer nuestros primeros tests.
+
+🔗 **🏴URL**: https://jasmine.github.io/tutorials/your_first_suite
+
+---
+
+#### 👉🖊 **Testing con Jasmine y Angular**
+
+Los tests son una pieza fundamental en los proyectos de hoy en día. Si tienes un proyecto grande es esencial tener una buena suite de tests para poder probar la aplicación sin tener que hacerlo manualmente. Además si lo combinas con la integración continua puedes minimizar el riesgo y los bugs futuros.
+
+🔗 **🏳URL**: https://codingpotions.com/angular-testing
+
+---
+
+#### 👉🖊 **Tests unitarios en JavaScript con Jasmine**
+
+En JavaScript, Jasmine es un framework de test que permite crear tests fáciles de leer de forma que sirven también de documentación para el código.
+
+🔗 **🏳URL**: https://dev.to/juanmirod/tests-unitarios-en-javascript-con-jasmine-118e
+
+---
+
+#### 👉🖊 **Documentación de EnzYME**
+
+Otra herramienta de testing, en este caso es una herramienta de testing para React. Aquí tenemos como instarlo y como ejecutar nuestros primeros tests.
+
+🔗 **🏴URL**: https://enzymejs.github.io/enzyme/
+
+---
+
+#### 👉🖊 **Herramientas de tests Testing Library**
+
+Testing library es un paquete que nos ayuda a testear nuestros componentes gráficos con una semántica mucho más clara. Aquí vamos a ver cómo empezar. A la derecha en Frameworks, tendremos todo el listado de Frameworks donde nos dirán como instalarlo.
+
+🔗 **🏴URL**: https://testing-library.com/docs/
+
+---
+
+#### 👉🖊 **Cypress creando tests E2E**
+
+Llegamos a los tests E2E, donde vamos a usar Cypress. Os dejo varios recursos para instalarlo.
+
+🔗 **🏴URL**: https://enzymejs.github.io/enzyme/
+https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
+
+🔗 **🏳URL**: https://www.paradigmadigital.com/dev/cypress-un-framework-de-pruebas-todo-en-uno/
+
+---
+
+#### 👉🖊 **Tutorial de Cypress para principiantes**
+
+Buen tutorial donde vamos a ver como empezar a utilizar Cypress, y realizando nuestros primeros tests.
+
+🔗 **🏴URL**: https://www.valentinog.com/blog/cypress/
+
+---
+
+#### 👉🖊 **Escribiendo nuestro primer test con Cypress**
+
+Documentación oficial de Cypress, donde nos enseña a realizar nuestro primer test de forma sencilla
+
+🔗 **🏴URL**: https://docs.cypress.io/guides/getting-started/writing-your-first-test.html#Write-your-first-test
+
+---
+
+#### 👉🖊 **Lista de asserts de Cypress**
+
+En la documentación oficial, tenemos la lista de asserts que podemos utilizar con Cypress.
+
+🔗 **🏴URL**: https://docs.cypress.io/guides/references/assertions.html#BDD-Assertions
+
+---
+
+#### 👉📦🖊 **Mejores prácticas de Testing**
+
+Esta es una guía completa para JavaScript y Node.js de la A a la Z. Resume y selecciona docenas de los mejores post de blogs, libros, y herramientas ofrecidas en el mercado.
+
+🔗 **🏴🏳URL**: https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-es.md
+
+---
+
+#### 👉🖊 **Testeando Accesibilidad Web**
+
+La accesibilidad web no se trata solo de navegación por teclado, contraste de color, o lectores de pantalla. La accesibilidad es un indicador perfecto de la calidad de un sitio web. Cuando un sitio web es accesible, generalmente significa que es inclusivo, usable, ofrece una excelente experiencia de usuario para todos, y además es rápido.
+
+🔗 **🏳URL**: https://octuweb.com/testeando-accesibilidad-web/
+
+---
+
+#### 👉📹 **Testing en frontend: ¿por qué está roto?. Usando Testing Library**
+
+Los tests que se rompen pero el código funciona, código que se rompe pero los tests pasan… ¿Qué pasa con el testing en frontend? Vamos a ver cómo escribir tests robustos, mantenibles y que nos den confianza con la ayuda de Testing Library 🚀
+
+🔗 **🏳URL**: https://youtu.be/SH7JSlc36uA
+
+---
+
+#### 👉📹 **Escribe tests, no demasiados y sobre todo unitarios**
+
+Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que sean unitarios.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=QdqIqGPsLW0
 
 <br>
 
