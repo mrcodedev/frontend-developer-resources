@@ -2789,6 +2789,12 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 ---
 
+#### 👉❓ **¿Qué es una página web estática?**
+
+Primero vamos a ver que es "una página web estática".
+
+🔗 **🏳URL**: https://www.wikiwand.com/es/P%C3%A1gina_web_est%C3%A1tica
+
 <br>
 
 ---
@@ -2797,12 +2803,107 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 ---
 
-NEXTJS
-GATSBY
-NUXT
-JEKYLL
-HUGO
-ALTAFONTE ADRIAN
+#### 👉🖊 **¿Qué es NextJS?**
+
+Breve introducción sobre NextJS para saber que es y que tecnologías tiene detrás
+
+🔗 **🏳URL**: https://platzi.com/blog/nextjs-el-futuro-de-las-aplicaciones-con-react/
+
+---
+
+#### 👉🖊 **Breve introducción con NextJS**
+
+Artículo donde nos va a explicar como empezar con NextJS
+
+🔗 **🏳URL**: https://dev.to/efrenmartinez/primeros-pasos-con-next-js-1i28
+
+---
+
+#### 👉🖊 **Documentación NextJS**
+
+Documentación de esta herramienta donde empezaremos a instalarla y adentrarnos más profundamente en ella.
+
+🔗 **🏴URL**: https://nextjs.org/docs/getting-started
+
+---
+
+#### 👉🖊 **¿Qué es Gatsby?**
+
+Herramienta para generar webs con contenido estático de una manera fácil.
+
+🔗 **🏳URL**: https://gerswin.com/sitios-web-est%C3%A1ticos-qu%C3%A9-es-y-por-qu%C3%A9-deber%C3%ADas-usar-gatsby-3f90af778516
+
+---
+
+#### 👉🖊 **Documentación de Gatsby**
+
+En la documentación de Gatsby empezaremos nuestros primeros pasos instalando esta herramienta.
+
+🔗 **🏴URL**: https://www.gatsbyjs.com/docs/quick-start/
+
+---
+
+#### 👉🖊 **Tutorial Gatsby**
+
+La propia documentación de Gatsby tiene un tutorial para poder empezar a usar esta herramienta.
+
+🔗 **🏴URL**: https://www.gatsbyjs.com/docs/tutorial/part-zero/
+
+---
+
+#### 👉🖊 **¿Qué es NuxtJS?**
+
+Herramienta para creación de herramientas estáticas.
+
+🔗 **🏳URL**: https://medium.com/@ianaya89/crea-tu-sitio-web-con-github-pages-y-nuxt-js-6a90fd0a0dc4
+
+---
+
+#### 👉🖊 **Instalación de NuxtJS**
+
+Desde su documentación oficial podremos ver como instalar esta herramienta. También aprenderemos un poco más sobre enrutamiento y estructura de directorios.
+
+🔗 **🏳URL**: https://es.nuxtjs.org/docs/2.x/get-started/installation
+
+---
+
+#### 👉🖊 **Ejemplos hechos con NuxtJS**
+
+Ejemplos para poder ver como se implementan ciertas cosas, desde un hola mundo, hasta SEO.
+
+🔗 **🏳URL**: https://es.nuxtjs.org/examples
+
+---
+
+#### 👉🖊 **¿Qué es Jekyll?**
+
+Otra herramienta para poder realizar páginas web estáticas.
+
+🔗 **🏳URL**: http://www.arquitectoit.com/jekyll/que-es-jekyll/
+
+---
+
+#### 👉🖊 **Documentación Jekyll**
+
+Documentación oficial de Jekyll donde veremos como instalarlo y algunos recursos para empezar.
+
+🔗 **🏴URL**: https://jekyllrb.com/docs/
+
+---
+
+#### 👉🖊 **¿Qué es Hugo?**
+
+Herramienta para la creación de páginas web estáticas.
+
+🔗 **🏳URL**: https://gutl.jovenclub.cu/hugo-generador-sitios-web-estaticos/
+
+---
+
+#### 👉🖊 **Instalación de Hugo y primeros pasos**
+
+En la documentación oficial tendremos nuestros primeros pasos de como instalar esta herramienta y como seguir con ella.
+
+🔗 **🏴URL**: https://gohugo.io/getting-started/quick-start/
 
 <br>
 
