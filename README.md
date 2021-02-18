@@ -1,18 +1,18 @@
 # 🚀 Recursos para ser Frontend Developer 🚀
 
-Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontends Developers.
+Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontend Developer.
 
-Os comparto recursos para quienes empiezan su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
-Está dividido en distintos apartados, y si encuentras un recurso que no está aquí, y lo ves interesante, siempre puedes hacer una Merge Request para seguir ampliando el catálogo de recursos. O simplemente me buscas en Twitter como mrcodedev y me lo comentas.
+Está dividido en distintos apartados, si encuentras un recurso que no esté aquí, y lo ves interesante, siempre puedes hacer una PR para seguir ampliando el catálogo de recursos. O simplemente me buscas en Twitter como MrCodeDev y me lo dices para añadirlo.
 
 Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si tienes problemas con el idioma de Shakespeare, siempre puedes traducir la página (Google Chrome tiene uno por defecto). Es muy importante que empieces a leer documentación en inglés y puedas entenderla, es algo muy habitual en nuestro día a día. Además si buscas algún error o cualquier cosa, la mejor práctica es siempre buscar lo que sea en inglés, siempre encontraremos más respuestas.
 
-Acordaros: un developer siempre está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
+Acordaros: en este camino del developer, siempre se está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
 
-También quiero comentar (desde mi punto de vista), que los cursos de 0 a experto en 15 minutos o en un día, es imposible. Podemos aprender ciertas cosas, pero no vamos a dominar esa tecnología con soltura. Tenemos que práctica y usarla muchas veces, y además, afrontarnos a errores o bloqueos.
+También quiero comentar (desde mi punto de vista), que los cursos de 0 a experto en 15 minutos, son una perdida de tiempo. Podemos aprender ciertas cosas, pero no vamos a dominar esa tecnología con soltura. Tenemos que práctica y usarla muchas veces, además de afrontarnos a errores o bloqueos.
 
-Quiero agradecer a todas las fuentes de los recursos, por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript.
+Quiero agradecer a todas las fuentes de los recursos, por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript. Y a todes les que me habéis facilitado recursos.
 
 Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá una mano señalando que tipo de recurso es 👉.
 
