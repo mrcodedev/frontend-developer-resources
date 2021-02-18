@@ -1,4 +1,8 @@
-# 🚀 Recursos para ser Frontend Developer 🚀
+# 🚀 Recursos Frontend Developer 🚀
+
+![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+> Lista de recursos para ayudarte en tu camino a ser Frontend Developer o aprender nuevas cosas
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontend Developer.
 
@@ -15,6 +19,10 @@ También quiero comentar (desde mi punto de vista), que los cursos de 0 a expert
 Quiero agradecer a todas las fuentes de los recursos, por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript. Y a todes les que me habéis facilitado recursos.
 
 Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá una mano señalando que tipo de recurso es 👉.
+
+Si te apetece ayudárme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Pudes hacerlo a través de este enlace:
+
+👉☕️ https://www.buymeacoffee.com/mrcodedev
 
 | Emoji | ¿Qué significa?                              |
 | ----- | -------------------------------------------- |
