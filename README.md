@@ -1,4 +1,4 @@
-![banner](https://github.com/mrcodedev/frontend-developer-resources/blob/master/images/camino-frontend-developer.png)
+![](https://github.com/mrcodedev/frontend-developer-resources/blob/master/images/camino-frontend-developer.png)
 
 # 🚀 Recursos Frontend Developer 🚀
 
