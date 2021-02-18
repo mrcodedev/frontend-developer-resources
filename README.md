@@ -3017,6 +3017,14 @@ Ponte a prueba con katas, creado por la comunidad para fortalecer diferentes hab
 
 🔗 **🏴URL**: https://www.codewars.com/
 
+---
+
+#### 👉🕹 **Dev Challenges**
+
+Retos desde: responsive web developer, frontend-developer, fullstack developer, etc. Tenemos muchos recuros para poner a prueba nuestros conocimientos.
+
+🔗 **🏴URL**: https://devchallenges.io/
+
 <br>
 
 ---
