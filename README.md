@@ -8,21 +8,21 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontend Developer.
 
-Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como pueda ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como puediera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
-Está dividido en distintos apartados, si encuentras un recurso que no esté aquí, y lo ves interesante, siempre puedes hacer una PR para seguir ampliando el catálogo de recursos. O simplemente me buscas en Twitter como MrCodeDev y me lo dices para añadirlo.
+Está dividido en distintos apartados, si encuentras un recurso que no esté aquí y lo ves interesante, puedes hacer una PR para seguir ampliando el catálogo de recursos o simplemente me buscas en Twitter como MrCodeDev y me lo dices para añadirlo.
 
-Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si tienes problemas con el idioma de Shakespeare, siempre puedes traducir la página (Google Chrome tiene uno por defecto). Es muy importante que empieces a leer documentación en inglés y puedas entenderla, es algo muy habitual en nuestro día a día. Además si buscas algún error o cualquier cosa, la mejor práctica es siempre buscar lo que sea en inglés, siempre encontraremos más respuestas.
+Los recursos que puedas encontrar aquí, estarán en inglés y en español. Si tienes problemas con el idioma de Shakespeare, puedes traducir la página (Google Chrome tiene uno por defecto). Es muy importante que empieces a leer documentación en inglés y puedas entenderla, es algo muy habitual en nuestro día a día. Además, si buscas algún error o cualquier otra cosa, la mejor práctica es buscar lo que sea en inglés ya que siempre encontraremos más respuestas.
 
 Acordaros: en este camino del developer, siempre se está en continuo aprendizaje y siempre nos va a tocar aprender nuevas tecnologías, es un mundo muy cambiante.
 
-También quiero comentar (desde mi punto de vista), que los cursos de 0 a experto en 15 minutos, son una perdida de tiempo. Podemos aprender ciertas cosas, pero no vamos a dominar esa tecnología con soltura. Tenemos que práctica y usarla muchas veces, además de afrontarnos a errores o bloqueos.
+También quiero comentar (desde mi punto de vista), que los cursos de 0 a experto en 15 minutos, son una pérdida de tiempo. Podemos aprender ciertas cosas, pero no vamos a dominar esa tecnología con soltura. Tenemos que practicar y usarla muchas veces, además de afrontarnos a errores o bloqueos.
 
-Quiero agradecer a todas las fuentes de los recursos, por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript. Y a todes les que me habéis facilitado recursos.
+Quiero agradecer a todas las fuentes de los recursos por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript, y a todos los que me habéis facilitado recursos.
 
-Aquí tenéis una leyenda de que es cada recurso que pongo, siempre aparecerá una mano señalando que tipo de recurso es 👉.
+Aquí tenéis una leyenda de qué es cada recurso que pongo, siempre aparecerá una mano señalando qué tipo de recurso es 👉.
 
-Si te apetece ayudárme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Pudes hacerlo a través de este enlace:
+Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Pudes hacerlo a través de este enlace:
 
 [![alt text](https://github.com/mrcodedev/frontend-developer-resources/blob/main/images/coffe-share.jpeg)](https://www.buymeacoffee.com/mrcodedev "Buy me a coffee :D")
 
@@ -56,7 +56,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 #### 👉❓ **¿Qué es la informática?**
 
-Vamos a empezar con lo principal, como empezó esto de los ordenadores.
+Vamos a empezar con lo principal, cómo empezó esto de los ordenadores.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Inform%C3%A1tica
 
@@ -114,7 +114,7 @@ Tenemos normalizado los nombres de dominio, pero no realmente lo que es una DNS,
 
 #### 👉❓ **¿Qué es una dirección IP?**
 
-Hablamos de IPs siempre, pero si queremos saber realmente como se conforman, tenemos este artículo de la Wikipedia donde se explica muy bien.
+Hablamos de IPs siempre, pero si queremos saber realmente cómo se conforman, tenemos este artículo de la Wikipedia donde se explica muy bien.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Direcci%C3%B3n_IP
 
@@ -138,7 +138,7 @@ Qué es este paradigma que está de moda.
 
 #### 👉❓ **¿Qué es una API?**
 
-Para nuestros desarrollos lo más seguro que tengamos que usar APIs, tendremos que saber realmente lo que son.
+Para nuestros desarrollos lo más seguro es que tengamos que usar APIs, tendremos que saber realmente lo que son.
 
 🔗 **🏳URL**: https://www.wrike.com/es/blog/que-es-una-api-necesitas-saber/
 
@@ -164,7 +164,7 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 #### 👉❓ **¿Qué es HTML?**
 
-Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
+Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente lo que es, aquí podrás ver que signfica.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Web/HTML
 
@@ -174,7 +174,7 @@ Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor
 
 #### 👉❓ **¿Qué es el DOM?**
 
-Hemos escuchado alguna vez la palabra DOM, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
+Hemos escuchado alguna vez la palabra DOM, pero no sabemos realmente lo que es, aquí podrás ver que signfica.
 
 🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
 
@@ -182,7 +182,7 @@ Hemos escuchado alguna vez la palabra DOM, pero no sabemos realmente a lo mejor 
 
 #### 👉❓ **¿Qué es la W3C y a qué se dedica?**
 
-Hay un consorcio que se preocupa que todo lo que hacemos tenga un estándard.
+Hay un consorcio que se ocupa de que todo lo que hacemos tenga un estándard.
 
 🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
 
@@ -204,7 +204,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 #### 👉🖊📚 **Empezando con la web**
 
-Nuestros primeros pasos para prepararnos para realizar páginas en HTML.
+Nuestros primeros pasos para prepararnos para escribir páginas web en HTML.
 
 🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
@@ -260,7 +260,7 @@ Ya hemos visto las principales etiquetas de HTML, pero nos falta ver otras etiqu
 
 #### 👉🖊📚 **Debuggear un documento HTML**
 
-Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas podemos utilizar. Ahora es el momento de saber debuggear nuestro código HTML.
+Tenemos ya hecha la estructura de nuestra web y sabemos qué etiquetas podemos utilizar. Ahora es el momento de saber debuggear nuestro código HTML.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Debugging_HTML
 
@@ -268,7 +268,7 @@ Tenemos hecha ya nuestra estructura de nuestra web y sabemos qué etiquetas pode
 
 #### 👉🖊📚 **Estructurar una página de contenido HTML**
 
-En que estructuras podemos dividir una página.
+En qué estructuras podemos dividir una página.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/Estructuraci%C3%B3n_de_una_p%C3%A1gina_de_contenido
 
@@ -276,7 +276,7 @@ En que estructuras podemos dividir una página.
 
 #### 👉🖊📚 **Formulario en HTML5**
 
-Una de las tareas más rutinarias serán realizar formularios.
+Una de las tareas más rutinarias será realizar formularios.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/HTML/HTML5/Forms_in_HTML5
 
@@ -284,7 +284,7 @@ Una de las tareas más rutinarias serán realizar formularios.
 
 #### 👉🖊📚 **Imágenes adaptables en HTML5**
 
-Como adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
+Cómo adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 
@@ -292,7 +292,7 @@ Como adaptar imágenes en HTML para que se vean bien en todos los dispositivos.
 
 #### 👉📚🕹 **Introducción a HTML básico y HTML5**
 
-Curso donde vas a aprender a básica de práctica, podrás está enfocado en HTML y HTML5.
+Curso donde vas a aprender, en base a la práctica, las bases de HTML y HTML5.
 
 🔗 **🏴URL**: https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
 
@@ -300,7 +300,7 @@ Curso donde vas a aprender a básica de práctica, podrás está enfocado en HTM
 
 #### 👉📚 **Tutorial HTML de W3Schools**
 
-HTML es el lenguaje de marcado estándar para páginas web. Con HTML puede crear su propio sitio web. HTML es fácil de aprender y podrás hacer tutoriales prácticos para ir practicando.
+HTML es el lenguaje de marcado estándar para páginas web. Con HTML puede crear su propio sitio web. HTML es fácil de aprender y podrás seguir tutoriales prácticos para ir practicando.
 
 🔗 **🏴URL**: https://www.w3schools.com/html/html_intro.asp
 
@@ -316,7 +316,7 @@ Aprende los conceptos básicos de HTML5 y desarrollo web en este curso para prin
 
 #### 👉🖊 **Listado elementos HTML**
 
-Listado de elementos HTML con ejemplos y hasta con ejercicios.
+Listado de elementos HTML con ejemplos y ejercicios.
 
 🔗 **🏴URL**: https://www.w3schools.com/html/default.asp
 
@@ -392,7 +392,7 @@ Blog de Adrián donde suele subir artículos sobre accesibilidad web
 
 #### 👉❓ **¿Qué es CSS y CSS3?**
 
-Definición de que es CSS y ver que estamos actualmente en la versión 3.
+Definición de qué es CSS y ver que estamos actualmente en la versión 3.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
 
@@ -406,7 +406,7 @@ Definición de que es CSS y ver que estamos actualmente en la versión 3.
 
 #### 👉🖊📚 **¿Qué es CSS?**
 
-Nos resuelve la pregunta que es CSS y que réquisitos necesitamos para aprenderlo (principalmente saber HTML).
+Nos resuelve la pregunta qué es CSS y qué requisitos necesitamos para aprenderlo (principalmente saber HTML).
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Qu%C3%A9_es_CSS
 
@@ -430,7 +430,7 @@ Profundizamos un poco más en la estructura del lenguaje.
 
 #### 👉🖊📚 **Cómo funciona CSS**
 
-Sabemos ya como funciona el lenguaje, ahora falta saber como lo utiliza el navegador.
+Sabemos ya cómo funciona el lenguaje, ahora falta saber cómo lo utiliza el navegador.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/Como_funciona_CSS
 
@@ -544,7 +544,7 @@ Artículos que hablan sobre performance al realizar animaciones CSS.
 
 #### 👉🖊 **Animaciones web en el trabajo**
 
-Artículo interesante donde nos habla una experta de animaciones web con CSS, que cosas tenemos que tener en cuenta para hacer nuestras animaciones
+Artículo interesante donde nos habla una experta de animaciones web con CSS, qué cosas tenemos que tener en cuenta para hacer nuestras animaciones
 
 🔗 **🏴URL**: https://alistapart.com/article/web-animation-at-work/
 
@@ -552,7 +552,7 @@ Artículo interesante donde nos habla una experta de animaciones web con CSS, qu
 
 #### 👉🖊 Animaciones sin usar flash\*\*
 
-Otro artículo interesante donde nos explica paso a paso, en qué debemos de fijarnos a la hora de realizar una animación.
+Otro artículo interesante donde nos explica paso a paso, en qué debemos fijarnos a la hora de realizar una animación.
 
 🔗 **🏴URL**: https://24ways.org/2012/flashless-animation/
 
@@ -560,7 +560,7 @@ Otro artículo interesante donde nos explica paso a paso, en qué debemos de fij
 
 #### 👉🖊 **Cinco formas de animar de forma responsable**
 
-En esta ocasión este artículo nos habla que debemos de realizar para tener una animación responsable (de forma correcta).
+En esta ocasión este artículo nos habla sobre qué debemos de realizar para tener una animación responsable (de forma correcta).
 
 🔗 **🏴URL**: https://24ways.org/2014/five-ways-to-animate-responsibly/
 
@@ -576,7 +576,7 @@ Trucos que podemos realizar a la hora de hacer nuestras animaciones con CSS.
 
 #### 👉🖊 **Empezando con CSS nivel intermedio**
 
-Excelente artículo donde nos explica como realizar una animación con coches.
+Excelente artículo donde nos explica cómo realizar una animación con coches.
 
 🔗 **🏴URL**: https://css-tricks.com/starting-css-animations-mid-way/
 
@@ -584,7 +584,7 @@ Excelente artículo donde nos explica como realizar una animación con coches.
 
 #### 👉📚 **Animaciones con CSS de W3Schools**
 
-Apartado de como realizar animaciones en CSS de W3Schools.
+Apartado de cómo realizar animaciones en CSS de W3Schools.
 
 🔗 **🏴URL**: https://www.w3schools.com/css/css3_animations.asp
 
@@ -592,7 +592,7 @@ Apartado de como realizar animaciones en CSS de W3Schools.
 
 #### 👉🖊 **Crear un cubo 3D sólo con CSS**
 
-Gran artículo de como crear un cubo 3D con CSS y JQuery.
+Gran artículo de cómo crear un cubo 3D con CSS y JQuery.
 
 🔗 **🏳URL**: https://devcode.la/tutoriales/crear-un-cubo-3d-con-css/
 
@@ -608,7 +608,7 @@ Creación de una animación 3D de un cubo, con sólo CSS.
 
 #### 👉🖊 **Aprender a pensar en cubos en lugar de cajas**
 
-Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y acertarás.
+Muestra de cómo podemos hacer objetos en 3D solo con CSS, piensa en cubos y acertarás.
 
 🔗 **🏴URL**: https://css-tricks.com/css-in-3d-learning-to-think-in-cubes-instead-of-boxes/
 
@@ -616,7 +616,7 @@ Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y ace
 
 #### 👉🖊 **20 impresionantes ejemplos de transformaciones CSS 3D**
 
-20 ejemplos impresionantes de transformaciones en 3D sólo usando CSS.
+20 ejemplos impresionantes de transformaciones en 3D solo usando CSS.
 
 🔗 **🏴URL**: https://www.creativebloq.com/css3/20-stunning-examples-css-3d-transforms-11112759
 
@@ -624,7 +624,7 @@ Muestra de como podemos hacer objetos en 3D sólo con CSS, piensa en cubos y ace
 
 #### 👉🖊 **10 efectos en 3D con CSS impresionantes**
 
-Más ejemplos de efectos en 3D con CSS. Muchas veces podemos ver ejemplos y aprender como se hacen.
+Más ejemplos de efectos en 3D con CSS. Muchas veces podemos ver ejemplos y aprender del cómo se hacen.
 
 🔗 **🏴URL**: https://redstapler.co/10-stunning-css-3d-effect-must-see/
 
@@ -680,7 +680,7 @@ Vamos a darle un repaso a las pantallas de alta densidad de píxeles y cuándo u
 
 #### 👉🎥🗣 **Taller CSS Grid Layout**
 
-Taller impartido por Diana Aceves, una referente en nuestro sector, que nos enseña como usar CSS Grid Layout
+Taller impartido por Diana Aceves, una referente en nuestro sector, que nos enseña cómo usar CSS Grid Layout
 
 🔗 **🏳URL**: https://youtu.be/AxVXpS6PyRE
 
