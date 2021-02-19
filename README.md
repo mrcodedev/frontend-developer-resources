@@ -8,7 +8,7 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontend Developer.
 
-Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstaculo como puediera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstáculo como puediera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
 Está dividido en distintos apartados, si encuentras un recurso que no esté aquí y lo ves interesante, puedes hacer una PR para seguir ampliando el catálogo de recursos o simplemente me buscas en Twitter como MrCodeDev y me lo dices para añadirlo.
 
