@@ -45,6 +45,30 @@ Si te apetece ayudárme "invitándome a un café ☕️" te estaré muy agradeci
 Si queréis apoyar con una aportación, siempre se agradece, igual que siempre se puede hacer una aportación a todas las fuentes recopiladas en este documento.
 
 ---
+## Indice
+- [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-básicos-informática)
+- [HTML](#-html)
+- [ACCESIBILIDAD](#-accesibilidad)
+- [CSS](#-css)
+- [JAVASCRIPT](#-javascript)
+- [CONTROL DE VERSIONES](#-control-de-versiones)
+- [SEGURIDAD](#-seguridad)
+- [ADMINISTRADOR DE PAQUETES](#-administrador-de-paquetes)
+- [ARQUITECTURA CSS](#-arquitectura-css)
+- [PREPROCESADORES CSS Y POSTCSS](#-preprocesadores-css-y-postcss)
+- [BUILD TOOLS](#-build-tools)
+- [FRAMEWORKS JAVASCRIPT](#-frameworks-javascript)
+- [FRAMEWORKS CSS](#-frameworks-css)
+- [TESTING](#-testing)
+- [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
+- [CREACIÓN APLICACIONES DE ESCRITORIO](#--creación-aplicaciones-de-escritorio)
+- [CREACIÓN APLICACIONES PARA MÓVILES](-creación-aplicaciones-para-móviles)
+- [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
+- [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
+- [KATAS](#-katas)
+- [SITIOS DE INTERÉS O RECURSOS DE INTERÉS](#-sitios-de-interés-o-recursos-de-interés)
+
+---
 
 ## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
