@@ -174,7 +174,7 @@ Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor
 
 #### 👉❓ **¿Qué es el DOM?**
 
-Hemos escuchado alguna vez la palabra HTML, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
+Hemos escuchado alguna vez la palabra DOM, pero no sabemos realmente a lo mejor lo que es, aquí podrás ver que signfica.
 
 🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
 
@@ -204,7 +204,7 @@ Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explic
 
 #### 👉🖊📚 **Empezando con la web**
 
-Nuestros primeros para prepararnos para como realizar páginas en HTML.
+Nuestros primeros pasos para prepararnos para realizar páginas en HTML.
 
 🔗 **🏴URL**: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
