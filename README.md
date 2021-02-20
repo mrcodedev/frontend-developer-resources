@@ -74,7 +74,6 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 ---
 
 ## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
-[Volver al Indice]
 
 ---
 
