@@ -403,6 +403,14 @@ Newsletter para recibir toda la actualidad sobre accesibilidad.
 
 ---
 
+#### 👉🖊 **Testeando Accesibilidad Web**
+
+La accesibilidad web no se trata solo de navegación por teclado, contraste de color, o lectores de pantalla. La accesibilidad es un indicador perfecto de la calidad de un sitio web. Cuando un sitio web es accesible, generalmente significa que es inclusivo, usable, ofrece una excelente experiencia de usuario para todos, y además es rápido.
+
+🔗 **🏳URL**: https://octuweb.com/testeando-accesibilidad-web/
+
+---
+
 👉🖊 **Blog de Adrián Bolonio**
 
 Blog de Adrián donde suele subir artículos sobre accesibilidad web
@@ -2525,14 +2533,6 @@ En la documentación oficial, tenemos la lista de asserts que podemos utilizar c
 Esta es una guía completa para JavaScript y Node.js de la A a la Z. Resume y selecciona docenas de los mejores post de blogs, libros, y herramientas ofrecidas en el mercado.
 
 🔗 **🏴🏳URL**: https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-es.md
-
----
-
-#### 👉🖊 **Testeando Accesibilidad Web**
-
-La accesibilidad web no se trata solo de navegación por teclado, contraste de color, o lectores de pantalla. La accesibilidad es un indicador perfecto de la calidad de un sitio web. Cuando un sitio web es accesible, generalmente significa que es inclusivo, usable, ofrece una excelente experiencia de usuario para todos, y además es rápido.
-
-🔗 **🏳URL**: https://octuweb.com/testeando-accesibilidad-web/
 
 ---
 
