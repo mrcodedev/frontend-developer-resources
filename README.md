@@ -49,7 +49,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ## Indice
 
-- 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-basicos-informatica)
+- 📓 [Conocimientos básicos informática](#-conocimientos-basicos-informatica)
 - 📕 [HTML](#-html)
 - ♿️ [ACCESIBILIDAD](#%EF%B8%8F-accesibilidad)
 - 📘 [CSS](#-css)
