@@ -3202,3 +3202,7 @@ Interesante artículo de freeCodeCamp, sobre comandos de consola para Linux (tam
 Tutorial de linea de comandos de la mano de DjangoGirls, en este caso tenemos incluida la terminal de Windows.
 
 🔗 **🏳URL**: https://tutorial.djangogirls.org/es/intro_to_command_line/
+
+<br>
+
+☝ [Volver al Indice](#indice)
