@@ -73,7 +73,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ---
 
-## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
+## <a id="-conocimientos-basicos-informatica" /> 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
 ---
 
