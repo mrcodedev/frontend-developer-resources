@@ -214,7 +214,7 @@ Hemos escuchado alguna vez la palabra DOM, pero no sabemos realmente lo que es, 
 
 Hay un consorcio que se ocupa de que todo lo que hacemos tenga un estándard.
 
-🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
+🔗 **🏳URL**: https://www.wikiwand.com/es/World_Wide_Web_Consortium
 
 ---
 
