@@ -51,21 +51,21 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 - 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-básicos-informática)
 - 📕 [HTML](#-html)
-- ♿️ [ACCESIBILIDAD](#-accesibilidad)
+- ♿️ [ACCESIBILIDAD](#%EF%B8%8F-accesibilidad)
 - 📘 [CSS](#-css)
 - 📒 [JAVASCRIPT](#-javascript)
 - 🛂 [CONTROL DE VERSIONES](#-control-de-versiones)
 - 🔒 [SEGURIDAD](#-seguridad)
 - 📦 [ADMINISTRADOR DE PAQUETES](#-administrador-de-paquetes)
-- 🏛 [ARQUITECTURA CSS](#-arquitectura-css)
-- 🤖 [PREPROCESADORES CSS Y POSTCSS](#-preprocesadores-css-y-postcss)
+- 🏛 [ARQUITECTURAS CSS](#-arquitecturas-css) 
+- 🤖 [PREPROCESADORES CSS Y POSTCSS](#-prepocesadores-css-y-postcss)
 - 🛠 [BUILD TOOLS](#-build-tools)
 - 🧰 [FRAMEWORKS JAVASCRIPT](#-frameworks-javascript)
 - 🖼 [FRAMEWORKS CSS](#-frameworks-css)
 - ✅ [TESTING](#-testing)
 - 📱 [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
 - 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#-creación-aplicaciones-de-escritorio)
-- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](-creación-aplicaciones-para-móviles)
+- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creación-aplicaciones-para-móviles)
 - ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
 - 📚 [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
 - 🗡 [KATAS](#-katas)
@@ -74,6 +74,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 ---
 
 ## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
+[Volver al Indice]
 
 ---
 
