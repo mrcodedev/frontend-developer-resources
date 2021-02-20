@@ -1,6 +1,6 @@
-![banner](https://github.com/mrcodedev/frontend-developer-resources/blob/main/images/camino-frontend-developer.jpg)
+![banner](https://raw.githubusercontent.com/mrcodedev/frontend-developer-resources/main/images/camino-frontend-developer.jpg)
 
-# 🚀 Recursos Frontend Developer 🚀
+# 🚀 El camino del Frontend Developer 🚀
 
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
@@ -24,7 +24,7 @@ Aquí tenéis una leyenda de qué es cada recurso que pongo, siempre aparecerá 
 
 Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Pudes hacerlo a través de este enlace:
 
-[![alt text](https://github.com/mrcodedev/frontend-developer-resources/blob/main/images/coffe-share.jpeg)](https://www.buymeacoffee.com/mrcodedev "Buy me a coffee :D")
+[![alt text](https://raw.githubusercontent.com/mrcodedev/frontend-developer-resources/main/images/coffe-share.jpeg)](https://www.buymeacoffee.com/mrcodedev "Buy me a coffee :D")
 
 👉☕️ https://www.buymeacoffee.com/mrcodedev
 
