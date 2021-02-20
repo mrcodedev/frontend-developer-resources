@@ -45,28 +45,30 @@ Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecid
 Si queréis apoyar con una aportación, siempre se agradece, igual que siempre se puede hacer una aportación a todas las fuentes recopiladas en este documento.
 
 ---
+
 ## Indice
-- [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-básicos-informática)
-- [HTML](#-html)
-- [ACCESIBILIDAD](#-accesibilidad)
-- [CSS](#-css)
-- [JAVASCRIPT](#-javascript)
-- [CONTROL DE VERSIONES](#-control-de-versiones)
-- [SEGURIDAD](#-seguridad)
-- [ADMINISTRADOR DE PAQUETES](#-administrador-de-paquetes)
-- [ARQUITECTURA CSS](#-arquitectura-css)
-- [PREPROCESADORES CSS Y POSTCSS](#-preprocesadores-css-y-postcss)
-- [BUILD TOOLS](#-build-tools)
-- [FRAMEWORKS JAVASCRIPT](#-frameworks-javascript)
-- [FRAMEWORKS CSS](#-frameworks-css)
-- [TESTING](#-testing)
-- [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
-- [CREACIÓN APLICACIONES DE ESCRITORIO](#--creación-aplicaciones-de-escritorio)
-- [CREACIÓN APLICACIONES PARA MÓVILES](-creación-aplicaciones-para-móviles)
-- [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
-- [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
-- [KATAS](#-katas)
-- [SITIOS DE INTERÉS O RECURSOS DE INTERÉS](#-sitios-de-interés-o-recursos-de-interés)
+
+- 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-básicos-informática)
+- 📕 [HTML](#-html)
+- ♿️ [ACCESIBILIDAD](#-accesibilidad)
+- 📘 [CSS](#-css)
+- 📒 [JAVASCRIPT](#-javascript)
+- 🛂 [CONTROL DE VERSIONES](#-control-de-versiones)
+- 🔒 [SEGURIDAD](#-seguridad)
+- 📦 [ADMINISTRADOR DE PAQUETES](#-administrador-de-paquetes)
+- 🏛 [ARQUITECTURA CSS](#-arquitectura-css)
+- 🤖 [PREPROCESADORES CSS Y POSTCSS](#-preprocesadores-css-y-postcss)
+- 🛠 [BUILD TOOLS](#-build-tools)
+- 🧰 [FRAMEWORKS JAVASCRIPT](#-frameworks-javascript)
+- 🖼 [FRAMEWORKS CSS](#-frameworks-css)
+- ✅ [TESTING](#-testing)
+- 📱 [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
+- 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#--creación-aplicaciones-de-escritorio)
+- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](-creación-aplicaciones-para-móviles)
+- ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
+- 📚 [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
+- 🗡 [KATAS](#-katas)
+- 🤔 [SITIOS DE INTERÉS O RECURSOS DE INTERÉS](#-sitios-de-interés-o-recursos-de-interés)
 
 ---
 
@@ -174,14 +176,14 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 🔗 **🏳URL**: https://platzi.com/blog/que-son-los-ides-y-los-editores-de-texto/
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📕 HTML
 
 ---
@@ -348,14 +350,14 @@ Listado de elementos HTML con ejemplos y ejercicios.
 
 🔗 **🏴URL**: https://www.w3schools.com/html/default.asp
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 ♿️ ACCESIBILIDAD
 
 ---
@@ -410,14 +412,14 @@ Blog de Adrián donde suele subir artículos sobre accesibilidad web
 
 🔗 **🏳URL**: https://www.adrianbolonio.com/es/blog
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📘 CSS
 
 ---
@@ -760,14 +762,14 @@ Listado de elementos CSS con ejemplos y hasta con ejercicios.
 
 🔗 **🏴URL**: https://www.w3schools.com/css/default.asp
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📒 JAVASCRIPT
 
 ---
@@ -1372,14 +1374,14 @@ Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y
 
 🔗 **🏴URL**: https://www.sitepoint.com/premium/books/javascript-best-practice/read/1?fromBlog=true&campaign=js-best-practice-reader
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🛂 CONTROL DE VERSIONES
 
 ---
@@ -1472,14 +1474,14 @@ Guía oficial de uso de GitHub. Una vez aprendido como funciona GitHub, vas a sa
 
 🔗 **🏴URL**: https://guides.github.com/
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🔒 SEGURIDAD
 
 ---
@@ -1526,14 +1528,14 @@ Aquí tenemos un artículo que nos habla que es el CORS.
 
 🔗 **🏳URL**: https://lenguajejs.com/javascript/peticiones-http/cors/
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📦 ADMINISTRADOR DE PAQUETES
 
 ---
@@ -1628,14 +1630,14 @@ Documentación de Yarn sobre su uso (si ya lo tenemos instalado podemos obviar l
 
 🔗 **URL**: https://yarnpkg.com/getting-started
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🏛 ARQUITECTURAS CSS
 
 ---
@@ -1666,14 +1668,14 @@ Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=B9Qwq_MKuqY
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🤖 PREPOCESADORES CSS Y POSTCSS
 
 ---
@@ -1784,14 +1786,14 @@ Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso s
 
 🔗 **🏳URL**: https://joanleon.dev/postcss
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🛠 BUILD TOOLS
 
 ---
@@ -1860,14 +1862,14 @@ Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete 
 
 🔗 **🏴URL**: https://www.learnwithjason.dev/blog/learn-rollup-js
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🧰 FRAMEWORKS JAVASCRIPT
 
 ---
@@ -2140,14 +2142,14 @@ Breve introducción a este framework que realiza WebComponents.
 
 🔗 **🏴URL**: https://gabrieltanner.org/blog/stencil-js-introduction
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🖼 FRAMEWORKS CSS
 
 ---
@@ -2286,14 +2288,14 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 🔗 **🏴URL**: https://material.io/develop/web/getting-started
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 ✅ TESTING
 
 ---
@@ -2585,14 +2587,14 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=QdqIqGPsLW0
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📱 PROGESSIVE WEB APPS (PWA)
 
 ---
@@ -2645,14 +2647,14 @@ Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA
 
 🔗 **🏴URL**: https://www.digitalocean.com/community/tutorials/js-vanilla-pwa
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
 
 ---
@@ -2705,14 +2707,14 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 
 🔗 **🏳URL**: https://platzi.com/blog/aplicaciones-escritorio-electron-js/
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📲 CREACIÓN APLICACIONES PARA MÓVILES
 
 ---
@@ -2877,14 +2879,14 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 🔗 **🏳URL**: https://esflutter.dev/docs
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 ♺ GENERADOR DE PÁGINAS ESTÁTICAS
 
 ---
@@ -3009,14 +3011,14 @@ En la documentación oficial tendremos nuestros primeros pasos de como instalar 
 
 🔗 **🏴URL**: https://gohugo.io/getting-started/quick-start/
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 📚 CURSOS/MINIBOOTCAMPS
 
 ---
@@ -3099,14 +3101,14 @@ Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid
 
 🔗 **🏳URL**: https://github.com/Fictizia
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🗡 KATAS
 
 ---
@@ -3125,14 +3127,14 @@ Retos desde: responsive web developer, frontend-developer, fullstack developer, 
 
 🔗 **🏴URL**: https://devchallenges.io/
 
-
 <br>
 
 [Volver al Indice](#indice)
 
 ---
 
-## 
+##
+
 🤔 SITIOS DE INTERÉS O RECURSOS DE INTERÉS
 
 ---
