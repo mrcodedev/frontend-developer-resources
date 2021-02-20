@@ -46,25 +46,26 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ---
 
+
 ## Indice
 
-- 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-básicos-informática)
+- 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-basicos-informatica)
 - 📕 [HTML](#-html)
-- ♿️ [ACCESIBILIDAD](#-accesibilidad)
+- ♿️ [ACCESIBILIDAD](#%EF%B8%8F-accesibilidad)
 - 📘 [CSS](#-css)
 - 📒 [JAVASCRIPT](#-javascript)
 - 🛂 [CONTROL DE VERSIONES](#-control-de-versiones)
 - 🔒 [SEGURIDAD](#-seguridad)
 - 📦 [ADMINISTRADOR DE PAQUETES](#-administrador-de-paquetes)
-- 🏛 [ARQUITECTURA CSS](#-arquitectura-css)
-- 🤖 [PREPROCESADORES CSS Y POSTCSS](#-preprocesadores-css-y-postcss)
+- 🏛 [ARQUITECTURAS CSS](#-arquitecturas-css) 
+- 🤖 [PREPROCESADORES CSS Y POSTCSS](#-prepocesadores-css-y-postcss)
 - 🛠 [BUILD TOOLS](#-build-tools)
 - 🧰 [FRAMEWORKS JAVASCRIPT](#-frameworks-javascript)
 - 🖼 [FRAMEWORKS CSS](#-frameworks-css)
 - ✅ [TESTING](#-testing)
 - 📱 [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
-- 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#--creación-aplicaciones-de-escritorio)
-- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](-creación-aplicaciones-para-móviles)
+- 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#-creación-aplicaciones-de-escritorio)
+- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creación-aplicaciones-para-móviles)
 - ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
 - 📚 [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
 - 🗡 [KATAS](#-katas)
@@ -72,7 +73,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ---
 
-## 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
+## <a id="-conocimientos-basicos-informatica" /> 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
 ---
 
@@ -182,9 +183,7 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 ---
 
-##
-
-📕 HTML
+## 📕 HTML
 
 ---
 
@@ -356,9 +355,7 @@ Listado de elementos HTML con ejemplos y ejercicios.
 
 ---
 
-##
-
-♿️ ACCESIBILIDAD
+## ♿️ ACCESIBILIDAD
 
 ---
 
@@ -418,9 +415,7 @@ Blog de Adrián donde suele subir artículos sobre accesibilidad web
 
 ---
 
-##
-
-📘 CSS
+## 📘 CSS
 
 ---
 
@@ -768,9 +763,7 @@ Listado de elementos CSS con ejemplos y hasta con ejercicios.
 
 ---
 
-##
-
-📒 JAVASCRIPT
+## 📒 JAVASCRIPT
 
 ---
 
@@ -1380,9 +1373,7 @@ Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y
 
 ---
 
-##
-
-🛂 CONTROL DE VERSIONES
+## 🛂 CONTROL DE VERSIONES
 
 ---
 
@@ -1480,9 +1471,7 @@ Guía oficial de uso de GitHub. Una vez aprendido como funciona GitHub, vas a sa
 
 ---
 
-##
-
-🔒 SEGURIDAD
+## 🔒 SEGURIDAD
 
 ---
 
@@ -1534,9 +1523,7 @@ Aquí tenemos un artículo que nos habla que es el CORS.
 
 ---
 
-##
-
-📦 ADMINISTRADOR DE PAQUETES
+## 📦 ADMINISTRADOR DE PAQUETES
 
 ---
 
@@ -1636,9 +1623,7 @@ Documentación de Yarn sobre su uso (si ya lo tenemos instalado podemos obviar l
 
 ---
 
-##
-
-🏛 ARQUITECTURAS CSS
+## 🏛 ARQUITECTURAS CSS
 
 ---
 
@@ -1674,9 +1659,7 @@ Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en
 
 ---
 
-##
-
-🤖 PREPOCESADORES CSS Y POSTCSS
+## 🤖 PREPOCESADORES CSS Y POSTCSS
 
 ---
 
@@ -1792,9 +1775,7 @@ Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso s
 
 ---
 
-##
-
-🛠 BUILD TOOLS
+## 🛠 BUILD TOOLS
 
 ---
 
@@ -1868,9 +1849,7 @@ Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete 
 
 ---
 
-##
-
-🧰 FRAMEWORKS JAVASCRIPT
+## 🧰 FRAMEWORKS JAVASCRIPT
 
 ---
 
@@ -2148,9 +2127,7 @@ Breve introducción a este framework que realiza WebComponents.
 
 ---
 
-##
-
-🖼 FRAMEWORKS CSS
+## 🖼 FRAMEWORKS CSS
 
 ---
 
@@ -2294,9 +2271,7 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 ---
 
-##
-
-✅ TESTING
+## ✅ TESTING
 
 ---
 
@@ -2593,9 +2568,7 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 
 ---
 
-##
-
-📱 PROGESSIVE WEB APPS (PWA)
+## 📱 PROGESSIVE WEB APPS (PWA)
 
 ---
 
@@ -2653,9 +2626,7 @@ Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA
 
 ---
 
-##
-
-🖥 CREACIÓN APLICACIONES DE ESCRITORIO
+## 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
 
 ---
 
@@ -2713,9 +2684,7 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 
 ---
 
-##
-
-📲 CREACIÓN APLICACIONES PARA MÓVILES
+## 📲 CREACIÓN APLICACIONES PARA MÓVILES
 
 ---
 
@@ -2885,9 +2854,7 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 ---
 
-##
-
-♺ GENERADOR DE PÁGINAS ESTÁTICAS
+## ♺ GENERADOR DE PÁGINAS ESTÁTICAS
 
 ---
 
@@ -3017,9 +2984,7 @@ En la documentación oficial tendremos nuestros primeros pasos de como instalar 
 
 ---
 
-##
-
-📚 CURSOS/MINIBOOTCAMPS
+## 📚 CURSOS/MINIBOOTCAMPS
 
 ---
 
@@ -3107,9 +3072,7 @@ Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid
 
 ---
 
-##
-
-🗡 KATAS
+## 🗡 KATAS
 
 ---
 
@@ -3133,9 +3096,7 @@ Retos desde: responsive web developer, frontend-developer, fullstack developer, 
 
 ---
 
-##
-
-🤔 SITIOS DE INTERÉS O RECURSOS DE INTERÉS
+## 🤔 SITIOS DE INTERÉS O RECURSOS DE INTERÉS
 
 ---
 
