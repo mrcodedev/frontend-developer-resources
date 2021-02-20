@@ -64,7 +64,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 - ✅ [TESTING](#-testing)
 - 📱 [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
 - 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#-creacion-aplicaciones-de-escritorio)
-- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creacion-aplicaciones-para-móviles)
+- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creacion-aplicaciones-para-moviles)
 - ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
 - 📚 [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
 - 🗡 [KATAS](#-katas)
@@ -2683,7 +2683,7 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 
 ---
 
-## <a name="-creacion-aplicaciones-para-escritorio"> 📲 CREACIÓN APLICACIONES PARA MÓVILES</a>
+## <a name="-creacion-aplicaciones-para-moviles"> 📲 CREACIÓN APLICACIONES PARA MÓVILES</a>
 
 ---
 
