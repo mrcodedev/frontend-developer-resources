@@ -2540,11 +2540,7 @@ La accesibilidad web no se trata solo de navegación por teclado, contraste de c
 
 Vídeo donde podemos ver una breve introduccióin al testing, de una manera sencilla y paso a paso.
 
-🔗 **🏴URL**: https://octuweb.com/testeando-accesibilidad-web/
-
----
-
-https://academind.com/tutorials/javascript-testing-introduction/
+🔗 **🏴URL**: https://academind.com/tutorials/javascript-testing-introduction/
 
 ---
 
