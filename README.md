@@ -8,7 +8,7 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontend Developer.
 
-Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstáculo como puediera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstáculo como pudiera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
 Está dividido en distintos apartados, si encuentras un recurso que no esté aquí y lo ves interesante, puedes hacer una PR para seguir ampliando el catálogo de recursos o simplemente me buscas en Twitter como MrCodeDev y me lo dices para añadirlo.
 
@@ -22,7 +22,7 @@ Quiero agradecer a todas las fuentes de los recursos por realizar todo el conten
 
 Aquí tenéis una leyenda de qué es cada recurso que pongo, siempre aparecerá una mano señalando qué tipo de recurso es 👉.
 
-Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Pudes hacerlo a través de este enlace:
+Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Puedes hacerlo a través de este enlace:
 
 [![alt text](https://raw.githubusercontent.com/mrcodedev/frontend-developer-resources/main/images/coffe-share.jpeg)](https://www.buymeacoffee.com/mrcodedev "Buy me a coffee :D")
 
