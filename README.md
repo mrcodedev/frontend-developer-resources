@@ -3151,6 +3151,23 @@ Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid
 
 🔗 **🏳URL**: https://github.com/Fictizia
 
+---
+
+#### 👉📹📚 **🧑‍💻Bootcamp FullStack Gratuito | Javascript, React.js, GraphQL, Node.js, TypeScript y +**
+
+Este gran bootcamp gratuito es dado por el gran @midudev, en el cual aprenderemos muchas tecnologias.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7
+
+---
+
+#### 👉📹📚 **Programando en vivo con Leonidad Esteban**
+
+El gran Leonidas nos propone realizar junto a el distintos proyectos que te ayudaran a poner tus conociminetos
+de HTML5, CSS3 y JS a prueba... y tambien algo de React.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=ScSHSI7TzRw&list=PLHsJ3-ff9dpFtMoPYrfLq0J8wpeX33zQS
+
 <br>
 
 ☝ [Volver al Indice](#indice)
