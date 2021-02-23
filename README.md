@@ -908,11 +908,44 @@ Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha su
 
 ---
 
+### 👉📹 Tipos de datos primitivos en JavaScript
+
+Para saber usar profundamente JavaScript, debemos saber que tipos de datos primitivos tenemos. De la mano de la cocina del código, haremos un repaso de los tipos primitivos.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=cC65D2q5f8I&ab_channel=LaCocinadelC%C3%B3digo
+
+---
+
 #### 👉🖊📚 **Las variables en JS**
 
 Vamos a descubrir las variables en JavaScript y que tipos hay.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables
+
+---
+
+### 👉📹 **var, let o const: ¿cuál debería de usar?**
+
+¿Por qué existen let y const?, ¿con vr no era suficiente?. del código te explica como debemos de utilizar cada uno.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=bvkY9ey83yY&ab_channel=LaCocinadelC%C3%B3digo
+
+---
+
+### 👉📹 **var vs let vs const: diferencias de cada una de ellas**
+
+La cocina del código nos va a enseñar a ver 7 características que tiene cada una de las variables (var, let y const). Veremos sus diferencias y sabremos qué variables tenemos que declarar en JavaScript.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=ojrvxYcKeYg&ab_channel=LaCocinadelC%C3%B3digo
+
+---
+
+### 👉📹 **Scope en JavaScript**
+
+El scope en JavaScript es algo bastante de asimilar en un principio. La cocina del código nos enseñará qué es y como afectan a nuestras variables.
+
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=s-7C09ymzK8&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
@@ -945,6 +978,14 @@ Ya sabemos concatenar cadenas, pues en el siguiente artículo, vamos a utilizar 
 Proseguimos ahora con los arrays, qué es una cosa con la que vamos a tener que estar muy familarizados y saber usar bien sus métodos.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays
+
+---
+
+### 👉📹 **map, filter y reduce en JavaScript***
+
+map, filter y reduce son tres métodos de los más usados que tienen los arrays en JavaScript. La cocina del código nos trae otra entrega donde vamos a ver qué hace cada uno.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=tP8JiVUiyDo&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
