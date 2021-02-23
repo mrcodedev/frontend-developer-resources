@@ -908,9 +908,9 @@ Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha su
 
 ---
 
-### 👉📹 TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT
+### 👉📹 Tipos de datos primitivos en JavaScript
 
-Los TIPOS DE DATOS PRIMITIVOS es el #2 de los 33 CONCEPTOS QUE DEBERÍAS SABER si querés TRABAJAR PROFESIONALMENTE con JavaScript.
+Para saber usar profundamente JavaScript, debemos saber que tipos de datos primitivos tenemos. De la mano de la cocina del código, haremos un repaso de los tipos primitivos.
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=cC65D2q5f8I&ab_channel=LaCocinadelC%C3%B3digo
 
@@ -924,15 +924,15 @@ Vamos a descubrir las variables en JavaScript y que tipos hay.
 
 ---
 
-### 👉📹 var, let o const: ¿cuál debería de usar?
+### 👉📹 **var, let o const: ¿cuál debería de usar?**
 
-¿Por qué existen let y const?, ¿con vr no era suficiente?. La cocina del código te explica como debemos de utilizar cada uno.
+¿Por qué existen let y const?, ¿con vr no era suficiente?. del código te explica como debemos de utilizar cada uno.
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=bvkY9ey83yY&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
-### 👉📹 var vs let vs const: diferencias de cada una de ellas
+### 👉📹 **var vs let vs const: diferencias de cada una de ellas**
 
 La cocina del código nos va a enseñar a ver 7 características que tiene cada una de las variables (var, let y const). Veremos sus diferencias y sabremos qué variables tenemos que declarar en JavaScript.
 
@@ -940,7 +940,7 @@ La cocina del código nos va a enseñar a ver 7 características que tiene cada 
 
 ---
 
-### 👉📹 Scope en JavaScript
+### 👉📹 **Scope en JavaScript**
 
 El scope en JavaScript es algo bastante de asimilar en un principio. La cocina del código nos enseñará qué es y como afectan a nuestras variables.
 
@@ -981,10 +981,9 @@ Proseguimos ahora con los arrays, qué es una cosa con la que vamos a tener que 
 
 ---
 
-### 👉📹 MAP, FILTER y REDUCE EN JAVASCRIPT | JS en ESPAÑOL
+### 👉📹 **map, filter y reduce en JavaScript***
 
-Map, filter y reduce son los tres métodos más usados que tienen los arrays en JavaScript.
-By: La Cocina del Código
+map, filter y reduce son tres métodos de los más usados que tienen los arrays en JavaScript. La cocina del código nos trae otra entrega donde vamos a ver qué hace cada uno.
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=tP8JiVUiyDo&ab_channel=LaCocinadelC%C3%B3digo
 
