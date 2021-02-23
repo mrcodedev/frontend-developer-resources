@@ -908,10 +908,9 @@ Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha su
 
 ---
 
-### 👉📹 TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT | JS en ESPAÑOL
+### 👉📹 TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT
 
 Los TIPOS DE DATOS PRIMITIVOS es el #2 de los 33 CONCEPTOS QUE DEBERÍAS SABER si querés TRABAJAR PROFESIONALMENTE con JavaScript.
-By: La Cocina del Código
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=cC65D2q5f8I&ab_channel=LaCocinadelC%C3%B3digo
 
@@ -925,28 +924,26 @@ Vamos a descubrir las variables en JavaScript y que tipos hay.
 
 ---
 
-### 👉📹 VAR, LET o CONST: ¿CUÁL DEBERÍA USAR? | JS en Español
+### 👉📹 var, let o const: ¿cuál debería de usar?
 
-¿Por qué existen LET y CONST? ¿Con VAR no era suficiente? ¿CUÁL DEBERÍA USAR?
-By: La Cocina del Código
+¿Por qué existen let y const?, ¿con vr no era suficiente?. La cocina del código te explica como debemos de utilizar cada uno.
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=bvkY9ey83yY&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
-### 👉📹 VAR vs LET vs CONST: TODAS LAS DIFERENCIAS | JS en ESPAÑOL
+### 👉📹 var vs let vs const: diferencias de cada una de ellas
 
-VAMOS A COMPARAR 7 CARACTERÍSTICAS que tienen VAR, LET y CONST entre sí para CONOCER LAS DIFERENCIAS entre estas tres maneras de DECLARAR VARIABLES EN JAVASCRIPT.
-By: La Cocina del Código
+La cocina del código nos va a enseñar a ver 7 características que tiene cada una de las variables (var, let y const). Veremos sus diferencias y sabremos qué variables tenemos que declarar en JavaScript.
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=ojrvxYcKeYg&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
-### 👉📹 EL SCOPE en JAVASCRIPT | JS en ESPAÑOL
+### 👉📹 Scope en JavaScript
 
-El SCOPE en JAVASCRIPT es lo que le da SIGNIFICADO a las variables y además DETERMINA el CONJUNTO DE VARIABLES que podemos ACCEDER en cada línea de código.
-By: La Cocina del Código
+El scope en JavaScript es algo bastante de asimilar en un principio. La cocina del código nos enseñará qué es y como afectan a nuestras variables.
+
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=s-7C09ymzK8&ab_channel=LaCocinadelC%C3%B3digo
 
