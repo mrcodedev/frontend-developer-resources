@@ -908,11 +908,47 @@ Hemos realizado el primer contacto con JavaScript pero da un error, ¿qué ha su
 
 ---
 
+### 👉📹 TIPOS DE DATOS PRIMITIVOS en JAVASCRIPT | JS en ESPAÑOL
+
+Los TIPOS DE DATOS PRIMITIVOS es el #2 de los 33 CONCEPTOS QUE DEBERÍAS SABER si querés TRABAJAR PROFESIONALMENTE con JavaScript.
+By: La Cocina del Código
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=cC65D2q5f8I&ab_channel=LaCocinadelC%C3%B3digo
+
+---
+
 #### 👉🖊📚 **Las variables en JS**
 
 Vamos a descubrir las variables en JavaScript y que tipos hay.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables
+
+---
+
+### 👉📹 VAR, LET o CONST: ¿CUÁL DEBERÍA USAR? | JS en Español
+
+¿Por qué existen LET y CONST? ¿Con VAR no era suficiente? ¿CUÁL DEBERÍA USAR?
+By: La Cocina del Código
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=bvkY9ey83yY&ab_channel=LaCocinadelC%C3%B3digo
+
+---
+
+### 👉📹 VAR vs LET vs CONST: TODAS LAS DIFERENCIAS | JS en ESPAÑOL
+
+VAMOS A COMPARAR 7 CARACTERÍSTICAS que tienen VAR, LET y CONST entre sí para CONOCER LAS DIFERENCIAS entre estas tres maneras de DECLARAR VARIABLES EN JAVASCRIPT.
+By: La Cocina del Código
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=ojrvxYcKeYg&ab_channel=LaCocinadelC%C3%B3digo
+
+---
+
+### 👉📹 EL SCOPE en JAVASCRIPT | JS en ESPAÑOL
+
+El SCOPE en JAVASCRIPT es lo que le da SIGNIFICADO a las variables y además DETERMINA el CONJUNTO DE VARIABLES que podemos ACCEDER en cada línea de código.
+By: La Cocina del Código
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=s-7C09ymzK8&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
@@ -945,6 +981,15 @@ Ya sabemos concatenar cadenas, pues en el siguiente artículo, vamos a utilizar 
 Proseguimos ahora con los arrays, qué es una cosa con la que vamos a tener que estar muy familarizados y saber usar bien sus métodos.
 
 🔗 **🏳URL**: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays
+
+---
+
+### 👉📹 MAP, FILTER y REDUCE EN JAVASCRIPT | JS en ESPAÑOL
+
+Map, filter y reduce son los tres métodos más usados que tienen los arrays en JavaScript.
+By: La Cocina del Código
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=tP8JiVUiyDo&ab_channel=LaCocinadelC%C3%B3digo
 
 ---
 
