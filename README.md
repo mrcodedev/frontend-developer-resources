@@ -2127,6 +2127,14 @@ En este caso, da tus primeros pasos de la mano de Mozilla.
 
 ---
 
+#### 👉📹📚 **Vue JS Crash Course 2021**
+
+Curso intensivo en inglés de Vue 3 con un enfoque practico.
+
+🔗 **🏴URL**: https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia
+
+---
+
 #### 👉🖊📚 **Angular Tour of Heroes**
 
 Aunque esté en Inglés, el tutorial de "Tour of Heroes" de Angular es un clásico en la introducción en este framework.
