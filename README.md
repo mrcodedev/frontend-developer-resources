@@ -18,7 +18,7 @@ Acordaros: en este camino del developer, siempre se está en continuo aprendizaj
 
 También quiero comentar (desde mi punto de vista), que los cursos de 0 a experto en 15 minutos, son una pérdida de tiempo. Podemos aprender ciertas cosas, pero no vamos a dominar esa tecnología con soltura. Tenemos que practicar y usarla muchas veces, además de afrontarnos a errores o bloqueos.
 
-Podéis ver una charla que dí sobre el camino del Frontend Developer: https://youtu.be/Xu6C9MqJ2-A. Aquí tenéis las diapositivas: https://docs.google.com/presentation/d/1TSKzqBC_Xnp2BgK5HeILy-PQRSTUHT5S44owUzxPSgk/edit?usp=sharing
+Podéis ver una charla que realicé hablando sobre el camino del Frontend Developer: https://youtu.be/Xu6C9MqJ2-A. Las diapositivas de la charla están aquí por si queréis echarle un vistazo: https://docs.google.com/presentation/d/1TSKzqBC_Xnp2BgK5HeILy-PQRSTUHT5S44owUzxPSgk
 
 Quiero agradecer a todas las fuentes de los recursos por realizar todo el contenido para que todo el mundo, sea cual sea su situación económica, pueda empezar a dar sus pasos en la programación con JavaScript, y a todas las personas que me habéis facilitado recursos.
 
