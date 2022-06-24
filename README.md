@@ -26,9 +26,9 @@ Aquí tenéis una leyenda, para saber qué es cada recurso, siempre aparecerá u
 
 Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Puedes hacerlo a través de este enlace:
 
-[![alt text](https://raw.githubusercontent.com/mrcodedev/frontend-developer-resources/main/images/coffe-share.jpeg)](https://www.buymeacoffee.com/mrcodedev "Buy me a coffee :D")
+[![alt text](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11ddcc39341db4958c5cc_Supportbutton.png)](https://ko-fi.com/mrcodedev "Buy me a Ko-Fi :D")
 
-👉☕️ https://www.buymeacoffee.com/mrcodedev
+👉☕️ https://ko-fi.com/mrcodedev
 
 | Emoji | ¿Qué significa?                              |
 | ----- | -------------------------------------------- |
