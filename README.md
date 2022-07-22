@@ -3360,6 +3360,14 @@ Tutorial de linea de comandos de la mano de DjangoGirls, en este caso tenemos in
 
 🔗 **🏳URL**: https://tutorial.djangogirls.org/es/intro_to_command_line/
 
+---
+
+#### 👉🖊 **JavaScript Tutorial**
+
+Tutorial de JavaScript de Scaler Topics. Aprende JavaScript desde cero con este completo tutorial.
+
+🔗 **🏳URL**: https://www.scaler.com/topics/javascript/
+
 <br>
 
 ☝ [Volver al Indice](#indice)
