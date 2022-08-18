@@ -1453,12 +1453,6 @@ Tutorial de JavaScript de Scaler Topics. Aprende JavaScript desde cero con este 
 
 <br>
 
-<br>
-
-☝ [Volver al Indice](#indice)
-
-<br>
-
 ---
 
 ## 🛂 CONTROL DE VERSIONES
