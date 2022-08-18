@@ -1431,11 +1431,21 @@ Colección de paradigmas, algoritmos y enfoques clásicos de la informática esc
 
 🔗 **🏴URL**: https://github.com/humanwhocodes/computer-science-in-javascript
 
+---
+
 #### 👉📦 **JavaScript: mejores prácticas**
 
 Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y fácil de mantener con lecciones prácticas y claras en arquitectura de aplicaciones, administración de paquetes, herramientas, atajos, devoluciones de llamada, clases, control de flujo y mucho más.
 
 🔗 **🏴URL**: https://www.sitepoint.com/premium/books/javascript-best-practice/read/1?fromBlog=true&campaign=js-best-practice-reader
+
+---
+
+#### 👉🖊 **JavaScript Tutorial**
+
+Tutorial de JavaScript de Scaler Topics. Aprende JavaScript desde cero con este completo tutorial.
+
+🔗 **🏳URL**: https://www.scaler.com/topics/javascript/
 
 <br>
 
@@ -3360,8 +3370,8 @@ Tutorial de linea de comandos de la mano de DjangoGirls, en este caso tenemos in
 
 🔗 **🏳URL**: https://tutorial.djangogirls.org/es/intro_to_command_line/
 
-<br>
+---
 
-☝ [Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)	
 
 <br>
