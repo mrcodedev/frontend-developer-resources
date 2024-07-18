@@ -3308,6 +3308,14 @@ Desde la w3schools tenemos distintos ejemplos de como realizar desde una cabecer
 
 ---
 
+#### 👉📚 **Más de 400 mejores recursos para desarrolladores**
+
+Una colección cada vez mayor de las herramientas y sitios web para desarrolladores más útiles en un solo lugar.
+
+🔗 **🏴URL**: https://webcurate.co/c/developer
+
+---
+
 #### 👉📦📑 **APIs públicas**
 
 APIs para usar en tus pet projects o en proyectos de pruebas.
