@@ -3375,3 +3375,8 @@ Tutorial de linea de comandos de la mano de DjangoGirls, en este caso tenemos in
 ☝ [Volver al Indice](#indice)	
 
 <br>
+
+
+Hola solo estoy aprendiendo cosas sobre GitHub... si ves algún Pull request por aqui fue porque de seguro estoy aprendiendo o me equivoqué jeje
+
+Está increible este repo por cierto!
