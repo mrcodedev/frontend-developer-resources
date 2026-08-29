@@ -2682,6 +2682,14 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 
 🔗 **🏳URL**: https://www.youtube.com/watch?v=QdqIqGPsLW0
 
+---
+
+#### 👉📦 **Agent QA**
+
+Agent QA es una herramienta de QA con código fuente disponible para escribir y ejecutar pruebas web y móviles en lenguaje natural. El software no tiene coste para los usos permitidos, aunque los servicios externos de modelos, navegadores o dispositivos que configures pueden cobrar por separado.
+
+🔗 **🏴URL**: https://github.com/vostride/agent-qa
+
 <br>
 
 ☝ [Volver al Indice](#indice)
