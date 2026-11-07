@@ -3267,6 +3267,14 @@ Retos desde: responsive web developer, frontend-developer, fullstack developer, 
 
 ---
 
+#### 👉🛠 **KaijuConverter**
+
+Conversor universal de archivos gratuito en español y en línea. Convierte más de 100 formatos de documentos (PDF, Word, Markdown), imágenes (WebP, SVG, AVIF, PNG), vídeo y audio con procesamiento ultrarrápido y API para desarrolladores.
+
+🔗 **🏳URL**: https://kaijuconverter.com/es
+
+---
+
 #### 👉❓ **Google/Duckduckgo**
 
 Dirás, ¿este se le ha ido la cabeza?, pues no. Un buscador siempre nos va a salvar en muchas ocasiones, y tenemos que saber buscar. Os doy el consejo de buscar siempre lo que queráis en inglés.
